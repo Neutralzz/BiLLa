@@ -15,7 +15,7 @@ BiLLa是开源的推理能力增强的中英双语LLaMA模型。模型的主要�
 ## 模型简介
 
 该模型以原始LLaMa模型为基础，进行了如下三个阶段的训练。
-- 第一阶段：扩充中文词表，使用中文预训练预料[Wudao](https://www.sciencedirect.com/science/article/pii/S2666651021000152)、英文预训练预料[PILE](https://arxiv.org/abs/2101.00027)、翻译预料[WMT](https://www.statmt.org/wmt22/translation-task.html)的中英数据进行二次预训练。
+- 第一阶段：扩充中文词表，使用中文预训练语料[Wudao](https://www.sciencedirect.com/science/article/pii/S2666651021000152)、英文预训练语料[PILE](https://arxiv.org/abs/2101.00027)、翻译语料[WMT](https://www.statmt.org/wmt22/translation-task.html)的中英数据进行二次预训练。
 - 第二阶段：训练数据在第一阶段基础上增加任务型数据，训练过程中两部分数据保持1:1的比例混合。任务型数据均为NLP各任务的主流开源数据，包含有数学解题、阅读理解、开放域问答、摘要、代码生成等，利用ChatGPT API为数据标签生成解析，用于训练提升模型对任务求解逻辑的理解。
 - 第三阶段：保留第二阶段任务型数据，并转化为对话格式，增加其他指令数据（如[Dolly 2.0](https://github.com/databrickslabs/dolly)、[Alpaca GPT4](https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM)、[COIG](https://huggingface.co/datasets/BAAI/COIG)等），进行对齐阶段的微调。
 
@@ -47,7 +47,7 @@ Assistant:
 ## 模型评测
 
 ### 语言建模能力
-本项目在Conditional Generation任务上评估模型的语言建模能力，在纯英文和中英混合的测试集上计算模型的Perplexity指标。
+本项目通过Conditional Generation评估模型的语言建模能力，在纯英文和中英混合的测试集上计算模型的Perplexity指标。
 
 纯英文测试集为1000条PILE语料，中英混合测试集为1000条PILE加1000条WuDao语料，测试集数据均未参与BiLLa的训练，评测指标如下：
 | ​                          | ​中英混合 | 英文​ |
