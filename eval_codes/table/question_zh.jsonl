@@ -1,0 +1,1000 @@
+{"question_id": 1, "text": "请你写出一个可以生成五个不同随机数的 Python 程序。", "category": "coding"}
+{"question_id": 2, "text": "回答以下问题的答案。\n中国有多少个省？", "category": "open qa"}
+{"question_id": 3, "text": "什么是机器学习？它有哪些应用场景？", "category": "open qa"}
+{"question_id": 4, "text": "提供一个主题，让学生进行头脑风暴，产生关于该主题的想法。\n如何提高城市化水平。", "category": "brainstorming"}
+{"question_id": 5, "text": "针对给定的主题，进行头脑风暴并记录所有想法。\n如何提高公司的销售额？", "category": "brainstorming"}
+{"question_id": 6, "text": "给出一份关于健康饮食的简短建议。", "category": "brainstorming"}
+{"question_id": 7, "text": "思考并提出五个解决日常生活问题的创新或改进方法。", "category": "brainstorming"}
+{"question_id": 8, "text": "请分类以下5种水果：香蕉、西瓜、苹果、草莓、葡萄。", "category": "classification"}
+{"question_id": 9, "text": "给定下面的两个列表，使用Python解释器找到它们之间的相同元素。\nList1：[1, 2, 3, 4, 5, 6]   List2：[4, 5, 6, 7, 8, 9]", "category": "coding"}
+{"question_id": 10, "text": "解释什么是自然语言处理，列出至少两个自然语言处理应用场景。", "category": "open qa"}
+{"question_id": 11, "text": "回答一个开放性的问题：人类存在的意义是什么？", "category": "open qa"}
+{"question_id": 12, "text": "回答下面的问题：为什么太阳会发光？", "category": "open qa"}
+{"question_id": 13, "text": "请回答以下问题：世界上最早的已知写作是由哪个文明编写的？", "category": "open qa"}
+{"question_id": 14, "text": "请编写一段 Python 代码来计算并输出前100个质数。", "category": "coding"}
+{"question_id": 15, "text": "将下列单词按词性分类。\n狗，追，跑，大人，高兴，树", "category": "classification"}
+{"question_id": 16, "text": "请给出以下数学问题的答案：10 ÷ 2 × (5-2)^2 + 7", "category": "math"}
+{"question_id": 17, "text": "回答以下问题：世界上最长的河流是什么？", "category": "open qa"}
+{"question_id": 18, "text": "以给定的主题为基础，为一组关键字编写一个短文。\n主题：旅游\n关键字：海滩、度假、美食、文化", "category": "generation"}
+{"question_id": 19, "text": "请总结一篇长篇小说的内容，并包括主要角色的名称和情节转折点。", "category": "brainstorming"}
+{"question_id": 20, "text": "回答以下问题：人类和猫之间的基因差异是多少？", "category": "open qa"}
+{"question_id": 21, "text": "根据以下新闻提供其摘要。中国计划于2022年发射首款太空站核心舱，这是中国空间计划中的一个重要进展。这个名为“天和”的太空站将包括三个模块：核心舱、实验舱和天文舱。首次发射的核心舱将用于测试和验证太空站的基本功能，以及进行相关科学研究和技术试验。中国国家航天局表示，“天和”太空站的建设将继续进行，预计在2022年至2024年期间完成。该太空站的完工将为中国在太空中展开多个方面的科学研究提供平台，使中国成为继俄罗斯和美国之后拥有独立太空站能力的第三个国家。", "category": "summarization"}
+{"question_id": 22, "text": "给出一段文本，为其中每一段落写一个标题。文本1：由于全球变暖，海平面正在上升。新的报告指出，下一个世纪内，海平面可能会上升超过3英尺。到那时，许多城市和国家将受到严重影响。文本2：在过去的十年中，风暴的强度和频率也持续增加。研究表明，这与温室气体的排放有关。随着时间的推移，这种情况还可能会加剧，导致更多破坏和人员伤亡。", "category": "summarization"}
+{"question_id": 23, "text": "将以下文本翻译为英语：“我最喜欢的季节是春天，因为可以看到美丽的花儿。”", "category": "rewrite"}
+{"question_id": 24, "text": "请将下列电影按照发行年份排序：《肖申克的救赎》、《星际穿越》、《阿甘正传》", "category": "open qa"}
+{"question_id": 25, "text": "将下列五个词分为两个组别，每个组别都有一个共同点：狗、猫、鸟、鱼、蛇。", "category": "classification"}
+{"question_id": 26, "text": "针对以下问题提供解决方案：如何最大化你的工作效率？", "category": "brainstorming"}
+{"question_id": 27, "text": "列举三个种类不同的动物，并说明它们的特点。", "category": "brainstorming"}
+{"question_id": 28, "text": "回答下面这个数学问题。如果有5个苹果和3个梨子，总共有多少个水果？", "category": "math"}
+{"question_id": 29, "text": "列出5种可以改善睡眠质量的方法。", "category": "brainstorming"}
+{"question_id": 30, "text": "为一种智能手表编写用户手册，包括详细的使用说明和操作步骤。", "category": "generation"}
+{"question_id": 31, "text": "回答以下问题：谁是美国第一位总统？", "category": "open qa"}
+{"question_id": 32, "text": "描述人类大脑的工作原理。", "category": "open qa"}
+{"question_id": 33, "text": "给定一组文本，将文本分成正面和负面情感。\n举例文本:\n这部电影非常出色，值得推荐。我觉得导演做得很好。\n这场音乐会真是个灾难，我非常失望。", "category": "classification"}
+{"question_id": 34, "text": "介绍以下电影的情节和主题：\n《阿甘正传》", "category": "open qa"}
+{"question_id": 35, "text": "回答下面的问题：电影《泰坦尼克号》中的主演是谁？", "category": "open qa"}
+{"question_id": 36, "text": "扩写下文：我打算去购物，然后去健身房锻炼身体。", "category": "rewrite"}
+{"question_id": 37, "text": "将以下10个单词分类为动物或植物。\n树木、狮子、玫瑰、草地、松鼠、猴子、蘑菇、兔子、山羊、香蕉", "category": "classification"}
+{"question_id": 38, "text": "提出一个新的市场营销策略。", "category": "brainstorming"}
+{"question_id": 39, "text": "根据一个提供的主题或关键词，为我创作一首诗歌。\n秋天", "category": "generation"}
+{"question_id": 40, "text": "根据给定的问题，给出一个适当且准确的回答\n问题: 水的化学式是什么？", "category": "open qa"}
+{"question_id": 41, "text": "为一个英语句子进行翻译，并输出中文翻译。\nI have a dream that one day this nation will rise up and live out the true meaning of its creed: We hold these truths to be self-evident, that all men are created equal.", "category": "rewrite"}
+{"question_id": 42, "text": "回答这个问题。\n什么是伏羲八卦?", "category": "open qa"}
+{"question_id": 43, "text": "翻译以下句子：This book is very interesting.", "category": "rewrite"}
+{"question_id": 44, "text": "给出下列问题的答案：哪些食物富含维生素C？", "category": "open qa"}
+{"question_id": 45, "text": "给以下问题提供一个答案。\n为什么人们应该锻炼身体？", "category": "open qa"}
+{"question_id": 46, "text": "回答以下问题。\n你最喜欢的旅行目的地是哪里？为什么？", "category": "brainstorming"}
+{"question_id": 47, "text": "解释概念：大数据", "category": "open qa"}
+{"question_id": 48, "text": "回答以下问题，确保答案准确无误。\n什么是免疫力？", "category": "open qa"}
+{"question_id": 49, "text": "以以下文本为基础，编写一封邀请信。\n你好！我们很高兴地邀请你参加我们的婚礼，时间是2022年6月30日，地点是北京。", "category": "generation"}
+{"question_id": 50, "text": "将以下文本翻译成英语语：我想去旅行并尽可能多地了解世界上的文化。", "category": "rewrite"}
+{"question_id": 51, "text": "对以下主题提出3个开放式问题。主题：健康的生活方式。", "category": "brainstorming"}
+{"question_id": 52, "text": "生成一段描述一个美丽自然风景的文章。", "category": "generation"}
+{"question_id": 53, "text": "回答下面的问题。\n为什么植物需要光合作用？", "category": "open qa"}
+{"question_id": 54, "text": "从以下选项中选择正确的词汇填空以完整下面的句子。 他喜欢去_______看电影。A) 邮局 B）超市 C）电影院 D）音乐会", "category": "closed qa"}
+{"question_id": 55, "text": "针对一个产品的特点，为其撰写市场推广文案。", "category": "generation"}
+{"question_id": 56, "text": "请列举5个适合在户外进行的锻炼运动。", "category": "brainstorming"}
+{"question_id": 57, "text": "给出以下历史事件的日期。\n二战结束的日期是？", "category": "open qa"}
+{"question_id": 58, "text": "将下面的语句翻译成英语。\n巴黎圣母院（法语：Notre-Dame de Paris）是法国一座哥特式教堂，位于巴黎市中心塞纳河畔的圣母岛（île de la Cité）。它是巴黎市最著名的地标建筑之一，也是世界上最著名的哥特式建筑之一，是法国最具代表性的建筑之一。该建筑始建于1163年，历时200余年，是中世纪后期法国哥特式建筑的杰作之一。", "category": "rewrite"}
+{"question_id": 59, "text": "解释微生物学是关于什么的学科。", "category": "open qa"}
+{"question_id": 60, "text": "给出五个原创的古诗或现代诗句子。", "category": "brainstorming"}
+{"question_id": 61, "text": "根据所给的一组描述，生成一个复杂的、高质量的文本小说片段。\n小美独自一人探险，她感觉到了一种奇怪的气息，如释重负般的感觉从她身上落下。", "category": "generation"}
+{"question_id": 62, "text": "回答下列问题。\n红绿灯的颜色分别代表什么？", "category": "open qa"}
+{"question_id": 63, "text": "思考一个关于社交媒体的主题并列举10个相关问题，用于市场营销的研究。", "category": "brainstorming"}
+{"question_id": 64, "text": "描述一下如何制作一道有名的本地菜肴，并将步骤列出来。\n本地菜肴：麻婆豆腐", "category": "brainstorming"}
+{"question_id": 65, "text": "根据以下资料，为公司编写一个招聘广告：公司名称：ABC科技，职位：软件工程师，要求：熟练掌握Java，有2年以上工作经验。", "category": "generation"}
+{"question_id": 66, "text": "回答以下问题：为什么时间管理如此重要？", "category": "open qa"}
+{"question_id": 67, "text": "请根据以下给定的基本信息标准对产品进行分类。\n以下是一些鞋子的基本信息：\n- 品牌：Nike, Adidas, Puma, Converse\n- 颜色：黑色、白色、红色、蓝色、绿色、黄色\n- 尺码：34、35、36、37、38、39、40、41、42、43、44、45\n- 款式：休闲鞋、运动鞋、篮球鞋、跑步鞋\n请为以下三种鞋子分类：\n- Nike Air Max，黑色，43码，运动鞋\n- Adidas Superstar，白色，38码，休闲鞋\n- Puma Clyde Court，红色，41码，篮球鞋", "category": "classification"}
+{"question_id": 68, "text": "根据给出的场景， 回答以下问题：\n场景：你的朋友骑自行车行驶在道路上。\n你的朋友在路上遭遇车祸，你应该采取哪些紧急措施？", "category": "open qa"}
+{"question_id": 69, "text": "对以下两篇文章进行比较，确定它们是否讨论了相同的话题。输入两篇文章的文本内容，输出是“是”或“否”。\n文章1：Python是一种解释型、面向对象、动态数据类型的高级程序设计语言。Python由Guido van Rossum创建，第一个公开发行版发行于1991年。目前，Python是一种流行的编程语言，被广泛应用于Web开发、科学计算、人工智能等领域。\n文章2：Java是一种高级程序设计语言和计算机平台。它的设计最初是由James Gosling在Sun Microsystems进行的。自从2009年Oracle收购了Sun以来，Java就成为Oracle的产品。Java可以在不同的计算机平台上编写一次程序，然后在这些平台上运行多次。", "category": "closed qa"}
+{"question_id": 70, "text": "回答问题：'哪种编程语言最常用？'", "category": "brainstorming"}
+{"question_id": 71, "text": "给出一个主题，编写一个段落描述该主题。\n中国传统节日——中秋节", "category": "generation"}
+{"question_id": 72, "text": "请组织一个有关工作流程的头脑风暴，并记录所有的步骤。", "category": "brainstorming"}
+{"question_id": 73, "text": "为以下句子选择一个正确的分类：\n“汉堡王”是什么餐厅类型？\n快餐、家庭式、正式餐厅、自助餐厅等。", "category": "closed qa"}
+{"question_id": 74, "text": "经纪人：您好，欢迎来到我们的房地产中介公司。我是经纪人李先生，有什么可以帮到您的？\n客户：您好，我正在寻找一套适合家庭居住的房子。我想了解一下您们的房源情况。\n经纪人：当然，我们有许多不同类型和价位的房源。请问您对房子的具体要求是什么？\n客户：我们需要三个卧室，最好有两个浴室。还要有停车位和一个小花园。\n经纪人：好的，我明白了。我们有一些符合您要求的房源。比如说，有一套在市中心的独栋别墅，有三个卧室、两个浴室，还有一个大花园和停车位。价格是350万人民币。\n客户：听起来不错。不过这个价位有点高，您还有别的选择吗？\n经纪人：当然。我们还有一些价格更为实惠的房源，比如说在郊区的联排别墅，也有三个卧室和两个浴室，还有一个小花园和停车位。价格是200万人民币。\n客户：那这个房子的交通和周边环境怎么样？\n经纪人：交通方便，附近有公交车站和地铁站。周边环境也很好，有超市、学校、医院等配套设施。\n客户：好的，我需要考虑一下。您能给我留下房源的资料和联系方式吗？\n经纪人：当然，这是房源的资料和我的名片。您可以拿去参考和联系我。如果您有任何其他问题，请随时联系我。\n基于以上对话回答：客户最终是否选择了其中一个房源？如果没有，经纪人是否向客户提供了更多的选择，或者继续与客户沟通以满足客户的需求？", "category": "closed qa"}
+{"question_id": 75, "text": "参与者1：大家好，欢迎来到今天的会议，我们的主题是讨论定价。\n参与者2：非常感谢主持人邀请我参加这个会议，我认为定价是一个非常重要的话题。\n参与者3：我同意，定价可以直接影响到产品的销售和利润。所以我们需要仔细讨论。\n参与者1：好的，那么我们先从了解我们的产品和市场需求开始。我们的产品主要是高端家电，市场需求也比较强。\n参与者2：那么我们应该考虑设置一个高价，以提高产品的质量感和品牌形象。\n参与者3：但是如果价格太高，会不会导致销量下降呢？我们需要考虑消费者的购买能力和竞争对手的价格。\n参与者1：确实如此，我们需要进行市场调查和分析，了解我们的目标客户和竞争对手的价格情况。\n参与者2：如果我们要设置一个较高的价格，我们需要在产品的质量、设计和功能上下功夫，以确保我们的产品与竞争对手有区别。\n参与者3：我们还需要考虑到季节性变化和促销活动对定价的影响，以便制定不同的定价策略。\n参与者1：好的，那么我们现在来总结一下。我们需要进行市场调查和分析，了解目标客户和竞争对手的价格情况，同时注重产品质量、设计和功能，以确保我们的产品与竞争对手有区别，制定不同的定价策略以适应季节性变化和促销活动。\n请问：会议TODO是什么", "category": "closed qa"}
+{"question_id": 76, "text": "姓名,年龄,性别,职业,教育程度,婚姻状况,所在城市\n张三,25,男,软件工程师,本科,未婚,北京\n李四,36,女,医生,博士,已婚,上海\n王五,42,男,律师,硕士,已婚,广州\n赵六,28,女,市场营销经理,本科,未婚,深圳\n刘七,31,男,金融投资顾问,硕士,已婚,杭州\n孙八,29,女,设计师,本科,已婚,成都\n钱九,27,男,职业选手,高中,未婚,武汉\n这7个人中，哪个人的职业与其教育程度最为匹配？", "category": "closed qa"}
+{"question_id": 77, "text": "客服：您好，欢迎拨打中国移动客户服务热线，我是10086客服，您有什么问题需要咨询？\n用户：您好，我想查询一下我的手机话费和流量使用情况。\n客服：好的，麻烦您告诉我一下您的手机号码。\n用户：我的手机号码是13812345678。\n客服：好的，让我查一下。您的话费余额是200元，已使用流量为2GB，剩余流量为8GB。\n用户：好的，那请问我的套餐是什么，包含多少话费和流量呢？\n客服：您的套餐是XX套餐，每月包含100元话费和10GB流量，超出部分将按照标准资费收取。如果您需要升级套餐或者办理其他业务，可以登录中国移动APP或者前往营业厅办理。\n用户：好的，我知道了。还有一个问题，我想取消一项业务，怎么办？\n客服：您可以登录中国移动APP或者前往营业厅取消相关业务，或者拨打10086客服热线咨询取消业务的具体流程。\n请问：用户想要查询的是什么？", "category": "closed qa"}
+{"question_id": 78, "text": "水果种类,1月销售量,2月销售量,3月销售量,1季度销售额\n苹果,200,180,300,$20,000\n香蕉,300,350,400,$23,000\n橙子,150,200,180,$12,000\n葡萄,120,90,100,$8,000\n草莓,80,100,120,$6,000\n樱桃,50,70,80,$4,500\n菠萝,60,80,100,$6,500\n柠檬,90,110,120,$7,500\n哪种水果在第一季度内销售最好？", "category": "closed qa"}
+{"question_id": 79, "text": "律师：你好，请问你是来咨询关于什么方面的法律问题？\n客户：嗯，我最近遇到了一个合同纠纷的问题，我想请问一下您的意见。\n律师：好的，请您简要地介绍一下这个合同纠纷的情况。\n客户：我是和一家公司签订了一份合同，他们承诺要在一个月内为我提供一定数量的产品，但是一个月过去了，他们却没有按照约定履行。\n律师：那么你们的合同中有没有明确的交付时间和方式？\n客户：有的，合同中明确规定了一个月内必须交付，交付方式是快递邮寄。\n律师：那么你是否在规定时间内向对方提出过交付的要求呢？\n客户：是的，我在最后一天向他们发了邮件提出交付的要求，但是他们并没有给我回复。\n律师：好的，根据你提供的情况，你可以向对方发一份正式的律师函，要求他们按照合同履行义务，并在一定期限内提供产品。\n客户：好的，那我需要准备哪些材料呢？\n律师：你需要提供合同、交付要求的邮件以及其他相关证据，如有必要，我们可以协助你进行进一步的取证工作。\n客户：好的，非常感谢您的帮助。\n基于以上对话回答：客户需要向对方提供哪些材料以支持他发出正式的律师函要求对方履行合同义务？", "category": "closed qa"}
+{"question_id": 80, "text": "根据提供的关键词列表，生成一篇描述这些关键词的段落。\n秋天、枫叶、北方、清寒", "category": "generation"}
+{"question_id": 81, "text": "解释人类脑部如何处理语言信息。", "category": "open qa"}
+{"question_id": 82, "text": "回答下面这个问题。\n谁是哈利波特的好朋友？", "category": "open qa"}
+{"question_id": 83, "text": "请给我一些关于环保的建议。", "category": "brainstorming"}
+{"question_id": 84, "text": "解释一下什么是反向传播算法（Backpropagation Algorithm）。", "category": "open qa"}
+{"question_id": 85, "text": "根据提供的文章摘要写一篇200字的文章。\n文章摘要：一项新的科学研究表明，睡眠不足会导致肥胖和糖尿病等健康问题。", "category": "generation"}
+{"question_id": 86, "text": "创造一个新的品牌名称，并说明它的价值主张。", "category": "brainstorming"}
+{"question_id": 87, "text": "通过哪些方法可以减少塑料污染？", "category": "brainstorming"}
+{"question_id": 88, "text": "请你描述一下自己的家乡，并提到家乡最出名的景点或特产。", "category": "brainstorming"}
+{"question_id": 89, "text": "对给出的文本进行分类：是新闻报道、论文摘要还是小说章节：\n昨天，巨人小队在比赛中取得了胜利。这是巨人小队在本赛季主场的第三场比赛，也是他们取得的第三连胜。巨人小队在比赛中表现出色，运动员们充满斗志地奋战，最终赢得了比赛的胜利。他们的球迷也为他们加油助威，现场气氛非常热烈。这场胜利对于巨人小队来说非常重要，它将激励他们在接下来的比赛中继续保持良好的状态，争取更多的胜利。", "category": "classification"}
+{"question_id": 90, "text": "描述一下如何制作草莓巧克力口味的蛋糕。", "category": "brainstorming"}
+{"question_id": 91, "text": "请回答以下三个问题：\n1. 苹果的主要产地是哪里？2. 葡萄酒中有何种成分？3. 印度的首都是哪里？", "category": "open qa"}
+{"question_id": 92, "text": "提供一个话题并列举五个相关观点。", "category": "brainstorming"}
+{"question_id": 93, "text": "思考并讨论一个新的社交媒体应用程序的特点和功能。", "category": "brainstorming"}
+{"question_id": 94, "text": "分类以下物品，将它们分为可回收、不可回收和其他：手机、废纸、钢笔、茶杯、鸡蛋壳、电视机。", "category": "classification"}
+{"question_id": 95, "text": "用一两句话描述著名的尼罗河是如何形成的。", "category": "open qa"}
+{"question_id": 96, "text": "回答以下问题：在哪里可以找到最好的中式快餐？", "category": "brainstorming"}
+{"question_id": 97, "text": "给我一些有关大熊猫的常识，如它们的生活环境、食物和保护状态。", "category": "open qa"}
+{"question_id": 98, "text": "对一段中文文本进行英文翻译。\n在经济快速发展的今天，旅游已经成为一种时尚，如果你感到工资压力颇大，不防背起背包，来场旅游，舒缓放松下心情，让你重拾对生活和工作的热情。", "category": "rewrite"}
+{"question_id": 99, "text": "列出三个人名，其中两个是历史上的真实人物，第三个是虚构的人物。", "category": "brainstorming"}
+{"question_id": 100, "text": "你喜欢哪种音乐类型？请用三个词来描述。", "category": "brainstorming"}
+{"question_id": 101, "text": "将以下新闻标题翻译成英语。\n特朗普称巴黎气候协议对美国不利", "category": "rewrite"}
+{"question_id": 102, "text": "针对以下文本生成一段新闻报道。\n公司CEO在一次新闻发布会上宣布，本公司拟于明年上市。", "category": "generation"}
+{"question_id": 103, "text": "用提供的材料和信息回答问题：\n面粉、鸡蛋、砂糖、奶油、香草和烤箱是做哪种食品的主要成分？\n以下是一道食谱：预热烤箱，将面粉、鸡蛋、砂糖、奶油和香草混合在一起，搅拌均匀。将混合物倒入烤盘中，放入烤箱，烘烤30分钟。", "category": "open qa"}
+{"question_id": 104, "text": "为以下两个主题提供至少一个可行的策划或解决方案：\n1. 如何在远程工作中维持生产力；2. 如何在社交媒体平台上建立品牌形象。", "category": "brainstorming"}
+{"question_id": 105, "text": "设计一个简单的日历应用程序。", "category": "brainstorming"}
+{"question_id": 106, "text": "将以下电子产品分类为手机、平板电脑或笔记本电脑：iPhone、iPad、MacBook Pro、Surface Pro、Samsung Galaxy Tab S7。", "category": "classification"}
+{"question_id": 107, "text": "请列举出三个加密方法及其优缺点。", "category": "brainstorming"}
+{"question_id": 108, "text": "给定以下摘要，生成一篇完整的文章。摘要：最近发生的一次重大爆炸事件导致数十人死亡。警方正在调查。", "category": "generation"}
+{"question_id": 109, "text": "使用以下句子作为初始观点，列出优点和缺点的清单，并总结出结论。\n社交媒体给我们带来了更多的互动和社交，也让我们更容易联系到远离我们的亲友。", "category": "open qa"}
+{"question_id": 110, "text": "给出一些避免压力和焦虑的建议。", "category": "brainstorming"}
+{"question_id": 111, "text": "给定一个名人，给出关于他们生活、事业或其他方面的某些事实。\n马克·扎克伯格", "category": "open qa"}
+{"question_id": 112, "text": "分析和优化代码。\n以下是一个冗长且效率低下的排序算法，请进行优化。\ndef sort(arr):\n  for i in range(len(arr)):\n    for j in range(i+1, len(arr)):\n      if arr[i] > arr[j]:\n        arr[i], arr[j] = arr[j], arr[i]\n  return arr\nprint(sort([3, 1, 4, 1, 5, 9, 2, 6, 5, 3, 5]))", "category": "coding"}
+{"question_id": 113, "text": "分类以下句子为肯定、否定或中性情感。 句子：'这部电影很好看。', '我不喜欢这首歌。', '这家餐厅的菜很普通。'", "category": "classification"}
+{"question_id": 114, "text": "根据给出的中文文本翻译为英文。\n这是一篇关于环保的文章，其中包含了各种对环境友好的建议。", "category": "rewrite"}
+{"question_id": 115, "text": "牙医：好的，让我们看看你的牙齿。从你的描述和我们的检查结果来看，你可能有一些牙齦疾病，导致牙齿的神经受到刺激，引起了敏感。此外，这些黑色斑点可能是蛀牙。\n病人：哦，真的吗？那我该怎么办？\n牙医：别担心，我们可以为你制定一个治疗计划。我们需要首先治疗牙龈疾病，然后清除蛀牙并填充牙洞。在此过程中，我们将确保您感到舒适，并使用先进的技术和材料来实现最佳效果。\n病人：好的，谢谢您，医生。那么我什么时候可以开始治疗？\n牙医：让我们为您安排一个约会。您的治疗将在两天后开始。在此期间，请继续刷牙，使用牙线，并避免吃过于甜腻和酸性的食物和饮料。\n病人：好的，我会的。再次感谢您，医生。\n牙医：不用谢，我们会尽最大的努力帮助您恢复健康的牙齿。\n基于以上对话回答：病人在检查中发现的牙齿问题有哪些？", "category": "extract"}
+{"question_id": 116, "text": "将以下java代码片段改写成python代码。\npublic static void main(String[] args) {System.out.println(\"Hello, World!\"); }", "category": "coding"}
+{"question_id": 117, "text": "给出一个问题，回答该问题并提供有关支持答案的相关详细信息。\n2022年世界杯在哪里举行？", "category": "open qa"}
+{"question_id": 118, "text": "为以下代码片段编写注释。\ndef factorial(n):\n if n == 0:\n  return 1\n else:\n  return n * factorial(n-1)", "category": "coding"}
+{"question_id": 119, "text": "告诉我关于中国历史上的文化名人或历史事件的三个事实。", "category": "brainstorming"}
+{"question_id": 120, "text": "根据上下文填写空缺部分，补全下面的句子:'幸福是一种__，而不是一种__.'", "category": "brainstorming"}
+{"question_id": 121, "text": "给定以下两个句子，判断它们是否相似。\n一只棕色的小狗在路边玩耍。一条年幼的狗在街上嬉戏。", "category": "open qa"}
+{"question_id": 122, "text": "请描述一种创造性问题解决方法的步骤", "category": "brainstorming"}
+{"question_id": 123, "text": "请用一个同义词替换“开心”：她开心地跑去和她的新朋友玩。", "category": "rewrite"}
+{"question_id": 124, "text": "描绘小说《了不起的盖茨比》的主要情节。", "category": "open qa"}
+{"question_id": 125, "text": "回答下面三个关于音乐的问题：\n问题1：音乐对情绪有何影响？\n问题2：音乐对大脑有何影响？\n问题3：音乐如何影响我们的记忆？", "category": "open qa"}
+{"question_id": 126, "text": "请回答下面这个问题：\n“爱因斯坦获得了多少次诺贝尔奖？”", "category": "open qa"}
+{"question_id": 127, "text": "对于给定的问答对，判断问题是否被正确回答\n问题：地球是第几颗行星？\n答案：地球是第三颗行星。", "category": "closed qa"}
+{"question_id": 128, "text": "将以下文本改写成您自己的话，并在其间添加自己的风格和语言。\n信息技术是21世纪最重要的发展之一", "category": "rewrite"}
+{"question_id": 129, "text": "请提供一个有效的社交媒体运营计划，以增加您的公司/品牌在社交媒体上的关注度。", "category": "brainstorming"}
+{"question_id": 130, "text": "想出10个与未来相关的问题，讨论一下它们的可能答案。", "category": "brainstorming"}
+{"question_id": 131, "text": "用5个步骤解决一个给定问题。\n问题：如何学习一门新语言。", "category": "open qa"}
+{"question_id": 132, "text": "请将以下文本重述为儿童读物的语言风格：佳佳喜欢去公园玩，和朋友们一起玩秋千、滑梯和跷跷板。", "category": "rewrite"}
+{"question_id": 133, "text": "回答下列问题：\nNASA的新任务是“太阳探测器”将开始探索太阳吗？", "category": "open qa"}
+{"question_id": 134, "text": "以下是一些句子，请根据上下文回答问题。\n他昨天晚上吃了一个巨大的汉堡，然后痛苦地感受到了消化不良。 问题：他为什么感到痛苦？", "category": "closed qa"}
+{"question_id": 135, "text": "回答以下问题：地球的半径是多少？", "category": "open qa"}
+{"question_id": 136, "text": "请撰写一篇至少500字的关于隔离期间的思考和体验的文章。", "category": "generation"}
+{"question_id": 137, "text": "给我一个句子，要求长度至少为10个单词，并包含以下三个词：猫，电视，旅行。", "category": "generation"}
+{"question_id": 138, "text": "写一篇有关5G网络研发的综述文章。", "category": "generation"}
+{"question_id": 139, "text": "提供以下问题的答案：谁发明了电话？", "category": "open qa"}
+{"question_id": 140, "text": "写一篇关于给一份简历制作一个有吸引力的封面信的文章。", "category": "generation"}
+{"question_id": 141, "text": "描述一下如何制作芝士披萨。", "category": "brainstorming"}
+{"question_id": 142, "text": "根据给出的事实问题，提供正确的答案。\n问题：谁是2020年法国网球公开赛女单冠军？", "category": "open qa"}
+{"question_id": 143, "text": "请提出三个可能的解决方案，以解决目前面临的问题。\n问题：我们的公司销售额下降了。", "category": "brainstorming"}
+{"question_id": 144, "text": "描述在一个不以人类为中心的角度下，太阳如何影响我们的星球。", "category": "open qa"}
+{"question_id": 145, "text": "请描述冬天的早上感觉是什么样的。", "category": "open qa"}
+{"question_id": 146, "text": "使用提供的两个短语，生成一段至少3句话的对比描述。\n短语1：大海之滨；短语2：森林深处。", "category": "generation"}
+{"question_id": 147, "text": "推荐一款值得购买的手机。", "category": "brainstorming"}
+{"question_id": 148, "text": "在以下文本中，将所有形容词替换为其反义词。\n这个蛋糕显然比其他任何蛋糕都好吃。", "category": "rewrite"}
+{"question_id": 149, "text": "给出下列问题的答案。问题是:\n 什么是心脏病？", "category": "open qa"}
+{"question_id": 150, "text": "回答什么是伦敦塔桥。", "category": "open qa"}
+{"question_id": 151, "text": "回答以下选择题。\n哪个选项是一个编程语言？\nA. HTML\nB. CSS\nC. Java\nD. Photoshop", "category": "closed qa"}
+{"question_id": 152, "text": "根据以下文本回答问题：什么是能量守恒定律？\n物理学是自然科学的一个重要分支，研究自然界的物质、能量、空间和时间等基本概念。在物理学的研究中，科学家们探索了宇宙的奥秘，从微观粒子到宏观天体的各个方面都进行了深入研究。\n在物理学中，一个重要的概念是能量守恒定律。能量守恒定律指出，一个孤立系统的总能量在任何时间都是不变的。也就是说，能量不能被创造或摧毁，只能被转化成其他形式。例如，当一个物体被提起并释放时，它的势能被转化为动能，使得物体开始运动。", "category": "closed qa"}
+{"question_id": 153, "text": "根据以下表格的信息回答问题：《肆式青春》电影中的主演是谁？\n| 电影名称 | 上映时间 | 主演 | 导演 |\n| --- | --- | --- | --- |\n| 肆式青春 | 2021年 | 张子枫、李程彬 | 郭帆 |\n| 网络谜踪 | 2018年 | 约翰·赵、米切尔·拉 | 安尼什·查甘蒂 |\n| 复仇者联盟4：终局之战 | 2019年 | 罗伯特·唐尼、克里斯·埃文斯 | 美国安东尼、乔·罗素 |\n| 美国往事 | 1984年 | 罗伯特·德尼罗、詹姆斯·伍兹 | 赛尔乔·莱翁内 |\n| 小岛惊魂 | 2019年 | 伊万杰琳·莉莉、杰弗里·戴恩·摩根 | 杨紫琼 |", "category": "closed qa"}
+{"question_id": 154, "text": "2023-04-10 08:20:11 [INFO] 用户ID: 102938, 请求打车服务, 起点: 莲花山公园, 终点: 明珠商务广场\n2023-04-10 08:20:15 [DEBUG] 用户ID: 102938, 派单成功, 车辆ID: A12345, 司机姓名: 张三\n2023-04-10 08:25:20 [INFO] 用户ID: 102938, 上车, 车辆ID: A12345, 司机姓名: 张三\n2023-04-10 08:55:32 [INFO] 用户ID: 102938, 下车, 车辆ID: A12345, 司机姓名: 张三, 行程金额: 85.5元\n2023-04-10 08:55:35 [DEBUG] 用户ID: 102938, 支付成功, 金额: 85.5元\n2023-04-11 13:10:45 [INFO] 用户ID: 102938, 请求打车服务, 起点: 世纪大道地铁站, 终点: 欢乐谷\n2023-04-11 13:10:49 [DEBUG] 用户ID: 102938, 派单成功, 车辆ID: B23456, 司机姓名: 李四\n2023-04-11 13:15:01 [INFO] 用户ID: 102938, 上车, 车辆ID: B23456, 司机姓名: 李四\n2023-04-11 13:50:20 [INFO] 用户ID: 102938, 下车, 车辆ID: B23456, 司机姓名: 李四, 行程金额: 120.0元\n2023-04-11 13:50:24 [DEBUG] 用户ID: 102938, 支付成功, 金额: 120.0元\n基于以上日志信息回答：这个用户在2023年4月11日从世纪大道地铁站到欢乐谷的行程中，支付了多少费用？", "category": "closed qa"}
+{"question_id": 155, "text": "用户询问：我想画一幅户型效果图，输入是一个2D户型图，想得到3D的\napi集合描述如下：\n家具库API：该API提供了一个家具库，其中包含各种不同类型和风格的家具，例如沙发、床、桌子等等。用户可以通过此API获取家具库中的对象，并将其添加到户型图中。\n可视化效果API：该API可以将用户生成的2D或3D户型图转化为高质量的渲染图像。用户可以选择不同的视角和光线设置，以及应用不同的滤镜和效果，来生成满意的可视化效果。\n户型图生成API：该API可以接受房屋尺寸、房间数量、门窗位置和布局等信息，自动生成符合用户需求的户型图。\n材料库API：该API提供了一个材料库，其中包含各种不同类型和风格的材料，例如地板、墙壁、天花板等等。用户可以通过此API获取材料库中的对象，并将其应用到户型图中的相应部分。\n分享和导出API：该API允许用户将生成的户型图导出为不同的文件格式，例如PNG、JPEG、PDF等等，以便用户与他人分享和打印。此API还支持将户型图上传至云端存储服务，例如Google Drive和Dropbox，方便用户随时随地访问和编辑。\n请基于用户需求和api描述从api集合中挑选出一个最合适的api", "category": "closed qa"}
+{"question_id": 156, "text": "基于以下信息我们可以得出哪些分析结论？\n20年资产15.41亿，21年资产20.7亿，22年资产23.8亿，23年4月9号资产25.5亿。", "category": "closed qa"}
+{"question_id": 157, "text": "对以下一组商品评论进行情感分类，正面/中立/负面：\n1）价格比其他商家便宜，但质量有点差；2）外观漂亮，但功能不如预期的好；3）使用了几次，感觉很满意。", "category": "classification"}
+{"question_id": 158, "text": "HR: 你好，我是XYZ公司的招聘主管。我很高兴地通知你，你已经通过了我们的初步筛选，并且我们希望邀请你来参加面试。\n候选人：非常感谢，我很高兴收到你们的邀请。请问面试的时间和地点是什么时候和哪里呢？\nHR: 面试的时间是下周二上午10点，地点是我们公司位于市中心的办公室。你会在面试前收到一封详细的面试通知邮件，里面会包含面试官的名字、面试时间和地址等信息。\n候选人：好的，我会准时出席面试的。请问需要我做哪些准备工作呢？\nHR: 在面试前，请确保你已经仔细研究了我们公司的业务和文化，并准备好了相关的问题和回答。另外，请务必提前到达面试现场，以便有足够的时间了解我们的公司和环境。\n候选人：明白了，我会尽最大努力准备好的。非常感谢你的邀请，期待能有机会加入贵公司。\nHR: 很高兴能和你通话，我们也期待着能和你见面。祝你好运，并期待下周能见到你。\n基于以上对话，抽取出其中的时间、地点和事件。", "category": "extract"}
+{"question_id": 159, "text": "为以下词编写一首韵律诗：爱，夜晚，星星，忧伤", "category": "generation"}
+{"question_id": 160, "text": "根据以下的定义，回答问题 '你人生中目前的使命是什么?'。\n定义：人生使命是人在生命中追求的意义和目标，是一种个人追求和社会价值的统一体现。", "category": "closed qa"}
+{"question_id": 161, "text": "给出一个实际的例子来可以解释“摩擦力”的概念。", "category": "brainstorming"}
+{"question_id": 162, "text": "给定两个文本，将它们合并并重构成一份新的文本。\n第一份文本：当今的数字化世界中，大数据的影响日益显现。第二份文本：从社会、经济到环境，大数据的影响异常深远。", "category": "rewrite"}
+{"question_id": 163, "text": "为一份营销资料编写一份FAQ，回答潜在客户可能会提出的问题。", "category": "generation"}
+{"question_id": 164, "text": "解释心理学中“孤独感”的定义和影响。", "category": "open qa"}
+{"question_id": 165, "text": "请回答以下问题并给出相应的解释：为什么人类需要睡觉？", "category": "open qa"}
+{"question_id": 166, "text": "你需要为一家运动健身中心编写一篇博客文章，介绍新近推出的瑜伽班。\n这个瑜伽班是一个初级班，适合初学者和那些希望温和锻炼身体的人。", "category": "generation"}
+{"question_id": 167, "text": "回答问题并提供合适的解释和原因。\n问题：为什么海水是咸的？请提供相应的解释和原因。", "category": "open qa"}
+{"question_id": 168, "text": "简要概述亚马逊公司的历史和业务范围。", "category": "open qa"}
+{"question_id": 169, "text": "请根据以下信息的主旨写一篇总结。\n文章标题：如何成功应对工作压力\n作者：John Smith\n发布时间：2021年5月15日\n正文内容：文章详细介绍了如何识别和缓解工作压力，包括分配任务，时间管理，以及保持健康的生活方式。", "category": "generation"}
+{"question_id": 170, "text": "为一个新的移动应用程序编写使用说明和用户手册，使用户能够成功使用应用程序。", "category": "brainstorming"}
+{"question_id": 171, "text": "针对给定的产品列表，基于其描述将它们分类为家具，电子产品或服装。\n1. 大号沙发，布面料，双人座位；2. 电视机，尺寸：55英寸，4K超高清分辨率；3. 黑色晚礼服，适合晚宴或场合穿着。", "category": "classification"}
+{"question_id": 172, "text": "就以下话题发表意见：\n工作日程管理对于保持工作与生活平衡非常重要。", "category": "brainstorming"}
+{"question_id": 173, "text": "阐述城市化带来的好处和弊端。", "category": "open qa"}
+{"question_id": 174, "text": "给定以下文本段落，提取其中的关键信息。\n今天早上，纽约市长在新闻发布会上宣布了新的计划，旨在减少治安问题。该计划包括增加派遣警察的人数，以及启动社区倡议，以提高居民对警察工作的支持度。", "category": "extract"}
+{"question_id": 175, "text": "对以下陈述进行批判性思考，并提供您的意见\n中国应该全面禁止塑料袋的使用。", "category": "open qa"}
+{"question_id": 176, "text": "请分析以下行业未来的发展趋势：零售行业。", "category": "brainstorming"}
+{"question_id": 177, "text": "列出5个常见的抗生素，并说明它们可以用于治疗哪些疾病。", "category": "open qa"}
+{"question_id": 178, "text": "描述几种防止电脑病毒攻击的方法。", "category": "brainstorming"}
+{"question_id": 179, "text": "请描述一下“云计算”的概念及其应用领域。", "category": "open qa"}
+{"question_id": 180, "text": "解答以下问题。\n为什么银行的利润会随着利率上升而增加？", "category": "open qa"}
+{"question_id": 181, "text": "哪些迹象可能表明一个人正在经历焦虑", "category": "open qa"}
+{"question_id": 182, "text": "针对以下技术问题或错误，提供一个解决方案或修复方案。\n我的电脑突然死机了，该怎么办？", "category": "brainstorming"}
+{"question_id": 183, "text": "用自己的话解释以下词汇：\n幽默。", "category": "open qa"}
+{"question_id": 184, "text": "请根据以下的数据生成一封报告。\n学生A：90分，学生B：80分，学生C：70分", "category": "generation"}
+{"question_id": 185, "text": "回答以下问题并提供理由。\n问题：你认为吸烟应该在公共场所被禁止吗？", "category": "open qa"}
+{"question_id": 186, "text": "判断以下两个句子是否意思相同。是则输出1，否则输出0。\n我飞了十个小时回家。 / 我总共花了十个小时到达家。", "category": "closed qa"}
+{"question_id": 187, "text": "描述一个典型的工作日。", "category": "brainstorming"}
+{"question_id": 188, "text": "对以下句子进行开放式问答。\n《三体》是刘慈欣的一部科幻小说，它获得了雨果奖。", "category": "brainstorming"}
+{"question_id": 189, "text": "请解释下列数学术语：\n平均数、中位数、众数。", "category": "open qa"}
+{"question_id": 190, "text": "描述一下你认为未来的交通将是什么样子。", "category": "brainstorming"}
+{"question_id": 191, "text": "构想一个应用程序的概念，并描述其功能和用途。", "category": "brainstorming"}
+{"question_id": 192, "text": "解答下列问题：\n在目前已知的元素中，哪一个元素的原子序数最大？", "category": "open qa"}
+{"question_id": 193, "text": "写一篇关于如何提高学生阅读能力的文章。", "category": "generation"}
+{"question_id": 194, "text": "根据所提供的一段文本，提取其中的名词列表。\n游戏是一种受人们欢迎的娱乐方式，可以让人们在空闲时间中放松身心、寻找快乐和挑战。我昨天玩的游戏是一款很受欢迎的网络游戏。在这个游戏中，我可以选择不同的角色扮演，并加入到一个虚拟的游戏世界中。在这个世界里，我可以与其他玩家一起探险、战斗、合作或竞争。这个游戏世界非常丰富多彩，有各种各样的任务、关卡和挑战，需要我运用自己的智慧和技能来完成。在游戏中，我结识了很多新朋友，我们一起攻克了很多难关，分享了很多欢笑和成功。整个游戏过程中，我忘却了疲惫和压力，完全沉浸在了游戏的世界里。最终，我通过不断的努力和合作，完成了游戏的所有目标，获得了很多奖励和成就感。我很开心能够在游戏中获得这样的快乐和成就，也感谢这个游戏给我带来了这样的体验和回忆。", "category": "extract"}
+{"question_id": 195, "text": "请对以下文章进行头脑风暴，为其起一个标题。\n在现代社会中，人们越来越注重健康和长寿。", "category": "brainstorming"}
+{"question_id": 196, "text": "在可持续发展的主题下，生成20个可行的项目想法。", "category": "brainstorming"}
+{"question_id": 197, "text": "生成一个有趣的故事，并包含以下元素：\n一个魔法森林，一个小精灵，一只会说话的猫。", "category": "generation"}
+{"question_id": 198, "text": "您是否同意以下这个论点：\n“科技使人类更加孤独。”请陈述您的观点。", "category": "brainstorming"}
+{"question_id": 199, "text": "思考并记录下与“未来交通”相关的想法和概念。", "category": "brainstorming"}
+{"question_id": 200, "text": "重写以下句子以强调工作的重要性：\n我们需要完善我们的项目以确保成功。", "category": "rewrite"}
+{"question_id": 201, "text": "编写python代码实现将一个英文句子所有单词的首字母变成大写。\nI like singing and dancing.", "category": "coding"}
+{"question_id": 202, "text": "问题：帮我想一些整齐的处理数据的方法。", "category": "open qa"}
+{"question_id": 203, "text": "请对以下论点进行辩论并给出最佳观点支持的理由。\n应该将计算机编程教育作为学校必修科目。", "category": "open qa"}
+{"question_id": 204, "text": "给我一些关于减肥的建议。", "category": "brainstorming"}
+{"question_id": 205, "text": "生成一篇500字以上的作文，讨论音乐在人们生活中的意义。", "category": "generation"}
+{"question_id": 206, "text": "根据以下文本摘录，从下面的选项中选择正确的答案：一年有多少个季节？A)1 B)2 C)3 D)4", "category": "closed qa"}
+{"question_id": 207, "text": "针对以下问题提供详细的解决方案。如果问题无法解决，请提供适当的解释。\n为什么我的计算机无法启动？", "category": "brainstorming"}
+{"question_id": 208, "text": "请写一篇关于你的假期经历的随笔。", "category": "generation"}
+{"question_id": 209, "text": "回答下面这个问题：\n为什么互联网上的隐私问题如此棘手？", "category": "brainstorming"}
+{"question_id": 210, "text": "编写一份市场竞争分析报告。\n竞争对手列表和相关数据。", "category": "brainstorming"}
+{"question_id": 211, "text": "根据给定的文本，生成一篇500字的新闻报道。输入可以是任何主题，但请注意避免此新闻与真实新闻相关。\n主题为：小狗被困山洞两天后被救出。", "category": "generation"}
+{"question_id": 212, "text": "从以下三个句子编写一个段落，使其在逻辑上有意义：\n1. 天气晴朗。 \n2. 田地里的作物正在成长。 \n3. 这位农民每天都要努力工作。", "category": "generation"}
+{"question_id": 213, "text": "给我解释量子力学。", "category": "open qa"}
+{"question_id": 214, "text": "列举出五种不同品牌的咖啡，并分别描述它们的特点和口味。", "category": "brainstorming"}
+{"question_id": 215, "text": "描述一下如何使用随机森林模型来进行机器学习分类任务。", "category": "open qa"}
+{"question_id": 216, "text": "下面这个问题的答案是什么？\n问题：哪个音乐家创作了《命运交响曲》？", "category": "open qa"}
+{"question_id": 217, "text": "给我一些关于人类大脑的常识。", "category": "brainstorming"}
+{"question_id": 218, "text": "讲述一个有趣的历史故事。", "category": "brainstorming"}
+{"question_id": 219, "text": "从下面的三个选项中，选择最佳的答案来回答问题。\n问题：谁创造了苹果公司？\n选项：\nA. Steve Jobs。\nB. Bill Gates。\nC. Jeff Bezos。", "category": "closed qa"}
+{"question_id": 220, "text": "给出下面的数据表，回答以下问题：\n有多少种颜色？重量最重/轻的物品是什么？\n物品编号 | 颜色 | 重量\n001 | 红 | 10kg\n002 | 蓝 | 8.5kg\n003 | 黑 | 12.2kg\n004 | 绿 | 4.8kg\n005 | 黄 | 6.1kg\n006 | 白 | 9.9kg", "category": "extract"}
+{"question_id": 221, "text": "请列举5个有关在大学里写论文的提示。", "category": "brainstorming"}
+{"question_id": 222, "text": "根据给定的场景提出三个非常规的解决方案\n您是一家面包店的经理，发现近来销售额下降，需要想出一种创意促销活动。", "category": "brainstorming"}
+{"question_id": 223, "text": "使用下列文字，创作一篇至少200字的短文。\n鲁迅的小说从未脱离过阴暗的底色，那底色是代表一个政治现实以及道德背景的。作为一位独特的文学风格创造者，鲁迅的小说在中国现代文学史上具有重要的地位。", "category": "generation"}
+{"question_id": 224, "text": "列出至少五种方法，可以减少塑料垃圾的产生和消耗。", "category": "brainstorming"}
+{"question_id": 225, "text": "思考下面的问题，并给出答案：如果你从事某项工作，你最喜欢哪个季节？", "category": "brainstorming"}
+{"question_id": 226, "text": "回答以下问题。\n喜鹊是属于哪个科？", "category": "open qa"}
+{"question_id": 227, "text": "请写一个简短的对话，其中一个人询问另一个人如何学习一门外语。", "category": "generation"}
+{"question_id": 228, "text": "重新演绎给定的故事情节并且加入自己的想法。\n故事情节：一个年轻人离家寻找自己的人生道路。", "category": "generation"}
+{"question_id": 229, "text": "回答以下问题：狗的平均寿命是多少岁？", "category": "open qa"}
+{"question_id": 230, "text": "生成一段文字，描述一个尚未实现的想法或计划的详细信息。", "category": "brainstorming"}
+{"question_id": 231, "text": "编写一个python程序，使其能根据给定条件筛选出一份数据集。\n筛选出所有年龄大于等于18岁且收入高于50000美元的人的数据。", "category": "coding"}
+{"question_id": 232, "text": "对以下两个问题进行回答：1.周杰伦是哪里的歌手？2.他的代表作是哪首歌？", "category": "open qa"}
+{"question_id": 233, "text": "根据给出的一组文字，提取其中的关键信息，并用json格式表示\n我们正在中国上海建立一家新的公司，这将是一个创新的里程碑。我们的公司将专注于生物技术领域，致力于研发和生产基因编辑工具，这是一项具有革命性的技术，可以改变我们对基因和生命本质的理解。我们相信，通过这项技术的应用，我们将能够为人类的健康和疾病治疗做出巨大贡献。我们的团队由一群富有经验和专业知识的科学家和技术专家组成，他们深入研究了基因编辑技术多年，并在该领域做出了卓越的贡献。我们的使命是将这一领域的最新科学成果转化为创新的产品，并帮助更多的人受益于这项技术的应用。我们预计在未来几个月内推出我们的第一款产品，这将是一个里程碑式的时刻。我们相信，这款产品将帮助我们在该领域取得重大突破，并为我们的客户提供卓越的产品和服务。我们非常兴奋地迎接这个挑战，我们将不遗余力地努力工作，确保我们的产品能够取得成功。", "category": "extract"}
+{"question_id": 234, "text": "根据提供的文本生成一组问题，并将其输出。\nJohn是一名优秀的学生。他在一所富有声誉的学校就读，他的父母都是医生。", "category": "generation"}
+{"question_id": 235, "text": "针对给定的代码，解释它完成什么任务并给出一些改进建议。\ndef foo():\n return True if x == y else False", "category": "coding"}
+{"question_id": 236, "text": "描述重新设计公司logo的过程", "category": "open qa"}
+{"question_id": 237, "text": "向团队成员提出五个以上激励团队合作的建议。", "category": "brainstorming"}
+{"question_id": 238, "text": "请制定接下来的工作计划。\n我们已经完成了市场分析和用户需求分析，接下来的工作计划是什么？", "category": "brainstorming"}
+{"question_id": 239, "text": "用多种方式描述下雨的感觉。", "category": "open qa"}
+{"question_id": 240, "text": "探讨如何处理大规模数据集的问题，并提供解决方案。", "category": "brainstorming"}
+{"question_id": 241, "text": "给定一个问句，回答它并提供至少3个证据。\n什么是认知心理学？", "category": "brainstorming"}
+{"question_id": 242, "text": "写一篇文章，讨论如何在家庭工作和自我照顾之间取得平衡。", "category": "generation"}
+{"question_id": 243, "text": "您的团队需要制定一份新的项目计划书，请列举出该计划书中必须包含的三个关键要素。", "category": "brainstorming"}
+{"question_id": 244, "text": "将以下英文短句翻译成中文。\nLife is like a box of chocolates, you never know what you're gonna get.", "category": "rewrite"}
+{"question_id": 245, "text": "根据以下句子回答问题：\n句子：张三今年28岁，来自上海，已婚，有一个四岁的孩子。他在一家律师事务所工作，负责处理公司法律事务。\n问题：张三是做什么工作的？", "category": "closed qa"}
+{"question_id": 246, "text": "编写一个有关汽车的描述，涵盖品牌、型号、颜色、燃油类型、最高速度等信息。", "category": "generation"}
+{"question_id": 247, "text": "王先生您好！我是您的客服代表，很高兴跟您聊天。我想通知您，我们安排了一次面聊，以更好地了解您的需求，并介绍我们的服务。面聊将于明天下午2点在公司总部（中关村壹号）举行，大约持续一个小时。如果您有任何问题或需要更多的信息，请随时跟我联系。谢谢您的关注，期待明天跟您见面！\n基于上文写一封邮件，请将其中的时间地点人物替换成<time><location><name>等。", "category": "rewrite"}
+{"question_id": 248, "text": "如果你必须在一周内完成一项重大项目，你会如何安排时间和优先事项？", "category": "open qa"}
+{"question_id": 249, "text": "为给定的一组数据生成摘要性描述。\n以下是一组地震数据，包括地震时间、震级、地震深度等：\n09/01/2021, 3.4级, 10公里深度\n09/02/2021, 5.2级, 20公里深度\n09/02/2021, 2.1级, 5公里深度", "category": "summarization"}
+{"question_id": 250, "text": "根据给定的主旨和若干关键词，撰写一篇有趣的新闻报道。\n主旨：三只猴子逃出动物园。关键词：猴子、动物园、逃跑", "category": "generation"}
+{"question_id": 251, "text": "根据上下文，填写空缺的单词\n我正在学习一门课程，[空]是学习数据科学的必要条件。", "category": "open qa"}
+{"question_id": 252, "text": "请从以下词语中选择填空：......\n句子内容：电视机是一种___机。选项：A.通讯 B.视听 C.娱乐", "category": "closed qa"}
+{"question_id": 253, "text": "思考并列出你认为的十个有效的时间管理技巧。", "category": "brainstorming"}
+{"question_id": 254, "text": "将一个长句拆分成多个短句，每个短句长度不超过15个单词。例如，将“在我看来，这个问题非常困难，因为我没有足够的信息来解决它。”转换为“在我看来，这个问题非常困难。因为我没有足够的信息。来解决它。”\n网络安全是我们必须非常重视的。因为它将直接影响我们的日常生活。比如说，银行账户被黑客攻击是一件很让人害怕的事情。", "category": "rewrite"}
+{"question_id": 255, "text": "编写一份简历模板，着重强调工作经历和技能。", "category": "generation"}
+{"question_id": 256, "text": "为以下三句话找到一个共同的主题/关键词。[句子1]古罗马建筑的独特之处在于其坚固和宏伟的建筑设计。[句子2]当地政府宣布禁止在公共场所吸烟。[句子3]在前往办公室的路上，我经常听音乐来缓解压力。", "category": "extract"}
+{"question_id": 257, "text": "根据以下场景编写一段对话\n场景：在医院里，一个患者向医生描述了自己的疼痛症状", "category": "generation"}
+{"question_id": 258, "text": "为一个在线商店编写一篇关于夏季特惠活动的新闻稿。\n该在线商店是一家提供时尚衣物的网络购物平台。夏季即将来临，该商店决定推出一项盛大的特惠活动，以庆祝这个充满活力的季节。请为此撰写一篇包含以下内容的新闻稿：活动名称、优惠内容、参与方式、活动期限等。", "category": "generation"}
+{"question_id": 259, "text": "请解释“博客”（Blog）的意义和作用。", "category": "open qa"}
+{"question_id": 260, "text": "解释人类自然睡眠周期的不同阶段。", "category": "open qa"}
+{"question_id": 261, "text": "回答下列问题：现在是东部标准时间下午3点，那么英国伦敦现在是几点？", "category": "open qa"}
+{"question_id": 262, "text": "请给我五个关于厨艺的提示。", "category": "brainstorming"}
+{"question_id": 263, "text": "请写一篇关于青少年使用社交媒体的利与弊的文章。", "category": "generation"}
+{"question_id": 264, "text": "解释以下缩写：\nJSON、CEO、PDF、HTML、NASA", "category": "open qa"}
+{"question_id": 265, "text": "回答以下问题：\n什么是牛津大学？", "category": "open qa"}
+{"question_id": 266, "text": "解决以下问题：\n什么是蛋白质？", "category": "open qa"}
+{"question_id": 267, "text": "请解释BERT是如何进行文本分类的。", "category": "open qa"}
+{"question_id": 268, "text": "用你的想象力写一篇关于未来的故事，你可以自由发挥。", "category": "generation"}
+{"question_id": 269, "text": "请简述海豚的特点和生活习性。", "category": "open qa"}
+{"question_id": 270, "text": "回答下列问题：究竟是什么导致了科技泡沫破裂？", "category": "brainstorming"}
+{"question_id": 271, "text": "提供几种解决某一问题的方案。\n如何减轻医学留学的经济负担。", "category": "brainstorming"}
+{"question_id": 272, "text": "回答以下问题：\n茉莉花茶是用什么材料泡制的？", "category": "open qa"}
+{"question_id": 273, "text": "列出三种不同的方法来减轻压力。", "category": "brainstorming"}
+{"question_id": 274, "text": "在给定的短文中找出三个关键词。\n西方的哲学历史可上溯至古希腊时期，最重要的哲学流派包括柏拉图学派、亚里士多德学派和斯多葛学派。", "category": "extract"}
+{"question_id": 275, "text": "描述如何将一个普通的座位变成一个舒适的办公椅，并提供相关建议和要点。", "category": "brainstorming"}
+{"question_id": 276, "text": "在一个团队会议中，为解决一项挑战提出5个不同的解决方案。", "category": "brainstorming"}
+{"question_id": 277, "text": "将给定的邮件分类为垃圾邮件或非垃圾邮件。\n您好，这是一封提醒您缴纳物业费的邮件。", "category": "classification"}
+{"question_id": 278, "text": "对以下几家公司的股票进行价格预测：\n苹果公司，亚马逊公司，微软公司，谷歌公司。", "category": "brainstorming"}
+{"question_id": 279, "text": "解释“市场定价”是什么，并列出三个市场定价策略。", "category": "open qa"}
+{"question_id": 280, "text": "根据以下描述给出一个合适的职业名称。\n描述：这个人在医院中处理和照顾病人，包括测量和记录体温，给药物，处理伤口等。", "category": "closed qa"}
+{"question_id": 281, "text": "提供包含以下所有球员的曼联足球俱乐部历史上的最佳11人阵容：博比·查尔顿、乔治·贝斯特、丹尼斯·劳、雷恩·伯格、金利·加密、威廉·皮琴、洛伊德·梅斯、内维尔·斯托克斯、布莱恩·罗布森、加里·贝利和埃里克·坎东。", "category": "open qa"}
+{"question_id": 282, "text": "请测试以下代码，并给出输出结果。\nfunction greeting(name) {\n console.log(`Hello, ${name}!`);\n}\ngreeting('Alice');", "category": "coding"}
+{"question_id": 283, "text": "根据以下段落，对其中的关键信息进行提取：“2019年，苹果公司发布了一款备受期待的新型Macbook Air笔记本电脑。这款电脑的最大特点是其轻巧的设计，重量仅有2.75磅（约合1.25千克），非常适合携带出行使用。除此之外，新款Macbook Air还拥有非常出色的电池续航能力，可以使用长达12个小时。这意味着用户可以在一天中的大部分时间内不需要进行充电，从而更加方便地使用电脑。此外，新款Macbook Air还采用了更快的处理器和更高的内存容量，以提供更强大的性能和更快的响应速度。这使得它成为一款非常适合用于高效工作和多媒体制作的电脑。总的来说，苹果公司在这款新型Macbook Air中集成了许多出色的技术和设计，使其成为了一款非常强大、便携、耐用的电脑，受到了广大消费者的热烈欢迎。”", "category": "extract"}
+{"question_id": 284, "text": "为什么大部分科幻小说都发生在未来？", "category": "open qa"}
+{"question_id": 285, "text": "请描述如何向一个陌生人介绍自己以建立联系。", "category": "open qa"}
+{"question_id": 286, "text": "对图书馆的评价评分应该如何计算？", "category": "brainstorming"}
+{"question_id": 287, "text": "描述以下概念的定义和应用：虚拟现实（VR）。", "category": "open qa"}
+{"question_id": 288, "text": "为以下公司名称选择最合适的行业类别：Apple，Amazon，Facebook，Walmart。\n行业类别：科技、零售、媒体、超市", "category": "classification"}
+{"question_id": 289, "text": "请解释什么是RESTful API，以及它的优点是什么。", "category": "open qa"}
+{"question_id": 290, "text": "将下列一段文本翻译成中文：\nThe Mona Lisa is a 16th century portrait painted by Leonardo da Vinci.", "category": "rewrite"}
+{"question_id": 291, "text": "给我两个公司名，一个是制造商，一个是零售商。", "category": "brainstorming"}
+{"question_id": 292, "text": "根据以下条件，为以下客户推荐最合适的产品。\n客户年龄：35岁；收入：10万美元/年；已婚，有两个孩子。", "category": "brainstorming"}
+{"question_id": 293, "text": "回答以下问题：版权法是什么？为什么它很重要？", "category": "open qa"}
+{"question_id": 294, "text": "请总结以下对话。\n客户: 你好，我正在寻找一个设计师来设计我的新房子。你能帮我吗？\n房屋设计师: 当然可以。我们可以先讨论一下你的预算和你对这个房子的期望。\n客户: 我的预算是100万左右，我希望我的房子有四个卧室和三个浴室。我还想要一个开放式的厨房和客厅，以及一个带壁炉的起居室。\n设计师: 这听起来像是一个不错的计划。你是否有任何特别的要求，例如可以容纳多少人或者需要额外的储藏空间？\n客户: 我们的家庭有五口人，所以需要足够的空间。此外，我希望有一个带车库的车道，可以容纳两辆车。我还希望有一个带独立浴缸的主卧室套间。\n设计师: 我完全理解你的要求。我们可以为你设计一个非常实用且现代化的房子，以最大化你的生活质量。我们可以用一些高端的材料和设备来装修房子，以确保它的价值和可持续性。\n客户: 非常感谢你的建议。你有什么样的设计理念或者建议吗？\n设计师: 我们可以考虑使用一些环保的材料，例如太阳能电池板、可再生材料和高效能的隔热材料。我们还可以在客厅里添加一些大型的落地窗，以提供更好的自然光线和通风。我们可以设计一个现代化的开放式平面图，以最大化空间利用率和功能性。同时，我们还可以为您提供一些优美的景观设计，例如花园和水景。\n客户: 非常感谢你的建议和建议。听起来这将是一个非常完美的家园。我们期待着看到你的设计。", "category": "summarization"}
+{"question_id": 295, "text": "提供五个拥有高质量音乐内容的在线音乐平台。", "category": "brainstorming"}
+{"question_id": 296, "text": "提供一个公司简介，包括公司名称、使命、主要产品或服务以及其成功之处。", "category": "brainstorming"}
+{"question_id": 297, "text": "为以下问题提供答案：\n你认为是否应该让学生在校内使用手机？", "category": "open qa"}
+{"question_id": 298, "text": "针对以下问题，提供您的个人意见和看法。\n您认为在学校里是否应该开设更多的艺术课程？", "category": "brainstorming"}
+{"question_id": 299, "text": "回答以下问题：\n哪一种花色的扑克牌最多？", "category": "open qa"}
+{"question_id": 300, "text": "设计一款用于远程团队协作的应用程序，具有跨平台功能。", "category": "brainstorming"}
+{"question_id": 301, "text": "编写python程序，查找特定的关键词，并返回与之相关的段落。\n文档是一份公司报告，共有100页，关键词为“收益”和“市场份额”。", "category": "coding"}
+{"question_id": 302, "text": "回答以下问题。您应该写下推理步骤。\n如果小明有6颗糖果，他想分给他的朋友们。他有3个朋友，他想给每个朋友1颗糖果。他还有几颗糖果剩下来？", "category": "math"}
+{"question_id": 303, "text": "解释以下职业的社会刻板印象。\n医生", "category": "open qa"}
+{"question_id": 304, "text": "重新写下这段段落，100字以内，使其更简明易懂。\n对于每一个人来说，了解保险的知识都是非常重要的。保险的作用是为了帮助我们在不可预见的情况下，减轻我们所面临的风险和损失。无论是在道路上开车，还是在家中居住，甚至在经营企业时，保险都扮演了至关重要的角色。在道路上，汽车保险是必不可少的。它可以帮助您支付任何可能发生的车祸所造成的损失。您可以选择不同的保险计划，以满足您的个人需求和预算。例如，您可以选择全保险计划，它可以帮助您支付任何可能发生的事故，包括损坏，盗窃，甚至是自然灾害造成的损失。在家中居住，住房保险是必不可少的。它可以帮助您支付任何可能发生的火灾，地震，水灾等自然灾害造成的损失。此外，如果您的家中被盗，住房保险也可以帮助您支付任何可能的损失。在经营企业时，商业保险是必不可少的。它可以帮助您支付任何可能发生的商业损失，例如盗窃，自然灾害，责任事故等。除此之外，人寿保险也是非常重要的。它可以为您和您的家人提供长期的保障，并为您的家人提供财务保障，以应对您的不幸离去。无论您需要哪种类型的保险，我们的专业团队都将为您制定最佳计划，以满足您的特定需求和预算。在这个不确定的世界里，保险是您必不可少的一部分。与我们联系，让我们帮助您为您和您的家人提供安全保障。", "category": "rewrite"}
+{"question_id": 305, "text": "编写一个python程序，将给定文本中的所有问句用问号分隔并输出。\n你知道Bob在哪里吗？他买了什么？他今天晚上在做什么？", "category": "coding"}
+{"question_id": 306, "text": "将英文文章翻译成中文，注意保持原文内容和风格。\nArticle: The benefits of meditation \nMeditation is a technique that has been practiced for centuries, and it has been shown to have many benefits for both the mind and body. Research has shown that meditation can reduce stress, lower blood pressure, and improve focus and concentration. It can also help with anxiety, depression, and insomnia. Some people use meditation as a tool for spiritual growth and self-discovery. Overall, meditation is a valuable practice that can improve overall well-being.", "category": "rewrite"}
+{"question_id": 307, "text": "为以下所述的课程设计教学大纲，该课程适用于第八年级学生。\n地理：小行星与太阳系", "category": "brainstorming"}
+{"question_id": 308, "text": "回答以下数学问题。您应写出完整的解决方案。\n你有一个容量为3升和一个容量为5升的量杯，现在问你如何量出4升水。", "category": "math"}
+{"question_id": 309, "text": "简述下面这段代码的功能：'for i in range(1, 11): print(i)'", "category": "coding"}
+{"question_id": 310, "text": "描述什么是区块链技术，以及它被广泛应用的领域。", "category": "open qa"}
+{"question_id": 311, "text": "将以下文本翻译成英语。\n我看见国旗正在慢慢的向空中升起，国旗在风中迎风飘扬，大家都在唱着国歌。", "category": "rewrite"}
+{"question_id": 312, "text": "将以下文字从英文翻译成中文：Natural language processing (NLP) is a field of computer science, artificial intelligence, and computational linguistics concerned with the interactions between computers and human languages.", "category": "rewrite"}
+{"question_id": 313, "text": "描述法国大革命的影响。", "category": "open qa"}
+{"question_id": 314, "text": "请解释计算机网络中TCP和UDP协议之间的区别。", "category": "open qa"}
+{"question_id": 315, "text": "从以下选项中，选出不属于哺乳动物的动物。\n(a) 蛇\n(b) 河马\n(c) 豹子\n(d) 海豚", "category": "closed qa"}
+{"question_id": 316, "text": "给出一个关于文化差异的例子，解释为什么差异是存在的。", "category": "brainstorming"}
+{"question_id": 317, "text": "设计一个新产品并列出该产品的优点和缺点。", "category": "brainstorming"}
+{"question_id": 318, "text": "给定一篇文章，为文章写一篇总结。《追风筝的人》这本畅销书的故事发生在阿富汗，以讲述一个阿富汗男孩与他的好友为主线。男孩与好友同龄，却来自两个不同的社会阶层，他们之间的友情超越了社会差异。男孩为了证明自己的勇气，在市集上追逐风筝，并赢得了胜利，但在这个胜利的过程中，他的好友发生了不幸的意外，永远改变了他们的人生。男孩长大后，他逃离了战争的阿富汗，并在美国开始了新的生活，但他内心深处一直承受着过去的痛苦和罪恶感。随着时间的推移，男孩回到阿富汗去寻找他对好友的痛苦的解脱，并希望能够用自己的力量改变那里的社会现实。《追风筝的人》不仅记录了一个男孩成长的故事，还从侧面描绘了阿富汗战争和社会现实的残酷。这本书向我们展示了友情与爱的珍贵，以及一个人如何在面对困境和挑战时保持希望和勇气，去寻求自我救赎和改变社会的责任感。", "category": "summarization"}
+{"question_id": 319, "text": "描述一个完整的哈密尔顿回路是什么。", "category": "open qa"}
+{"question_id": 320, "text": "解释抽象概念“爱情”的意义和意味。", "category": "open qa"}
+{"question_id": 321, "text": "回答以下问题：发动机如何运转？", "category": "open qa"}
+{"question_id": 322, "text": "请描述以下主题的优缺点：在线学习。", "category": "open qa"}
+{"question_id": 323, "text": "请提供至少5个社交媒体平台的名称。", "category": "brainstorming"}
+{"question_id": 324, "text": "翻译给定的句子为中文。\n原文：It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.", "category": "rewrite"}
+{"question_id": 325, "text": "针对一家新餐厅，给出一个家庭套餐菜单。", "category": "brainstorming"}
+{"question_id": 326, "text": "列举三种不同的口语表达方式，可以代替“我不知道”。", "category": "rewrite"}
+{"question_id": 327, "text": "根据一段描述，给出一个人物的性格评价，并提供相关的证据。\n张三是一个善良、有爱心的人。在地震灾难发生后，他义无反顾地冲进了废墟中去搜寻受困的人们，并为他们提供帮助和鼓励。", "category": "brainstorming"}
+{"question_id": 328, "text": "回答下列问题：为什么火车轮子是圆形的？", "category": "open qa"}
+{"question_id": 329, "text": "回答以下问题：如何使花朵更加鲜艳？", "category": "open qa"}
+{"question_id": 330, "text": "询问国际货币基金组织的成立时间是什么时候？", "category": "open qa"}
+{"question_id": 331, "text": "假设你是一名电话销售人员，你需要向潜在客户推销一款保险产品。请列出一些可能用到的开场白和销售话术。", "category": "generation"}
+{"question_id": 332, "text": "请下面这段英文文本翻译成中文。\nThere is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain.", "category": "rewrite"}
+{"question_id": 333, "text": "将其翻译成中文。\nAt the end of the street, there was an old house with a large garden. The house had been abandoned for many years, and the garden was overgrown with weeds and ivy.", "category": "rewrite"}
+{"question_id": 334, "text": "将英文电子邮件翻译成中文。\nDear John, Thank you for your email regarding the upcoming conference. Could you please provide more information on the topics being covered? Best regards, Emily", "category": "rewrite"}
+{"question_id": 335, "text": "解释以下成语：\n意兴阑珊。", "category": "open qa"}
+{"question_id": 336, "text": "根据所提供的文本，提取其中出现频率最高的三个名词，并计算出其出现次数。在这本小说中，主人公是一个名叫亚当的富有商人，他在城市中经营着一家成功的公司。他的事业很成功，他住在一座气派十足的豪宅里，拥有许多物质财富，但是他却感到自己的生活缺乏了什么。尽管他有一个美丽的妻子，但是他觉得自己在情感上非常孤独。他的妻子艾丽丝是一个出色的女人，她非常聪明、善良、美丽而且温柔。然而，她经常忙于自己的事业，只有在工作完成后才有时间陪伴丈夫。而且亚当经常出差，这使得他们的时间更加短缺。亚当发现，他的富有和地位并不能让他感到真正的满足和幸福。他开始思考人生的意义，他想找到一种能够让他感到真正快乐的方法。他试图在工作之余去寻找其他的爱好，例如读书、旅游、参加慈善活动等，但是这些活动并不能真正填补他内心的空虚。最终，亚当决定去寻找真正的爱情和情感上的满足。他开始在社交场合认识各种人，包括一些女性。尽管他有很多机会与其他女性发展感情，但他发现他们并不能让他感到真正的满足和幸福。最终，他明白了一个道理：真正的幸福和满足并不在于拥有更多的物质财富，而是在于拥有一个真正的爱人，能够分享生活中的点滴，一起经历生命中的各种挑战和美好的时刻。", "category": "extract"}
+{"question_id": 337, "text": "回答以下问题：如果一个人在亚洲和非洲之间旅行，他/她会穿越哪个洲际标志？", "category": "open qa"}
+{"question_id": 338, "text": "对以下五本书进行分类：\n《百年孤独》、《人类简史》、《时间简史》、《钢铁是怎样炼成的》、《三体》。", "category": "classification"}
+{"question_id": 339, "text": "翻译文本 - 翻译以下英文句子为汉语：\n One small step for man, one giant leap for mankind.", "category": "rewrite"}
+{"question_id": 340, "text": "选择三种与食品相关的厨房电器，并描述它们各自的功能。", "category": "brainstorming"}
+{"question_id": 341, "text": "列出5个你认为有趣的无人驾驶车辆应用场景。", "category": "brainstorming"}
+{"question_id": 342, "text": "提供一份商业公司的SWOT分析报告，你可以选择任何一家公司。\n公司名：XXX；SWOT分析报告：\n- Strength: 公司创新能力强，拥有强大的品牌影响力；\n- Weakness: 公司市场份额萎缩，缺乏新市场开发能力；\n- Opportunity: 相关行业增长迅速，公司有机会进一步扩大市场份额；\n- Threats: 局部竞争加剧，大量新进入企业对公司造成挑战。", "category": "generation"}
+{"question_id": 343, "text": "回答所给的开放问题，并尽可能提供详细的解释。\n沙漠中如何生存？", "category": "brainstorming"}
+{"question_id": 344, "text": "从给定的文本中识别关键信息并提出相关的问题。\n这篇文章介绍了贝壳找房在中国的扩张过程和策略。其中的关键信息包括贝壳找房是一家互联网房产经纪公司，成立于2017年，并于2019年在美国上市。此外，它使用了人工智能技术来提高房源匹配和房产顾问的效率。", "category": "generation"}
+{"question_id": 345, "text": "回答以下问题并提供一些详细的背景信息：\n我该怎样准备一份面试材料？", "category": "open qa"}
+{"question_id": 346, "text": "请分析说明下列历史事件：\n文艺复兴", "category": "open qa"}
+{"question_id": 347, "text": "解释以下口号的含义：\n身体是革命的本钱。", "category": "open qa"}
+{"question_id": 348, "text": "张伟（Z）、李婷（L）、王刚（W）\nZ：大家好，今天我们来讨论一下如何提高编程效率。首先，我想请教一下大家，你们平时在编程过程中遇到什么问题，导致效率降低？\nL：我觉得编程过程中最影响效率的是代码的可读性。如果代码结构不清晰，函数命名不明确，就会花费大量时间去理解代码逻辑。\nW：我同意李婷的看法。另外，我觉得代码重用性也很重要。如果每次都要写重复的代码，那么效率自然就会降低。\nZ：很好的观点。那么针对这些问题，我们应该采取什么措施来提高编程效率呢？\nL：为了提高代码的可读性，我们可以遵循一些编程规范，比如命名规范、注释规范等。同时，我们还可以使用一些工具，如代码美化工具，来帮助我们更好地组织代码。\nW：对于代码重用性，我们可以采用模块化的思想，将重复使用的功能封装成函数或类，这样就可以提高代码的复用性。另外，我们还可以使用版本控制工具，如Git，来管理代码，避免重复劳动。\nZ：很好。那我们接下来讨论一下如何在团队协作中提高编程效率。有什么建议吗？\nL：我认为代码审查是一个非常重要的环节。通过同事之间相互审查代码，可以发现潜在的问题，提高代码质量。同时，这也有助于团队成员之间共享经验，形成统一的编程规范。\nW：我觉得我们可以采用敏捷开发的方法，将项目划分为多个短期的迭代周期。每个周期内，团队成员可以紧密合作，快速响应需求变更，从而提高整体的开发效率。\nZ：非常好的建议！那我们就按照这些建议进行实践，共同努力提高编程效率。感谢大家参加今天的会议，我们下次再见！\n请总结以上对话中，每个人的观点。", "category": "summarization"}
+{"question_id": 349, "text": "请描述一下在过去和现在，儿童是如何上学的。", "category": "open qa"}
+{"question_id": 350, "text": "从以下选项中选择最佳答案。\n什么是数据挖掘？\nA.数据可视化\nB.数据分析\nC.数据库管理\nD.机器学习", "category": "closed qa"}
+{"question_id": 351, "text": "叙述地球是如何运动的。", "category": "open qa"}
+{"question_id": 352, "text": "回答问题并解释原因：\n在大部分国家中，为什么必须在16岁以上才能获得驾照？", "category": "open qa"}
+{"question_id": 353, "text": "从给定的问题列表中筛选出与餐厅有关的问题。\n1. 为什么要学习数学？\n2. 如何安排适当的学习时间？\n3. 该怎么选好的餐厅？\n4. 什么是人工智能？", "category": "closed qa"}
+{"question_id": 354, "text": "请你从下面的文段中提取出所有的数字，并按照从小到大的顺序排列。\n据数据显示，这座海拔超过8800米的山峰，被世人称为珠穆朗玛峰。这座位于尼泊尔与中国的边界上的山峰，不仅仅是全球海拔最高的山峰，也是世界上最难攀登的山峰之一。据统计，珠穆朗玛峰登顶成功率仅为30%左右，而每年尝试登顶的人数却高达数千人。为了攀登珠穆朗玛峰，登山者需要经历非常困难的登山路线。其中最著名的是从南坡进入珠峰大本营，全长约70公里。这条路线最大的难点是海拔高度，其中包括一段被称为“死亡地带”的路段，海拔高度超过8000米，氧气含量只有海平面的三分之一，非常危险。据悉，每年尝试登顶珠穆朗玛峰的人数高达5000人左右，其中有不少登山者因氧气不足、体力不支、天气突变等原因而死亡。除了高海拔，珠穆朗玛峰还有其他令人震惊的数字。比如，它的顶峰被冰雪覆盖的面积高达29000平方公里，约等于比利时的总面积；珠穆朗玛峰山脚下的人口密度非常低，尼泊尔境内海拔超过3000米的地区人口仅有不到50万人，而中国境内的藏区更是人迹罕至，仅有极少数的牧民在此生活。总的来说，珠穆朗玛峰是一个神秘而又充满挑战的地方，其海拔高度和自然景观吸引着众多冒险家和探险者前来挑战。然而，登顶珠穆朗玛峰的道路危机重重，需要极高的体力、勇气和耐心，才能够攀登成功。", "category": "extract"}
+{"question_id": 355, "text": "使用陈述句描述如何解决以下问题：\n什么是无人机？", "category": "open qa"}
+{"question_id": 356, "text": "为一份硕士申请撰写一封推荐信。\n姓名：王小明；专业：电子工程。", "category": "generation"}
+{"question_id": 357, "text": "比较并总结三种不同款式的蓝色衬衫的优点和缺点：\n衣服款式1：牛仔衬衫，衣服款式2：法式衬衫，衣服款式3：T恤衫", "category": "open qa"}
+{"question_id": 358, "text": "审查并编辑以下文章，使其语法正确并且通顺易懂。\n大家知道，作为辅助生殖方式之一，试管婴儿技术已经被广泛应用于世界各地，旨在帮助有生育问题的夫妻。", "category": "rewrite"}
+{"question_id": 359, "text": "对给定的一段文本进行分类，判断它是新闻、评论还是广告。\n本周末，美国总统特朗普计划前往佛罗里达州进行竞选集会。", "category": "classification"}
+{"question_id": 360, "text": "解释一下哥白尼的日心说是什么，以及它如何影响我们对天文学的理解。", "category": "open qa"}
+{"question_id": 361, "text": "生成可以与陌生人分享的三个生活小故事。", "category": "generation"}
+{"question_id": 362, "text": "请从以下文本中抽取出物体属性：这款手表是一款非常轻巧的设计，戴起来几乎没有重量感，完全不会让人感到压迫或不适。同时，这款手表的绑带也非常容易调节，可以轻松适应不同大小的手腕，让你无需担心戴上去后过紧或过松的问题。除了这些舒适的特性，这款手表还具有许多其他的优点。它的表盘采用了最新的技术，可以清晰地显示时间、日期和其他的相关信息，而且还配备了多种功能，例如闹钟、秒表、计时器等，非常实用。另外，这款手表的设计也非常时尚，它的造型简约而不失优雅，无论是搭配休闲装还是正式服装都非常适合。无论是运动爱好者还是商务人士，这款手表都是一个绝佳的选择。它的轻巧和舒适性能够让你在各种场合轻松佩戴，同时其多种功能和时尚的设计也能满足你的各种需求。所以，如果你正在寻找一款高性能、时尚的手表，这款手表绝对是一个不错的选择。", "category": "extract"}
+{"question_id": 363, "text": "请问2019年中国猪肉价格同比上涨了多少？", "category": "open qa"}
+{"question_id": 364, "text": "解释泰坦尼克号沉没的原因。", "category": "open qa"}
+{"question_id": 365, "text": "解释创建一个比较两个不同数据库类型的数据库的基本步骤。", "category": "open qa"}
+{"question_id": 366, "text": "请描述大蒜在中国历史和文化中的重要性。", "category": "open qa"}
+{"question_id": 367, "text": "请将以下文章中的每一段落更改为批判性思维。\n虽然这种新型防晒霜听起来很不错，但是我们仍需要更多的研究来确定它的有效性。只有一项研究不能证明它的功效。此外，这种新型防晒霜也可能会引起皮肤敏感或其他问题。因此，我们需要更多的研究来确定使用它的安全性和有效性。", "category": "rewrite"}
+{"question_id": 368, "text": "使用下列关键字编写一段议论文：\n体罚赛马", "category": "generation"}
+{"question_id": 369, "text": "请根据以下提示，对一段话进行改写。\n性格是人的稳定性格，它与环境和遗传因素都有关。", "category": "rewrite"}
+{"question_id": 370, "text": "对于文本中的所有数字，将它们转换为文字形式。例如，将2转换为'二'。\n李丽的年薪是2500000美元。", "category": "rewrite"}
+{"question_id": 371, "text": "对于一个银行账户，创建一个密码应该遵循哪些规则？", "category": "open qa"}
+{"question_id": 372, "text": "根据提供的提示，重新写一段话，使其更加简明扼要。\n因为他们需要多种技能，所以很难找到这样一群人。", "category": "rewrite"}
+{"question_id": 373, "text": "根据英文文本翻译成汉语，并尽可能保持原文的风格和意思。\nThe greatest glory in living lies not in never falling, but in rising every time we fall.", "category": "rewrite"}
+{"question_id": 374, "text": "给定一段文本，将与主题不相关的句子删除。\n原文段落：在海尔公司，我们始终坚持以用户价值为中心的服务理念。这就是我们与众不同的地方。我们不只是在卖产品，我们更注重为用户的满意度提供专业贴心的售后服务。此外，我们还在不断创新，推出更加高效、智能的智能家电产品，让用户的生活更加便捷。但是，我们的发展过程中也曾遇到困难。比如，某些销售人员出现了不诚信行为，向用户隐瞒产品质量问题。这种行为不仅违反了企业规范，也伤害了用户利益。", "category": "rewrite"}
+{"question_id": 375, "text": "给我列举一些具有创造力的工作岗位。", "category": "brainstorming"}
+{"question_id": 376, "text": "请问儿童图书分类中，哪一类书在国内销量最高？请给出相应统计数据。", "category": "open qa"}
+{"question_id": 377, "text": "描述以下电视剧的悬疑情节。\n《权力的游戏》", "category": "open qa"}
+{"question_id": 378, "text": "从以下文本中抽取有关天气的信息：据当地气象部门的最新数据显示，北京时间X月X日稍晚，哈尔滨市将迎来一次大风天气，这也引起了市民们的关注。根据气象部门发布的消息，该市区将有6级到7级的大风，伴随着扬沙或浮尘天气。这种情况下，人们应当注意防范大风带来的不利影响，如出行时应注意防范被飞沙或飞尘的侵袭，同时也要注意防范树枝、广告牌等高空物品被大风吹倒的可能性。为了保障市民的安全，当地政府已经启动了相关的应急预案，并呼吁市民们要密切关注气象部门发布的天气预警信息，及时做好防风、防沙措施，减少不必要的出行，确保自己和家人的生命安全。同时，政府也在加强城市环境卫生工作，确保城市内的道路、广场等公共场所能够及时清理，保持干净整洁的环境。相信在政府和市民共同的努力下，这场大风天气也不会对当地的正常生活和工作造成太大的影响。", "category": "extract"}
+{"question_id": 379, "text": "问答任务：\n香蕉能不能当早餐吃？", "category": "open qa"}
+{"question_id": 380, "text": "根据给出的示例和指导原则，编辑一份比较优秀的论文。\n给定的指导原则：1.使用简单、清晰的语言；2.避免长句；3.避免使用过于主观的描述。", "category": "generation"}
+{"question_id": 381, "text": "请根据以下文本撰写一份新闻稿。\n上海迪士尼乐园将于本月29日正式开放一个全新的主题区域——星球大战：银河边缘。该区域将再现星球大战系列电影中的经典场景，包括著名的超级巨型星际战舰、漫游沙漠星球塔图因等。此外，该区域还将有以《曼达洛人》为灵感的全新互动体验。", "category": "generation"}
+{"question_id": 382, "text": "分析以下公司的财务状况，提出建议：\n公司A的收入在过去一年持续增长，但其成本也在同期增长，导致净利润未能增长。", "category": "open qa"}
+{"question_id": 383, "text": "基于给定的文本和问题，提供文本的答案。\n文本：科学家们发现，大约有80%的人经历过雪茄形毒素中毒，而不自知，其症状包括头痛、视力模糊和呕吐等。\n问题：雪茄形毒素中毒的症状是什么？", "category": "closed qa"}
+{"question_id": 384, "text": "填写一个短文：我的未来职业规划。", "category": "generation"}
+{"question_id": 385, "text": "写出在进行秋季户外活动时需要注意的十条安全小贴士。", "category": "generation"}
+{"question_id": 386, "text": "请回答以下问题。\n猴子能不能站在长颈鹿的头上？", "category": "open qa"}
+{"question_id": 387, "text": "回答以下问题。\n为什么洛杉矶被称为天使之城？", "category": "open qa"}
+{"question_id": 388, "text": "阅读以下短文，并回答问题：\n“人生就像一盒巧克力，你永远不知道下一颗是什么。”这句话出自哪部电影？", "category": "open qa"}
+{"question_id": 389, "text": "根据以下文本，回答以下问题：帕瑞夫和邦尼·班尼领导了什么类型的运动？\n帕瑞夫和邦尼·班尼领导了一个名为“为了科学和理性”的反疫苗运动，这个运动旨在反对接种疫苗的做法。他们声称，疫苗是危险的，并且会导致各种疾病和不良反应，包括自闭症和神经系统疾病。然而，这些声称并没有得到科学界的广泛认可和支持。大多数专家认为，疫苗是预防传染病最有效的方式之一，而且接种疫苗是保护个人和社区免受疾病侵害的最佳途径之一。事实上，由于接种疫苗的广泛普及，一些传染病已经被消灭或大大减少了发病率。虽然帕瑞夫和邦尼·班尼的反疫苗运动在某些社区中获得了一定的支持，但大多数人仍然认为接种疫苗是必要的和正确的做法。政府和卫生机构也一直在积极推广疫苗接种，以保护公众的健康和安全。", "category": "closed qa"}
+{"question_id": 390, "text": "根据给定的例子，为一个人物设计一个人物档案。\n请为一个叫做“李华”的14岁男孩设计一个人物档案。他是一个学校的游泳队队员，喜欢读书和打电子游戏。", "category": "rewrite"}
+{"question_id": 391, "text": "在10分钟内生产出5个创意网站名称。", "category": "brainstorming"}
+{"question_id": 392, "text": "为以下问题提供解答：颠簸的乘车经验可能导致什么？", "category": "open qa"}
+{"question_id": 393, "text": "提供一个简短的方法来防止黑客访问您的电子邮件账户。", "category": "brainstorming"}
+{"question_id": 394, "text": "提供一篇有关动物保护的随笔。", "category": "generation"}
+{"question_id": 395, "text": "以罗密欧和朱丽叶为例，探讨爱情的定义和表现形式。", "category": "generation"}
+{"question_id": 396, "text": "给定一篇英文科技新闻文章，将其翻译为中文。\nA team of researchers at Stanford University has developed a tiny wireless implant that can monitor the oxygen levels in blood vessels.", "category": "rewrite"}
+{"question_id": 397, "text": "根据描述生成一个与描述相关的故事梗概。\n描述：一个年轻人在经过艰难的训练后成为了一名优秀的士兵。", "category": "generation"}
+{"question_id": 398, "text": "对以下两个商品描述进行相似性比较：\n1. 原装正品，时尚设计，适合年轻人使用\n2. 优质产品，流线型外形，适合多种场合使用", "category": "classification"}
+{"question_id": 399, "text": "请描述“自由意志”的含义及其在哲学中的作用。", "category": "open qa"}
+{"question_id": 400, "text": "提出以下问题的答案。\n信用卡逾期会对个人信用产生什么影响？", "category": "open qa"}
+{"question_id": 401, "text": "回答以下问题。\n蜘蛛有几只脚？", "category": "open qa"}
+{"question_id": 402, "text": "请介绍一位在计算机科学领域有着卓越成就的女性科学家。", "category": "generation"}
+{"question_id": 403, "text": "2023-04-14T08:15:35.499Z [INFO] 用户查看商品详情 - 用户ID: 1234567890, 页面: 商品详情, 商品ID: 10001, 商品名称: 电子书阅读器\n2023-04-14T08:15:42.623Z [INFO] 用户加入购物车 - 用户ID: 1234567890, 商品ID: 10001, 商品名称: 电子书阅读器, 数量: 1\n2023-04-14T08:15:45.892Z [INFO] 用户返回首页 - 用户ID: 1234567890, 页面: 首页\n2023-04-14T08:15:50.213Z [INFO] 用户点击搜索框 - 用户ID: 1234567890, 页面: 首页\n2023-04-14T08:15:55.788Z [INFO] 用户输入搜索关键词 - 用户ID: 1234567890, 关键词: 无线耳机\n2023-04-14T08:16:02.144Z [INFO] 用户点击搜索结果 - 用户ID: 1234567890, 商品ID: 20001, 商品名称: 无线蓝牙耳机\n2023-04-14T08:16:07.956Z [INFO] 用户查看商品详情 - 用户ID: 1234567890, 页面: 商品详情, 商品ID: 20001, 商品名称: 无线蓝牙耳机\n2023-04-14T08:16:12.713Z [INFO] 用户加入购物车 - 用户ID: 1234567890, 商品ID: 20001, 商品名称: 无线蓝牙耳机, 数量: 1\n2023-04-14T08:16:16.322Z [INFO] 用户查看购物车 - 用户ID: 1234567890, 页面: 购物车\n2023-04-14T08:16:22.527Z [INFO] 用户提交订单 - 用户ID: 1234567890, 订单ID: 987654321, 订单金额: 1200.00\n2023-04-14T08:16:30.689Z [INFO] 用户支付成功 - 用户ID: 1234567890, 订单ID: 987654321, 支付方式: 微信支付, 支付金额: 1200.00\n请三句话以内总结一下以上日志信息。", "category": "summarization"}
+{"question_id": 404, "text": "给我3个可以展示时间的表达方式。", "category": "open qa"}
+{"question_id": 405, "text": "将文本内容重新写成另一种风格，例如将新闻报道转换为小说的形式：\n李华是一名高中生，她每天使用自己的电脑完成作业，然后浏览知乎上的有趣问题。", "category": "rewrite"}
+{"question_id": 406, "text": "为介绍一款新产品撰写一篇完整文档。\n产品名称: AirPods\n产品介绍: AirPods是一款无线耳机，它提供出色的音质和长达5小时的音乐播放时间。\n产品配件: AirPods充电盒，Lightning充电线，说明书", "category": "generation"}
+{"question_id": 407, "text": "以自己的话解释一个概念或术语。\nConcept: 持续集成\nExplanation: 持续集成是软件开发中的一种实践，它要求开发人员在整个开发周期中不断地将代码合并和测试，以保证开发出高质量的代码。", "category": "open qa"}
+{"question_id": 408, "text": "请以下的活动进行头脑风暴，以便我们将其推广到更广泛的受众群体中。\n在公共图书馆举办儿童读书提高活动。", "category": "brainstorming"}
+{"question_id": 409, "text": "对以下问题做出回答。\n问题：你如何看待当今社会中充满的虚假信息？", "category": "open qa"}
+{"question_id": 410, "text": "阅读以下句子，并回答问题：\n句子：这个社区的人总是彼此了解并互相扶持。\n问题：“社区”在这里是什么意思？", "category": "closed qa"}
+{"question_id": 411, "text": "写一个工作场所不道德行为的例子，并解释为什么不道德。", "category": "brainstorming"}
+{"question_id": 412, "text": "对以下段落进行语言模型的生成，生成一段类似的新文本。\n约翰尼·德普（Johnny Depp）是一位著名的好莱坞电影演员，他曾经在《加勒比海盗》系列电影中扮演过杰克船长的角色。", "category": "rewrite"}
+{"question_id": 413, "text": "根据提供的文本生成一篇类似的文章，风格和语气一致：\n今天很有趣，我们看到了很多美丽的景色。", "category": "generation"}
+{"question_id": 414, "text": "根据以下文本内容，将其分类到相应的新闻类别中。\n据报道，近日一场监狱暴动事件在印度发生。死亡人数已经达到了100人，其中包括一些监狱警察。报告显示，该监狱的囚犯发起了一次严重的反抗行动，试图逃脱监禁。事件还在进一步调查中。", "category": "classification"}
+{"question_id": 415, "text": "请用简洁的语言说明婚礼策划的完整流程。", "category": "open qa"}
+{"question_id": 416, "text": "给定一个段落，将其简化为一个句子。\n空气净化器对空气中的颗粒物进行过滤、吸附和分解，以提高室内空气质量。", "category": "rewrite"}
+{"question_id": 417, "text": "根据提供的问题，回答问题。\n在哪里可以找到开发者社区的最新消息？", "category": "open qa"}
+{"question_id": 418, "text": "对下列英文对话进行翻译。\nA: How was your day?\nB: It was pretty good. I had a lot of meetings, but they were all productive. How about you?\nA: It was alright. I had a lot of work to finish, but I managed to get everything done.", "category": "rewrite"}
+{"question_id": 419, "text": "给定一组句子，将它们整合为一个段落。\n第一句话：昨天晚上，我去看了一场演唱会，感觉非常棒。\n第二句话：我非常喜欢这个歌手的音乐，他的声音非常动听。\n第三句话：演唱会上的氛围也非常好，所有人都非常投入。", "category": "rewrite"}
+{"question_id": 420, "text": "回答以下问题：如何在Windows 10中设置局域网？", "category": "open qa"}
+{"question_id": 421, "text": "您是否同意以下陈述：\n医疗保健是每个国家应为其公民提供的基本权利之一？为什么？", "category": "open qa"}
+{"question_id": 422, "text": "根据以下文字，回答问题：\n在中国古代历史中，王昭君被誉为四大美女之一，她的美貌和才华闻名于世。她也因被和亲到匈奴而被称为“和亲美人”。据史书记载，王昭君是汉武帝为了维护边疆稳定而选派的公主之一。她被选中后，成为了中国历史上最著名的和亲公主之一。然而，和亲并没有让王昭君得到幸福。在途中，她流落民间，经历了无数的艰辛和磨难。她甚至被迫嫁给了匈奴王，成为了他的妻子。然而，尽管生活在异国他乡，王昭君却从未放弃对祖国的思念和忠诚。她不断地劝说匈奴王与汉朝和好，为两国人民带来和平。王昭君的美貌和才华不仅让她成为了历史上的传奇人物，也让她的故事流传至今。她的形象经常出现在文学、音乐、电影等各种艺术形式中，成为了中国文化中不可或缺的一部分。她的故事也启示人们要坚定信念，勇敢面对逆境，不屈不挠地追求自己的梦想和理想。\n王昭君被称为什么？", "category": "closed qa"}
+{"question_id": 423, "text": "回答以下问题：\n提供各自职业道德守则并比较医生和记者的不同之处。", "category": "open qa"}
+{"question_id": 424, "text": "设计一个能够评估树木健康状况的算法。", "category": "brainstorming"}
+{"question_id": 425, "text": "给定一段英语新闻报道，将其翻译成中文。\nBritish Prime Minister Boris Johnson faces renewed pressure from lawmakers in his own party for his handling of the pandemic, just as the government rolls back on some Covid-19 restrictions in England. Some Conservative Party MPs are uneasy about the prospect of returning to a tiered system -- which was widely criticised for being confusing and failing to curb transmission -- once the national lockdown ends on December 2.", "category": "rewrite"}
+{"question_id": 426, "text": "将以下段落中的重要信息提取出来。在这场庆祝活动中，公司精心安排了各种节目和活动，以表彰那些业绩出色的员工并展示公司的未来计划。庆祝活动现场热闹非凡，到场的员工们纷纷欢呼雀跃，表达着他们对公司的热爱和支持。在活动中，公司领导发表了精彩的讲话，对业绩出色的员工们表示感谢和祝贺，并表示公司将继续发扬优秀的企业文化和价值观，为员工们提供更好的发展机会和发展空间。在表彰环节中，公司表彰了那些在工作中表现出色的员工，他们为公司的发展和壮大作出了重要贡献。颁奖环节中，获奖员工们纷纷上台领取奖品和证书，并发表了热情洋溢的感言，表达了对公司和同事们的感激之情。最后，全体员工一起唱起了公司的歌曲，展现了他们对公司的归属感和团结力。整个活动在欢声笑语中结束，为公司带来了更多正能量，也为员工们留下了难忘的回忆。", "category": "extract"}
+{"question_id": 427, "text": "请基于以下采访内容帮助记者整理一份采访总结：\n记者: 您好，感谢您抽出时间接受我们的采访。首先恭喜您在最近的比赛中表现出色，您能告诉我们一下您是如何做到的吗？\n体育明星: 您好，谢谢您的祝贺。我认为最重要的是团队合作和努力训练。我们整个团队一直在为比赛而努力工作，而且我们的教练也给了我们很多支持和指导。\n记者: 您似乎在最近的几场比赛中表现得更为出色，您是否有任何特别的准备或策略来提高自己的表现？\n体育明星: 我一直在不断地努力训练和提高自己的技能。此外，我还会研究对手的比赛录像，以找出他们的弱点和策略。我认为每个比赛都是一次新的挑战，我会尽力发挥自己的最佳水平。\n记者: 您在您的职业生涯中经历了许多重要的比赛和时刻，您最难忘的是什么？\n体育明星: 对我来说，最难忘的时刻就是在某个比赛中获得胜利，并为我的团队带回了冠军奖杯。这是我职业生涯中最重要的时刻之一，我非常感谢我的队友和教练们一直以来的支持。\n记者: 最后一个问题，您有任何未来的计划或目标吗？\n体育明星: 我希望能够继续提高自己的技能和表现，为我的团队和球迷们带来更多的胜利和荣誉。我也希望能够为我的社区和慈善事业做出一些贡献，让更多的人受益。谢谢你的采访。", "category": "summarization"}
+{"question_id": 428, "text": "描述一个人类可以做到的最令人印象深刻的事情。", "category": "brainstorming"}
+{"question_id": 429, "text": "请描绘以下场景的细节和氛围。\n一间老旧的书店，有一排排书架和一个老店主。", "category": "generation"}
+{"question_id": 430, "text": "用python编写一个简单的计时器程序，在5分钟后发出通知提醒。", "category": "coding"}
+{"question_id": 431, "text": "请根据以下几个单词的定义，写出它们的汉语翻译。\nAnthropology - Study of human societies and cultures; Geology - Study of physical structure and substance of earth; Botany - Study of plants", "category": "rewrite"}
+{"question_id": 432, "text": "从下列选项中选择最佳答案：戴上手套的原因是什么？\nA. 保持手部清洁\nB. 保护手部不受伤害\nC. 使手部保温", "category": "closed qa"}
+{"question_id": 433, "text": "根据以下输入，回答问题。\n帝王葬礼中，有些坟墓是直接掩埋的，有些坟墓则会建造陵墓。为什么会出现这两种不同的葬法？", "category": "open qa"}
+{"question_id": 434, "text": "请问谁获得了2020年图灵奖？", "category": "open qa"}
+{"question_id": 435, "text": "回答以下问题：\n为什么日本的高铁速度很快？", "category": "open qa"}
+{"question_id": 436, "text": "回答以下问题，并提供支持性证据。\n绿色草坪真的可以减少城市热岛效应吗？", "category": "open qa"}
+{"question_id": 437, "text": "从以下诗句中提取人物名称：两个黄鹂鸣翠柳，一行白鹭上青天。", "category": "extract"}
+{"question_id": 438, "text": "为以下事件提供一个合理的解释：\n公共汽车抵达时，没有人下车，但很多人却上车了。", "category": "brainstorming"}
+{"question_id": 439, "text": "将以下文本翻译成中文。\n原句：The company was founded with the goal of providing better customer service than its competitors. It has since expanded to include a wide range of products and services.", "category": "rewrite"}
+{"question_id": 440, "text": "写一个可以检测电子邮件地址是否有效的python函数。\n输入示例：example@example.com", "category": "coding"}
+{"question_id": 441, "text": "给我写一篇500字的文章，介绍在你看来，人与自然是如何相互作用的。", "category": "generation"}
+{"question_id": 442, "text": "对以下文本进行重新写作，以适应特定受众。\n粮食储备是国家宏观调控的重要手段之一，在全国人民代表大会和政协的支持下，我国采取了一系列措施来加强和完善对储备粮和储备油的管理和监督。", "category": "rewrite"}
+{"question_id": 443, "text": "根据给定的文章大纲生成一篇文章\n第一章：介绍\n第二章：背景知识\n第三章：研究方法\n第四章：结果与分析\n第五章：结论\n第六章：未来工作计划", "category": "generation"}
+{"question_id": 444, "text": "请从以下文本中提取出列车编号、出发站点、到达站点、出发时间和到达时间。编号为K8732的列车是一趟从南方到北方的长途列车。它将从广州南站出发，穿过中国南部的美丽风景线路，一路向北行驶。旅客可以欣赏到壮丽的山脉和沿途的风景。列车计划在4月20日早上6点30分准时从广州南站出发，全程预计需要经过多个站点，其中包括长沙、武汉、郑州和石家庄等城市。经过长途的行驶后，列车预计将于4月21日下午3点15分准时到达北京西站。在整个旅途中，旅客可以在列车上享受舒适的座位和设施，例如空调、餐车、卫生间和WiFi等服务，以保证旅途的舒适和愉悦。无论是商务出行还是度假旅游，这趟列车都是一种安全、快捷和舒适的出行选择。", "category": "extract"}
+{"question_id": 445, "text": "阅读以下段落，并回答问题：哪种动物受到保护？\n白色犀牛是一种濒危的哺乳动物，被认为是世界上最臭名昭著的保护动物之一。在过去的几十年里，由于非法狩猎、栖息地破坏和环境污染等多种原因，它们的数量急剧下降，面临着灭绝的威胁。\n为了保护白犀牛，采取了大规模且成功的保护活动。其中，主要的措施包括加强法律保护、建立野生动物保护区、开展宣传教育和加强监测等。在这些措施的共同作用下，白犀牛的数量开始逐渐恢复。\n据报道，南非是白犀牛数量恢复最为显著的地区之一。自从保护活动开展以来，南非的白犀牛数量已经从几乎灭绝的状态恢复到了20世纪60年代的水平。这一成果离不开南非政府和各方力量的共同努力，也为全球野生动物保护事业注入了信心。", "category": "closed qa"}
+{"question_id": 446, "text": "将以下英文文章进行分类。\nComputer Science is a rapidly growing field with job opportunities in software development, data analysis and cybersecurity.", "category": "classification"}
+{"question_id": 447, "text": "在以下文本中，找到第一个意外出现的词：这是一段讲述广告行业发展历程的草地螟虫文章，其中包括了广告的种类，它们的来源和流行程度。请注意，前方出现了一个巨大的紫色陨石，砸在了广告业的中心地带。", "category": "extract"}
+{"question_id": 448, "text": "根据以下现象，解释发生了什么：\n用肥皂水洗手后，手上的细菌数量减少了。", "category": "open qa"}
+{"question_id": 449, "text": "请提供一个龙舟节的相关信息。", "category": "open qa"}
+{"question_id": 450, "text": "判断以下陈述是否正确：\n当两个波的波峰和波谷重叠时，它们会形成一个新的波形。", "category": "open qa"}
+{"question_id": 451, "text": "对一篇新闻文章进行翻译：将下面的英文文章翻译成中文。\nMajor tech companies are now considering the use of artificial intelligence tools to help filter out extremist content from the internet. This comes after increased pressure from politicians and governments to prevent the spread of extremist ideas online.", "category": "rewrite"}
+{"question_id": 452, "text": "请根据以下范文，写一篇关于家乡风景的短文。\n范文：我家乡位于凉爽的高山之中，四季分明。春天，万物复苏，红花绿树丛生，彩蝶纷飞；夏季，峡谷里绿树成阴，溪水潺潺，凉风习习；秋天，山峦绚丽多彩，野果飘香，红叶满山；冬天，白雪皑皑，冰挂梅花，银装素裹。", "category": "generation"}
+{"question_id": 453, "text": "根据以下文本生成一个问题。\nVGG16是一种卷积神经网络架构，由几个卷积层和池化层组成，以及三个完全连接的层和一层softmax分类器。它是ImageNet ILSVRC-2014比赛中最出色的模型之一。", "category": "closed qa"}
+{"question_id": 454, "text": "根据以下文本生成开放式问题：\n2019年4月15日晚，法国巴黎圣母院遭遇了一场可怕的大火，这一事件在全球范围内引发了极大的关注和哀悼。火灾导致圣母院的屋顶和尖塔严重受损，这座800多年历史的宗教建筑的大部分结构也面临着严重的损失和破坏。当时，全球的民众和媒体都对这起事件感到震惊和悲痛，许多人也表达了对巴黎圣母院的情感和历史价值的关注和重视。法国政府随即启动了大规模的救援和修复工作，调动了大量的人力和物力资源，以确保圣母院能够尽快得到恢复和重建。经过多方努力和长时间的修复工作，巴黎圣母院的修缮工作取得了显著的进展。建筑师、艺术家、工匠和专业修缮团队们合作，采用了最先进的技术和方法，致力于保护和恢复这座历史悠久的建筑。目前，巴黎圣母院的修复工作仍在进行中，预计将会历时多年。这场火灾让全球更加关注文化遗产的保护和修缮工作的重要性，也让人们更加珍惜和重视历史文化遗产的珍贵性和不可替代性。圣母院大火虽然带来了巨大的损失和痛苦，但也促使人们更加积极地投入到文化遗产的保护和修缮事业中，以确保历史遗产能够永久地流传下去。", "category": "closed qa"}
+{"question_id": 455, "text": "提出一些能够改善智商的方法。", "category": "brainstorming"}
+{"question_id": 456, "text": "根据给出的文本片段，回答下列问题：文中提到了哪些国家？\n李华从小就喜欢研究地理，他自己玩儿的时候总是试图想出新方法来记忆各国名字和首都。他读到一篇新闻报道，里面提到了“欧洲联盟”、“法国”和“德国”，李华很快就记住了这些国家名字。", "category": "closed qa"}
+{"question_id": 457, "text": "从以下内容生成一篇文章：战争是一件毁灭性的事情，常常带来无尽的痛苦和困难。", "category": "generation"}
+{"question_id": 458, "text": "回答问题：“蚊子吸血时为什么会发出嗡嗡声？”", "category": "open qa"}
+{"question_id": 459, "text": "阐述自己的人生理念或信仰。", "category": "brainstorming"}
+{"question_id": 460, "text": "写一个python代码提取输入中的所有时间段（小时：分钟）。\n我们下午2点要开会，然后我会在5点之前到家。", "category": "coding"}
+{"question_id": 461, "text": "回答以下问题：在哪些情况下，你通常会感到紧张？", "category": "open qa"}
+{"question_id": 462, "text": "如何在电脑上安装浏览器扩展程序。", "category": "brainstorming"}
+{"question_id": 463, "text": "提供故事的一部分并要求继续剩余的部分。\n李明在森林中散步时突然发现了一条让他吃惊的大蛇。", "category": "generation"}
+{"question_id": 464, "text": "请对给定的一组关键词进行分类，以显示它们之间的关系。\n关键词：科比·布莱恩特、篮球、洛杉矶湖人队、NBA、退役", "category": "classification"}
+{"question_id": 465, "text": "判断以下陈述的真伪：“大熊猫不仅出现在中国，也出现在印度。”", "category": "closed qa"}
+{"question_id": 466, "text": "将给定的一组文本重新排列，使它们形成一个连续的故事。\n请重新排列以下文本片段：第一段是一个男人，他找到了一张宝藏地图。第二段是他的旅程，到达目的地。第三段是他在地下室中找到宝藏。", "category": "closed qa"}
+{"question_id": 467, "text": "回答一个通识问题。\n解释一个人类习惯的起源，例如为什么把戒指戴在无名指上。", "category": "open qa"}
+{"question_id": 468, "text": "美国白宫的地址是什么？", "category": "open qa"}
+{"question_id": 469, "text": "解释与水污染有关的术语：生化需氧量(BOD)、化学需氧量(COD)、总固体(TSS)、总悬浮物(TDS)。", "category": "open qa"}
+{"question_id": 470, "text": "解释甲骨文的历史和用途。", "category": "open qa"}
+{"question_id": 471, "text": "解释用于评估机器翻译性能的常见指标。", "category": "brainstorming"}
+{"question_id": 472, "text": "给定一份工作的职责和要求清单，解释你为什么是最适合这份工作的人选。\n清单：1.精通区块链技术；2.拥有3年以上的工作经验；3.能够工作自主且具备解决问题的能力。", "category": "brainstorming"}
+{"question_id": 473, "text": "为以下五个名称写一个简短的解释。\na. 蒙娜丽莎 b. 股票 c. 人工智能 d. 深度学习 e. 量子力学", "category": "open qa"}
+{"question_id": 474, "text": "根据给定的情境，重写下面的句子，使其更加礼貌：你写下的代码很难懂。\n场景示例：老板正在评估员工提交的代码", "category": "rewrite"}
+{"question_id": 475, "text": "请将以下英文文章翻译成中文。\nThe ability to communicate effectively is an essential skill in today's world. Whether it's in business, education, or personal relationships, being able to convey information clearly and accurately is key to success.", "category": "rewrite"}
+{"question_id": 476, "text": "基于下面的这个故事，总结其中最重要的三个事件。\n小明是一个好学生，每天早上都要起得很早去上学。有一天，他迟到了，因为他的家里来了一个客人。晚上，他参加了一次班级会议，会议主题是如何提高学习效率。回到家后，他又花了一些时间复习功课。", "category": "summarization"}
+{"question_id": 477, "text": "提供互联网搜索公司的历史和主要发展阶段。", "category": "open qa"}
+{"question_id": 478, "text": "基于以下文字，抽取相关信息，包含时间（Time）、地点（Location）、人物（People）、事件（Incident）、观点（Idea）。并格式化表示为：{\"Time\":\"<抽取出的时间>\",\"Location\":\"<抽取出的地点>\",\"People\":\"<抽取出的人物>\",\"Incident\":\"<抽取出的事件>\",\"Idea\":\"<抽取出的观点>\"}，其中如果没有相关信息，则表示为null。抽取出来的信息用中文表示。\nSophie独自一人在海滩上散步，思绪万千。她想到了自己过去的种种经历，包括曾经的爱情和失落。突然，一只小海豚从海水中跃出来，引起了她的注意。它开始在水中跳跃，好像在邀请Sophie一起玩耍。Sophie不禁笑了出来，跟着海豚一起跳跃着。她感到心情渐渐明朗起来，仿佛这个小小的生命在向她传递着某种信息。在这个海滩上，Sophie找到了新的希望和活力，她决定要以全新的态度面对未来。", "category": "extract"}
+{"question_id": 479, "text": "根据以下文本，生成一段100字的文章，反映该事件的前因后果以及应对措施。\n最近，某市发生了一起食品安全事件，一名女性在食用坊市场购买的熟食后不久就出现了食物中毒症状。调查发现，熟食中含有有害物质，该市政府已经采取了严厉措施，并迅速查处了罪犯。", "category": "generation"}
+{"question_id": 480, "text": "将以下句子恢复成完整的篇章。\n半夜三更，他收到了一封神秘的邮箱。", "category": "generation"}
+{"question_id": 481, "text": "描述一个完美的周末计划。", "category": "generation"}
+{"question_id": 482, "text": "根据所提供的信息，为一个商品或服务写一份优秀的广告文案。\n商品：新的口红系列。关键卖点：颜色持久，适合所有肤色。", "category": "generation"}
+{"question_id": 483, "text": "根据以下场景描述，分类出该事件属于哪种证券欺诈类型。\n公司A推出了一种虚拟货币，在社交媒体上承诺高额回报，但实际上该货币不存在。", "category": "classification"}
+{"question_id": 484, "text": "描述一个适合初学者的学习曲线，用于学习大数据分析。\n学习的目标和学习路径", "category": "brainstorming"}
+{"question_id": 485, "text": "阐述一种新的商业模型，使团队更能够有效地协作。", "category": "brainstorming"}
+{"question_id": 486, "text": "从大众的角度，解释如何防范网络诈骗。", "category": "brainstorming"}
+{"question_id": 487, "text": "根据所提供的问题，回答一个逻辑思维问题\n你只有一把小刀，如何在三次尝试之内切断一根木棍？", "category": "open qa"}
+{"question_id": 488, "text": "根据提供的文本重写其中的一段，使之更加简明扼要，同时不丢失原文本的主要信息。\n纽约市，简称“纽约”，通常被称为“大苹果”，是美国最大的城市，也是全世界最大的城市之一。位于美国东海岸，东北部边界是大西洋，在新泽西州的东南部。", "category": "rewrite"}
+{"question_id": 489, "text": "为可口可乐饮料撰写评论。", "category": "generation"}
+{"question_id": 490, "text": "按照以下要求，写一个SQL查询语句：从表中查找所有性别为女性的学生的姓名和学号。\nSELECT name, id FROM students WHERE gender = '女性'", "category": "coding"}
+{"question_id": 491, "text": "根据一段对话提取关键信息。\n客户：我需要一台笔记本电脑，可以玩游戏。 \n售货员：我们这里有一款Alienware笔记本电脑，适合用于游戏。\n客户：哇，Alienware？听说这个品牌很好，但是价格也很贵吧？\n售货员：是的，Alienware的产品一向以高性能和高价格著称，但是它们也非常耐用，可以让您长时间享受游戏体验。\n客户：那这款笔记本电脑的配置怎么样？\n售货员：这款Alienware笔记本电脑配备了Intel Core i7处理器、16GB DDR4内存、512GB SSD存储、NVIDIA GeForce RTX 3070显卡等高端配置，可以运行各种大型游戏。\n客户：听起来很不错，但是我还是想知道它的价格是多少？\n售货员：这款笔记本电脑的价格是5000美元，但是我们可以提供一些优惠，让您可以享受到更好的价格。\n客户：好的，我想了解一下这些优惠。\n售货员：我们可以提供一些折扣和礼品，比如免费延长保修期、降低价格等等。您可以根据自己的需求和预算选择合适的优惠方式。\n客户：好的，我需要考虑一下，谢谢你的介绍。\n售货员：不用客气，如果您有任何其他问题或需要进一步的咨询，请随时联系我们。", "category": "extract"}
+{"question_id": 492, "text": "为以下文本分类：\n最新研究结果表明，经常使用手机的人很容易出现头痛、颈痛和手部疼痛等不适症状。使用手机时，人们通常会低头看屏幕，这会导致颈部肌肉长时间处于紧张状态，从而引发颈痛；同时，长时间使用手机也会导致手部疲劳和肌肉酸痛。此外，过度使用手机还会导致眼睛疲劳和干涩感，甚至会影响睡眠质量。因此，我们应该适度使用手机，注意调整坐姿和使用时间，避免过度使用手机带来的身体不适症状。", "category": "classification"}
+{"question_id": 493, "text": "提供一段说明请求，以解释一项特定技术的使用方式。\n文本内容：解释如何使用Github进行版本控制。", "category": "open qa"}
+{"question_id": 494, "text": "按照以下要求撰写一篇简答。\n人造光源的历史及其发展", "category": "generation"}
+{"question_id": 495, "text": "为一个自闭症患者编写一份个性化的治疗计划。\n患者是一个12岁的男孩，最喜欢的玩具是乐高积木。", "category": "generation"}
+{"question_id": 496, "text": "描述一个人造卫星的用途、构成和工作原理。", "category": "open qa"}
+{"question_id": 497, "text": "编写一个python程序，完成从raw文本数据集中提取出整数的任务，输出这些整数的总和。\n数据集：\n今天是21号，天气很好。我有两个苹果和三个橘子。这个电脑屏幕大小是15.6寸。这次旅行大约花费了800元，我们住了两晚酒店。总共有10个人参加了聚会。", "category": "coding"}
+{"question_id": 498, "text": "文化艺术报讯 国务院办公厅发布关于2023年部分节假日安排的通知，具体内容如下：元旦：2022年12月31日至2023年1月2日放假调休，共3天。春节：1月21日至27日放假调休，共7天。1月28日（星期六）、1月29日（星期日）上班。清明节：4月5日放假，共1天。劳动节：4月29日至5月3日放假调休，共5天。4月23日（星期日）、5月6日（星期六）上班。端午节：6月22日至24日放假调休，共3天。6月25日（星期日）上班。中秋节、国庆节：9月29日至10月6日放假调休，共8天。10月7日（星期六）、10月8日（星期日）上班。\n基于以上信息回答：2023年五一假期怎么放假。", "category": "extract"}
+{"question_id": 499, "text": "根据输入的问题，填写下面的空格。\n四川人喜欢吃___。", "category": "open qa"}
+{"question_id": 500, "text": "请说出三种常用的前端框架。", "category": "open qa"}
+{"question_id": 501, "text": "给定一篇文章，创建一个摘要，限制长度为三句话。\n文章：根据新闻报道，随着气温的升高，草地上的野花开始陆续绽放，缤纷的色彩让人心情愉悦。微风吹拂，花瓣轻轻摇曳，飘散出迷人的芬芳。这时，草地变成了一个绚烂多彩的世界，吸引了许多人前来欣赏这美丽的景象。特别是小孩子们，他们在花丛中尽情嬉戏打闹，捧着鲜花玩耍，充满着童趣和活力。他们的欢笑声在草地上回荡，将整个夏天的氛围变得更加欢快。这样的美好景象预示着即将到来的夏天将会充满无限的希望和美好。草地上的野花将持续绽放，让人们感受到大自然的美妙和生命的蓬勃。", "category": "summarization"}
+{"question_id": 502, "text": "根据给定文本，将文章分类为新闻、广告或文学作品。直接输出分类结果。\n今天的新闻报道了一场气旋袭击了印度东部的一个州，导致至少20人死亡。在丝绸之路上，我们推出了一个全新系列的产品。汤姆·索亚的冒险是一部经典的儿童文学作品。", "category": "classification"}
+{"question_id": 503, "text": "使用创意思维方法来产生尽可能多的使用口红的场景。", "category": "brainstorming"}
+{"question_id": 504, "text": "描绘一幅海滩的画面，包括天空，海浪和沙滩。", "category": "brainstorming"}
+{"question_id": 505, "text": "翻译一篇简短的新闻报道，翻译成中文。\nText: Japan's economy shrank for the first time in two years in the quarter of July-September, as natural disasters hit consumer spending and disrupted exports.", "category": "rewrite"}
+{"question_id": 506, "text": "阅读下列文本，回答问题：在中国古代，什么是科举制度？\n科举制度是中国古代选官制度，从唐朝开端，至清朝末年废止。管辖地区由国家设立的行省，即省境内的读书院、府、州、县所属，派出官吏组织考试，考察文、理商等科目的考生来选拔官吏。", "category": "closed qa"}
+{"question_id": 507, "text": "请根据以下提示回答问题：据说哪种食物可以帮助改善睡眠？\n提示：这种食物富含一种名为三色酚的物质，可以消除体内催眠物质的分解。", "category": "open qa"}
+{"question_id": 508, "text": "给定一组文章，提取其中的关键词，并将它们按频率从高到低排序。\n有一天，美丽的公主独自从森林里走过。她听到有人在喊救命，顺着声音找到了一个金发的王子，他的手被一根荆棘刺伤了。公主急忙将伤口清洗干净，并用自己的手帕为王子包扎。王子非常感激公主的帮助，但公主并没有留下姓名，就这样离开了。\n不久之后，困难时期到来了，公主的王国陷入了战争和贫困。公主为了保护自己的国家和人民，毅然决定向邻国求援。她身着朴素的衣服，独自一人踏上了漫长而危险的旅程。\n在路上，公主遇到了各种困难和危险，但她勇敢地面对，坚定地前行。她为了让自己的国家走出困境，不惜冒险，甚至牺牲自己的生命。\n最终，公主成功地获得了邻国的援助，帮助她的国家走出了困境。她成为了人民心目中的英雄，被后人铭记和敬仰。", "category": "extract"}
+{"question_id": 509, "text": "根据以下短文摘要主旨，并将摘要输出。\n杭州市城管部门派出7名巡查员来到西湖边，开展整治行动。在一处游船对面停着的几艘游艇上，执法人员发现了大约200人进行的私人聚会活动。这些人在船上BBQ、喝酒，环节琳琅满目，欢声笑语不断。根据《浙江省公共场所卫生管理规定》，执法人员要进行处罚。", "category": "summarization"}
+{"question_id": 510, "text": "阅读下方简短故事后，回答问题。\n石头剪子布是一个古老的游戏，两个人通过比划各自张开的手势来对决。石头胜于剪刀，剪刀胜于布，布胜于石头。如果两个人同时出相同的手势，就是平局。小明和小红玩石头剪子布，小明出了石头，小红出了布。谁赢了？", "category": "closed qa"}
+{"question_id": 511, "text": "解释以下术语：“印第安斯瓦拉气候法则”", "category": "open qa"}
+{"question_id": 512, "text": "描述发生在你家乡的一件有趣的事情。", "category": "brainstorming"}
+{"question_id": 513, "text": "回答问题，给出详细的答案。问题：用USB如何将计算机连接到打印机？", "category": "open qa"}
+{"question_id": 514, "text": "针对以下故事提供一个标题。杰克一直以来都在苦苦寻找自己的人生目标，但却总是无从下手。他曾试着找到一份好工作，努力赚钱，但始终觉得生活缺乏一些什么重要的东西。他也曾寻找爱情，但在多次恋爱失败后，他感到越来越迷茫，不知道该往何处去。直到有一天，他遇见了一个神秘的老人。这个老人看上去非常普通，但言语之间透露出一种深邃的智慧，令杰克十分钦佩。在老人的引导下，杰克开始思考自己的内心世界，并且发现了很多以前从未意识到的问题。随着时间的推移，杰克渐渐明确了自己的人生目标，并且开始朝着这个目标努力前行。他体会到了人生的意义和价值，也深深感悟到了“活着”的真正含义。从那以后，杰克的人生轨迹开始发生了翻天覆地的变化，他开始变得更加自信、坚定，也更加勇敢地面对生活的挑战。", "category": "summarization"}
+{"question_id": 515, "text": "给我以下文本的摘要，并分别提取文本中的关键字和实体：根据这则消息，共有四所学校和五名学生将获得该奖项。这些奖项的设立将有助于促进更多人对中南民族文学遗产的研究和保护。西南大学的少数民族文学研究中心的荀常谦教授认为，这样的奖项将起到激励作用，鼓励更多人参与到中南民族文学的研究和保护中来。希望通过这样的举措，能够增强人们对中南民族文学的重视和关注，进一步推动中南民族文学事业的发展和繁荣。", "category": "extract"}
+{"question_id": 516, "text": "根据提供的资料，为研究某种疾病的科学家提供相关的背景信息和疾病治疗方案的建议。\n疾病名称：肺癌，提供的资料：临床病例和医学报告", "category": "generation"}
+{"question_id": 517, "text": "给定一段话，用相反含义的话来重述原话。\n她很快乐，因为收到了一份礼物。", "category": "rewrite"}
+{"question_id": 518, "text": "针对一些公益活动提供建议和方案，例如如何为儿童健康保驾护航、如何推广垃圾分类等。", "category": "brainstorming"}
+{"question_id": 519, "text": "翻译一篇文章或一些句子到特定的语言。\n以下是一段英文文章：Despite repeated warnings from their parents and teachers, children often take risks. Although this can result in injury or other negative consequences, it helps children learn about themselves and the world around them. They gain confidence and resilience that will serve them well in adulthood. Translate to Spanish 。翻译成中文。", "category": "rewrite"}
+{"question_id": 520, "text": "写一篇关于教育的短文，包括你对雨果的名言的看法：“看一本好书就好像给你的人生开了一个窗户”", "category": "generation"}
+{"question_id": 521, "text": "有哪些方法可以用来减少细颗粒物(PM 2.5)的排放。", "category": "brainstorming"}
+{"question_id": 522, "text": "列出5个常见的网页浏览器。", "category": "open qa"}
+{"question_id": 523, "text": "最常见的癌症类型有哪些？", "category": "open qa"}
+{"question_id": 524, "text": "请解释为什么在人造卫星发射时，火箭发射台会点燃火箭底部的发动机。", "category": "open qa"}
+{"question_id": 525, "text": "翻译下面这个句子：I will always remember the day we met for the first time.", "category": "rewrite"}
+{"question_id": 526, "text": "给出一个你认为很有用的生活技巧。", "category": "brainstorming"}
+{"question_id": 527, "text": "根据给定的条件，提供一个日程安排。\n需要完成的工作：A）提交报告，B）安排会议，C）回复一封电子邮件，D）练习游泳。", "category": "generation"}
+{"question_id": 528, "text": "从已知的常识信息中推断答案：“一只鸟有没有牙齿？”", "category": "open qa"}
+{"question_id": 529, "text": "解决以下问题：如果您在电梯中卡住，应该怎么办？", "category": "open qa"}
+{"question_id": 530, "text": "列举三个所有职场人都应该具备的技能。", "category": "brainstorming"}
+{"question_id": 531, "text": "根据以下描述，为一件商品编写一则广告文案：这个吸尘器吸力超强，适用于各种不同的地面和表面，还自带消毒功能。", "category": "generation"}
+{"question_id": 532, "text": "提出TF-IDF算法的5种用途。", "category": "brainstorming"}
+{"question_id": 533, "text": "根据给定的材料，对以下问题进行答案的匹配：介绍中提到了哪些谷物？\n材料：这家烘焙店是一家注重品质和味道的店铺，它使用优质的全麦面粉、小麦和大麦粉来制作各种美味的面包和蛋糕。这些精心挑选的原材料来自于有机农场，确保了食材的新鲜和纯度。每个产品都经过精细的工艺制作，从混合、搅拌到烘焙，都充分体现了师傅们对于制作美食的专注和执着。在这里，你可以品尝到各种不同口味和形状的面包，包括经典的法棍面包、意大利面包和德国黑麦面包等，还有各种口感酥脆、软糯、香甜的蛋糕，例如椰子巧克力蛋糕、红丝绒蛋糕和芝士蛋糕等。除了这些传统的面包和蛋糕，这家烘焙店也不断创新推出一些新口味，例如蔬菜饼干、果仁蛋糕和无麸质面包等，让人们可以更加多样化地享受美食的乐趣。此外，这家烘焙店也注重环保和可持续发展，所有的包装和用具都采用可回收和可生物降解的材料，尽可能减少对环境的影响。无论是从味道、健康还是环保方面考虑，这家烘焙店都是一个绝佳的选择。", "category": "closed qa"}
+{"question_id": 534, "text": "将以下短句翻译成中文：\nShe is running in the park.\nHe is playing soccer with his friends.", "category": "rewrite"}
+{"question_id": 535, "text": "根据以下给出的信息，为一座城市编写一个旅游宣传语。城市位于海滨，有美丽的风景和历史悠久的博物馆。\n城市名：Brighton\n坐落于英国南部海滨\n夏天海滩人山人海\n历史悠久的皇家游乐场和一些博物馆", "category": "generation"}
+{"question_id": 536, "text": "根据给定的故事大纲，编写一篇两页长的小说\n大纲: 主人公是一个退休的警察，他在家中度过平静的日子，直到有一天，他接到了一个陌生人的电话，说他必须在24小时内拯救被绑架的人质。然后，一个惊心动魄的行动开始了。", "category": "generation"}
+{"question_id": 537, "text": "列举10个日常用品，并对其功能进行解释。", "category": "brainstorming"}
+{"question_id": 538, "text": "回答以下问题：马默斯将军在哪场战争中担任美国陆军总参谋长？", "category": "open qa"}
+{"question_id": 539, "text": "列出5个世界排名前十的高等教育机构。", "category": "open qa"}
+{"question_id": 540, "text": "列出一些有趣的职业", "category": "brainstorming"}
+{"question_id": 541, "text": "列举出组成地球大气层最多的前三种气体。", "category": "open qa"}
+{"question_id": 542, "text": "根据给定的文本生成一个主题词列表。\n人类早在4000年前就开始了清明节的祭祀活动。清明节是中国传统节日之一，时间在每年的公历4月4日或5日，是祭祀祖先、扫墓、祭奠逝者的日子。在清明节这一天，人们会到祖先的墓地扫墓、献花、烧纸钱、祭奠逝者，并且还有一些地方会进行悬挂柳条、踏青等民俗活动。清明节是中华民族传统文化的重要组成部分，也是中华民族丧葬文化的重要节日之一。", "category": "generation"}
+{"question_id": 543, "text": "对所给的英文文本进行中文翻译。\nGiven the current situation, it's crucial that we remain vigilant and continue to follow health guidelines.", "category": "rewrite"}
+{"question_id": 544, "text": "简要解释什么是核磁共振成像（MRI）技术，并描述其如何工作。", "category": "open qa"}
+{"question_id": 545, "text": "请描述一下作为一名AI语音助手的日常工作流程是如何进行的。", "category": "open qa"}
+{"question_id": 546, "text": "用户: 你好，我想聊聊关于旅游的话题。\nBot: 你好，我很乐意和你聊旅游。你有什么具体的问题或者想法吗？\n用户: 是的，我想知道你对于旅游的看法。你觉得旅游对于人们来说有什么好处？\nBot: 旅游可以给人们带来很多好处。首先，旅游可以让人们放松身心，减轻压力，放松心情。其次，旅游可以让人们了解不同的文化、风俗和历史，拓展人们的视野和思维方式。此外，旅游还可以促进人们的健康和锻炼，比如徒步旅行、滑雪、游泳等等。\n用户: 真的吗？我从来没有想过旅游还有这么多好处。那么，你有什么旅游的建议吗？\nBot: 当然了！如果你想旅游，我建议你先制定一个旅游计划，包括目的地、预算、时间等等。在选择目的地时，你可以考虑自己的兴趣爱好和偏好，比如文化、自然风光、美食等等。在旅行过程中，你可以尝试当地的特色美食、参加当地的文化活动、和当地人交流等等。最后，记得带上足够的现金和旅行保险，以应对不可预测的情况。\n用户: 好的，非常感谢你的建议！我会认真考虑的。\nBot: 不用客气，我很高兴能够帮助你。祝你旅途愉快！\n基于以上对话，请问：旅游对于人们有哪些好处？", "category": "extract"}
+{"question_id": 547, "text": "将以下文本翻译为英语。\n美国总统在新闻发布会上谴责最近发生的一系列恐怖袭击事件。", "category": "rewrite"}
+{"question_id": 548, "text": "使用生成模型生成一段描述一件艺术品的文本。\n一幅著名的油画“星夜”。", "category": "generation"}
+{"question_id": 549, "text": "根据以下描述，分类这个物体属于什么类型。\n这个物体有四个轮子，可以用来代步。", "category": "classification"}
+{"question_id": 550, "text": "回答一个开放性问题：你认为使用电子设备会对人的眼睛造成伤害吗？为什么？", "category": "open qa"}
+{"question_id": 551, "text": "列出解决以下问题的三个办法。\n吃坚果时怎样才能更容易地剥开外壳？", "category": "brainstorming"}
+{"question_id": 552, "text": "根据下列品牌特点，提供一些提升品牌知晓度的建议。\n品牌：大象汽车\n特点：环保、安全、实用。", "category": "brainstorming"}
+{"question_id": 553, "text": "想出十个不同的应用场景来使用一个夹子。", "category": "brainstorming"}
+{"question_id": 554, "text": "对于给定的问题，提供详细的答案和支持材料。\n解释亚当·斯密的“看不见的手”理论，并给出一个实际的例子。", "category": "open qa"}
+{"question_id": 555, "text": "指定一组文本，并将它们按照给定关键字进行分类\n文本集: 武侠小说《天龙八部》的作者是金庸，该书的主要角色有乔峰，段誉等。唐代白居易所作的《琵琶行》是一首较为著名的诗歌，而且许多人都通过网络听说过这首诗。杨绛是一位著名的女作家，她的代表作是《洛水诗集》。\n关键字: 武侠小说，诗歌，女作家", "category": "classification"}
+{"question_id": 556, "text": "给定以下文本，将这段文本压缩成一句话，长度不能超过100个字符。在这座城市的中心地带，我们发现了一家新开业的烘焙店。当我们走进店内时，热腾腾的香气扑鼻而来，使得我们的胃口顿时大开。烤炉里刚刚出炉的面包和蛋糕散发出诱人的香味，让我们感觉好像置身于一个甜蜜的梦境中。店内的菜单上展示着各种口味的面包和糕点，包括柔软的法式面包，酥脆的可颂面包，还有诱人的蓝莓饼干和香草松饼等。在这里，我们可以享受到最新鲜的烘焙美食，让人垂涎欲滴。", "category": "summarization"}
+{"question_id": 557, "text": "为下一场比赛写一篇赛前演讲。\n下一场比赛的对手是战斗力强劲的火焰队。", "category": "generation"}
+{"question_id": 558, "text": "将以下两个句子标记为并列，还是因果关系，还是无关。\n我在学习中得到了好成绩。我参加了辅导班。", "category": "classification"}
+{"question_id": 559, "text": "为以下描述的商品分类：红提子葡萄酒、哇哈哈红牛、宝之谷园艺土、华为手机", "category": "classification"}
+{"question_id": 560, "text": "将一篇英文新闻摘要翻译成中文。\n请翻译以下英文新闻标题：Tesla Model S Plaid debuts with new motor tech, 0-60 mph in less than 2 seconds", "category": "rewrite"}
+{"question_id": 561, "text": "给以下描述匹配一个适当的标题。布拉格是位于中欧的捷克共和国首都，是一个拥有悠久历史和文化遗产的城市。布拉格不仅是欧洲历史和文化的中心，也是艺术、文学和哲学的聚集地，许多文化名人曾在这里留下了深刻的印记。布拉格的建筑风格独具特色，古老的城堡、教堂、桥梁和广场都散发着浓厚的中世纪和文艺复兴气息。这里还拥有许多世界闻名的博物馆和艺术展览馆，其中包括充满异域风情的斯特拉科维斯宫、珍藏了世界各地艺术珍品的国家美术馆，以及保存着捷克共和国历史文化遗产的国家博物馆。布拉格是一个充满活力和创意的城市，它孕育了许多杰出的文化名人，如毕加索、达利、约瑟夫•康拉德、米兰•昆德拉、高尔基、哈维尔•维特克等。这些文化名人的作品和思想都对布拉格的历史和文化产生了深远的影响。总之，布拉格是一个充满魅力和吸引力的城市，它的历史和文化遗产值得人们前来一游。无论是欣赏古老建筑的魅力，还是探索文化名人的足迹，布拉格都会让人留下难忘的记忆。", "category": "summarization"}
+{"question_id": 562, "text": "请将以下动物分类为哺乳动物或非哺乳动物:鲨鱼，老虎，乌龟，猫头鹰，鸟类", "category": "classification"}
+{"question_id": 563, "text": "以下代码有什么问题？\n```python\\ndef add_numbers(num1, num2):\\n result = num1 + num2\n result = add_numbers(5, 10)\\n print(result)\\n```", "category": "coding"}
+{"question_id": 564, "text": "请分类以下电影:The Shawshank Redemption, The Godfather, The Dark Knight, Titanic", "category": "classification"}
+{"question_id": 565, "text": "回答以下问题:谁是美国第一位女性宇航员？", "category": "open qa"}
+{"question_id": 566, "text": "请回答以下问题:“世界上最大的沙漠是哪个？”", "category": "open qa"}
+{"question_id": 567, "text": "请根据以下描述，将以下物品分类为水果或蔬菜:黄瓜、苹果、西红柿、香蕉、胡萝卜", "category": "classification"}
+{"question_id": 568, "text": "一块长方形地的长是35米，周长是120米。这块地的面积是多少平方米?", "category": "math"}
+{"question_id": 569, "text": "请将以下句子分类为正面或负面:“这部电影真是太精彩了，我已经看了三遍了！”", "category": "classification"}
+{"question_id": 570, "text": "请列出5个最近的电影，并对每个电影提供一段简短的介绍。", "category": "brainstorming"}
+{"question_id": 571, "text": "请给我推荐一些适合初学者的编程语言", "category": "brainstorming"}
+{"question_id": 572, "text": "请给我推荐一些适合健身的食谱", "category": "brainstorming"}
+{"question_id": 573, "text": "如何在Python中读取和写入CSV文件？", "category": "coding"}
+{"question_id": 574, "text": "请回答以下问题:“中国的首都是哪里？”", "category": "open qa"}
+{"question_id": 575, "text": "请给我推荐一些适合在家健身的训练计划", "category": "brainstorming"}
+{"question_id": 576, "text": "根据以下文章回答下面问题：新公司的目标是什么？文章内容\\n据报道，英特尔公司首席架构师拉加·柯杜力（Raja Koduri）日前离职，他计划创办一家新的人工智能应用软件公司，新公司直指图形芯片巨头英伟达，柯杜力希望通过软件和工具渠道、能打破英伟达处理器在数字电影和游戏行业的主导地位。当地时间周二，英特尔首席执行官帕特·基尔辛格（Pat Gelsinger）披露了柯杜力离职的消息。柯杜力表示，新创办的半导体公司还没有命名，他准备开发目前处于热潮中的生成式人工智能软件工具，这些创意工具可以配合英特尔、苹果、AMD公司的处理器一起使用，他还准备将来支持根据开放源码RISC-V技术开发的处理器。", "category": "closed qa"}
+{"question_id": 577, "text": "根据以下文章回答下面问题：比赛的局势如何？哪个队领先？文章内容：北京时间3月21日消息，CBA常规赛展开第38轮的争夺，坐镇主场的辽宁队105-77大胜苏州肯帝亚队取得3连胜。辽宁队李晓旭14分5篮板，郭艾伦15分9助攻2抢断，张镇麟14分6篮板4抢断，弗格15分，桑普森12分2抢断，莫兰德13分8篮板，赵继伟13分6助攻5抢断。肯帝亚队赵率舟14分5篮板，刘志轩8分5篮板4助攻，布莱克尼28分10篮板5助攻，吴冠希9分5篮板。首节比赛，双方比分交替上升，先后5次战成平分，辽宁22-20领先。次节，比赛局势依然焦灼，辽宁最多只领先6分，肯帝亚队在节中一度实现反超，郭艾伦上篮得手，随后又助攻赵继伟命中三分，半场结束辽宁50-46领先。", "category": "closed qa"}
+{"question_id": 578, "text": "小胖要看一本300页的故事书，计划每天看10页，实际每天看12页．实际比计划少看多少天？", "category": "math"}
+{"question_id": 579, "text": "生成一句关于环保的口号", "category": "generation"}
+{"question_id": 580, "text": "基于以下表格，请问张三的考勤情况\n员工姓名,日期,上班时间,下班时间,是否迟到,是否早退,是否请假\n张三,1月1日,8:30,17:30,否,否,否\n李四,1月1日,9:00,18:00,是,否,否\n王五,1月1日,8:00,16:30,否,是,否\n赵六,1月1日,8:30,17:00,否,否,是\n张三,1月2日,8:00,17:00,否,否,否\n李四,1月2日,8:30,17:30,否,否,否\n王五,1月2日,9:00,18:00,是,否,否\n赵六,1月2日,8:30,17:00,否,否,是", "category": "extract"}
+{"question_id": 581, "text": "根据以下文章回答下面问题：腾讯控股2022年第四季度的净利润同比增长了多少？文章内容：3月22日下午消息，腾讯控股今日发布2022年第四季度及全年财报。财报显示，该公司第四季度营收1449.5亿元，同比增长1%；净利润1062.7亿元，同比增长12%，非国际财务报告准则下，净利润297.1亿元，同比增长19%。整个2022年，腾讯营收5545.5亿元，同比下滑1%；净利润1882.4亿元，同比下滑16%，非国际财务报告准则下，净利润1156.5亿元，同比下滑7%。", "category": "closed qa"}
+{"question_id": 582, "text": "请回答以下问题:在哪个国家举办了2018年世界杯足球赛？", "category": "open qa"}
+{"question_id": 583, "text": "请输出世界上最高的山峰是什么", "category": "open qa"}
+{"question_id": 584, "text": "请将以下英文句子翻译成中文:Hello, how are you today?", "category": "rewrite"}
+{"question_id": 585, "text": "请问什么是太阳系中离太阳最近的行星？", "category": "open qa"}
+{"question_id": 586, "text": "编写一个名为`get_average`的函数，接收一个包含数字的列表并返回它们的平均值。", "category": "coding"}
+{"question_id": 587, "text": "根据以下文章回答下面问题：为什么学习外语可以为你的职业生涯打下坚实的基础？文章内容：学习外语是一项极其重要的技能，它不仅可以帮助你更好地了解世界，还可以为你的职业生涯打下坚实的基础。以下是为什么要学习外语的几个原因1. 获得更广泛的工作机会和职业发展在全球化的今天，知道多种语言可以为你的职业生涯开启更广阔的大门。许多公司都在寻找能够流利使用多种语言的员工，他们可以与客户和合作伙伴进行更好的交流，并更好地处理跨文化事务。2. 增强你的智力学习外语可以促进你的认知能力和思维能力。学习新语言不仅可以增加你的词汇量，还可以帮助你更好地理解其他文化的背景和思维方式。3. 了解其他文化学习外语可以让你更好地了解其他国家和文化的背景。当你学习一门新的语言时，你会了解到其他国家的历史、文化和社会背景，这有助于你更好地理解和尊重其他文化。4. 改善你的旅行经验当你旅行时，知道其他语言可以让你更好地沟通和理解当地的文化。你可以更好地了解当地的美食、文化和历史，并与当地人更好地交流。5. 增强你的自信学习外语可以帮助你更好地理解其他人，并在与他人交流时更加自信。你会感到更加舒适和自信，因为你知道你可以在任何语言环境下与他人交流。", "category": "closed qa"}
+{"question_id": 588, "text": "请回答以下问题:地球的大小是多少？", "category": "open qa"}
+{"question_id": 589, "text": "根据以下文章回答下面问题：零跑公司的毛利率是什么情况？ 文章内容：造车新势力二梯队中，唯一成功上市的零跑汽车，发布了2022年财务业绩。零跑的年收入从2021年的31亿元，翻三倍至124亿元，但同时净亏损也从29亿元扩大至51亿元。公司的毛利率依然是负数，短期内赚钱不太现实，不过相比之前已经有很大程度改善。截至去年底，零跑公司的账上有88亿元现金，数量不算多，但也够它再跑一段时间了。在香港上市以来，零跑的股价在挂牌首日即跌破发行价，大跌33.5%，至今半年累计跌去37.5%，市值350亿港元。", "category": "closed qa"}
+{"question_id": 590, "text": "请编辑以下段落，使其更具可读性，并确保所有语法正确:\"虽然寒冷，但我喜欢户外运动。我和朋友经常晨跑，即使天气不好也不会放弃。\",", "category": "rewrite"}
+{"question_id": 591, "text": "请回答以下问题:猫头鹰属于哪一种动物类别？", "category": "open qa"}
+{"question_id": 592, "text": "请为以下主题写一篇总结:人工智能在医疗领域的应用现状。", "category": "generation"}
+{"question_id": 593, "text": "父亲：儿子，你高中毕业了，现在打算上哪个大学？\n儿子：爸爸，我已经准备好了申请资料，想申请一个好的本科专业。\n父亲：那你已经想好申请哪些大学了吗？\n儿子：是的，我计划申请几所排名靠前的大学。我已经做了很多研究，准备在学业、社交和职业规划等方面全面提升自己。\n父亲：很好！你一直都很努力，爸爸妈妈一直都很自豪。上大学是一个新的起点，你需要面对更多的挑战和机会。你有什么打算？\n儿子：我计划尽早适应大学生活，参加各种社团和课外活动，拓宽自己的视野和人际圈。同时，我会认真学习专业知识和技能，努力取得好成绩，争取获得奖学金和其他荣誉。\n父亲：非常好！你的计划很明智，爸爸相信你一定会有一个充实而有意义的大学生活。爸爸会一直支持你的决定，希望你取得好成绩，为你的未来打下坚实的基础。\n儿子：谢谢爸爸！我会加倍努力，不辜负您对我的期望。\n这段对话中，儿子打算上大学后有哪些计划和打算？", "category": "extract"}
+{"question_id": 594, "text": "请给我推荐一些适合儿童观看的动画电影", "category": "brainstorming"}
+{"question_id": 595, "text": "将以下文本分类为新闻、广告、还是论坛帖子:“最新款iPhone 13现已上市，速来选购！”", "category": "classification"}
+{"question_id": 596, "text": "请提供一个简洁的描述，解释机器学习是什么", "category": "open qa"}
+{"question_id": 597, "text": "请将以下文本分类为正面、负面或中性情感:这家餐厅的食物非常好吃，但服务有待改善", "category": "classification"}
+{"question_id": 598, "text": "请推荐一本关于人工智能的书籍，需要提供书名和作者", "category": "brainstorming"}
+{"question_id": 599, "text": "给我推荐一本关于人工智能的好书，应该包含最新的研究和发展，适合初学者和专业人士。", "category": "brainstorming"}
+{"question_id": 600, "text": "分类以下电影，是喜剧还是恐怖片？\\n电影《逃出绝命镇》", "category": "classification"}
+{"question_id": 601, "text": "将以下电影作品归类为喜剧或惊悚片:小丑、疯狂动物城、窃听风暴、恐怖游轮、超能查派、惊声尖叫", "category": "classification"}
+{"question_id": 602, "text": "以下代码运行后输出什么？\\n```\\ndef add(x, y):\\nreturn x + y\nresult = add(2, 3, 4)\\nprint(result)\\n```", "category": "coding"}
+{"question_id": 603, "text": "给出以下问题的答案:“什么是全球变暖？”", "category": "open qa"}
+{"question_id": 604, "text": "编写python函数sum_digits(num)，计算一个数的所有数字的和。", "category": "coding"}
+{"question_id": 605, "text": "写一个python函数，函数名为addition，有两个参数a和b，返回它们的和。", "category": "coding"}
+{"question_id": 606, "text": "请根据以下输入内容，生成一篇关于环保的文章:垃圾分类、节约用水、减少碳排放、可持续发展", "category": "generation"}
+{"question_id": 607, "text": "编写一个名为 `count_vowels` 的python函数，接收一个字符串并返回其中元音字母的数量", "category": "coding"}
+{"question_id": 608, "text": "请提供三个最流行的电影类型，以及每个类型中最受欢迎的电影的名称。", "category": "brainstorming"}
+{"question_id": 609, "text": "请提供一篇关于机器学习的文章", "category": "brainstorming"}
+{"question_id": 610, "text": "安迪：我觉得，时间太宝贵了，不应该浪费在报复上。当然，如果有人伤害了你的朋友，你就可以想方设法让他付出代价。但是，这只会让你变得跟他一样，而且还会把你关在一种无法自拔的心态中。\n瑞德：你听起来好像有点被他们洗脑了。\n安迪：我可能是，不过至少我还有自己的想法。\n瑞德：你知道，我一直在想这个问题，如果一个人可以真正的变得自由，那他会不会像你一样对待别人？\n安迪：我不知道，也许会，也许不会。我想关键在于是否能够在自己的心里找到真正的自由。\n瑞德：真正的自由？\n安迪：是的，我想，真正的自由是在你内心找到自己的位置，无论你身在何处，都可以自由自在地生活。\n瑞德：（微笑）那我想我还有一段路要走。\n这段对话中，安迪和瑞德各自持有什么样的态度，他们对报复和自由的看法有何不同之处？", "category": "extract"}
+{"question_id": 611, "text": "请为以下电影推荐一部类似的电影:“肖申克的救赎”", "category": "brainstorming"}
+{"question_id": 612, "text": "为什么公司的销售额下降了？", "category": "open qa"}
+{"question_id": 613, "text": "请将以下句子改写为间接引语。他说“我今天很忙。”", "category": "rewrite"}
+{"question_id": 614, "text": "根据以下文章回答下面问题：为什么汇丰银行要试行一星期7天营业？文章内容：近日，一则与“大量富豪正在把钱从美国、瑞士转回香港和新加坡”、“香港银行员工不放假”相关的图片被大量转发。恰逢汇丰银行宣布3家分行试行一星期7天营业，该消息持续发酵。不过，汇丰银行最新回应称，该行持续相关分行的7天营业，是与自香港与内地全面通关后到访人数暴涨有关。根据汇丰公告，此次试点分行包括海洋中心汇丰尚玉及卓越理财中心、柏宁卓越理财中心及观塘分行。这三家分行分别位于尖沙咀广东道5号海洋中心三阶351-60号；铜锣湾告士打道310号柏宁酒店地下A、B、D、E及F铺；观塘开源道71号王子大厦1楼。", "category": "closed qa"}
+{"question_id": 615, "text": "请告诉我什么是区块链技术，以及它的应用领域有哪些？", "category": "open qa"}
+{"question_id": 616, "text": "根据以下文章回答下面问题：为什么比尔·盖茨认为OpenAI的GPT AI模型是技术上最具革命性的进步？文章内容：联合创始人比尔·盖茨表示，自1980年他第一次看到现代图形用户界面（GUI）以来，OpenAI的GPT AI模型是技术上最具革命性的进步，这是他67年的人生中第二次被科技真正震撼到。盖茨周二在自己的博客GatesNotes上写道，第一次是在1980年，当时他接触到了图形用户界面，这成为他创建微软Windows操作系统的基石。他说，第二次是在2022年年中，当时他向OpenAI及其生成式人工智能ChatGPT提出了挑战，让它做一些没有经过训练或编程的事情。盖茨选择高等生物学考试作为挑战，并估计这将需要大约两到三年的时间，结果在几个月的时间里，ChatGPT就通过了考试，60道选择题中有59道答对了，6道开放式题的答案也“非常出色”。盖茨说“当它通过测试后，我们问了它一个非科学的问题‘你会对一个孩子生病的父亲说什么？’它写了一个经过深思熟虑的答案，可能比我们在场的大多数人都会给出的答案要好。”“整个经历令人震惊，我知道我刚刚看到了自图形用户界面以来最重要的技术进步。”", "category": "closed qa"}
+{"question_id": 617, "text": "为什么一个垂直向下的物体落地前会加速？", "category": "open qa"}
+{"question_id": 618, "text": "服装加工厂要做980套衣服，已经做了320套。如果剩下的衣服要6天做完，平均每天要做多少套?", "category": "math"}
+{"question_id": 619, "text": "为什么铁比木头更容易被磁化？", "category": "open qa"}
+{"question_id": 620, "text": "请将以下文本进行分类:3月17日，“第三届世界苜蓿大会”隆重召开，优然牧业受邀出席大会，优然牧业副总经理井志伟做了《规模化优质苜蓿产业实践及展望》的主题演讲，并与来自国内外牧草领域的权威专家，共同交流分享全球苜蓿产业最新成果、种植经验和案例，旨在推进中国苜蓿产业高质量发展。", "category": "classification"}
+{"question_id": 621, "text": "将以下句子改为反义疑问句。他喜欢吃巧克力。", "category": "rewrite"}
+{"question_id": 622, "text": "请为以下新闻标题编写一篇100字的摘要:“新研究表明，喝咖啡可能会增加长寿风险。”", "category": "generation"}
+{"question_id": 623, "text": "请根据以下语境改写句子。原句我昨天买了一本新书。语境我想强调这本书非常好看。", "category": "rewrite"}
+{"question_id": 624, "text": "请生成一篇关于太空探索的文章，至少500个单词", "category": "generation"}
+{"question_id": 625, "text": "请根据以下文章摘要，生成一篇300字的新文章：人工智能在医疗领域的应用。", "category": "generation"}
+{"question_id": 626, "text": "下面的代码有什么错误？如何修复？\\n```python\\nclass Rectangle:\\ndef __init__(self, width, height):\\nself.width = width\\nself.height = height\\ndef area(self):\\nreturn self.width * self.heigh\\nrect = Rectangle(5, 10)\\nprint(rect.area())\\n```", "category": "coding"}
+{"question_id": 627, "text": "请给我推荐一本自助成长书籍。", "category": "brainstorming"}
+{"question_id": 628, "text": "从一个长8分米，宽5分米的长方形木板上锯下一个最大的圆，这个圆的面积是多平方分米？", "category": "math"}
+{"question_id": 629, "text": "请分类下面这些单词:狗、篮球、橙汁、电视、蓝色、石头、苹果、橙子。", "category": "classification"}
+{"question_id": 630, "text": "请分类以下电影:“阿甘正传”，“泰坦尼克号”，“霸王别姬”", "category": "classification"}
+{"question_id": 631, "text": "请回答以下问题:“蚂蚁是哪个大陆的特有动物？”", "category": "open qa"}
+{"question_id": 632, "text": "请根据以下问题，重写以下句子我最喜欢的水果是苹果，因为它又甜又好吃。问题你为什么喜欢苹果？你平时都在哪里买苹果？。", "category": "rewrite"}
+{"question_id": 633, "text": "请写一句话描述你最喜欢的电影，包括电影的类型和主要角色。", "category": "brainstorming"}
+{"question_id": 634, "text": "根据以下文本内容，生成一篇文章的概要:以下是一段文本内容未来的世界里，人工智能将会扮演着越来越重要的角色，人们需要学习如何与AI进行合作，而不是抗争。", "category": "generation"}
+{"question_id": 635, "text": "根据以下输入生成电影推荐:我喜欢科幻电影和动作电影", "category": "brainstorming"}
+{"question_id": 636, "text": "请回答以下问题:印度尼西亚的首都是哪里？", "category": "open qa"}
+{"question_id": 637, "text": "请根据以下输入的电影名称，给出一些相关的电影推荐:阿甘正传,", "category": "brainstorming"}
+{"question_id": 638, "text": "根据以下文本生成一篇同义文章:“人工智能正在改变我们的生活方式。它正在推动医疗保健、能源和金融等各个领域的发展，同时也在创造新的就业机会。”", "category": "generation"}
+{"question_id": 639, "text": "请用一句话总结以下段落：保护环境的重要意义随着我国经济的发展，有效利用能源、减少环境污染、降低安全生产事故频次，防止突发环境事件，确保生命安全的重要性日益凸显。制定并执行环保政策和措施，致在保护环境的同时改善人民的生活质量，已经成为我国民生工程的关注点。保护环境不仅关乎人们的生存环境，也影响着经济发展。", "category": "summarization"}
+{"question_id": 640, "text": "请根据以下文本的主题为其添加一个标题:随着大数据、云计算、互联网、物联网等信息技术的发展，泛在感知数据和图形处理器等计算平台推动以深度神经网络为代表的人工智能技术飞速发展，大幅跨越了科学与应用之间的“技术鸿沟”，诸如图像分类、语音识别、知识问答、人机对弈、无人驾驶等人工智能技术实现了从“不能用、不好用”到“可以用”的技术突破，迎来爆发式增长的新高潮。", "category": "generation"}
+{"question_id": 641, "text": "A：您好，老师，我有一个问题想请教您。我现在是大学生，但是对我的未来职业规划感到有些困惑。我不确定自己应该做什么。\nB：你好，A同学。职业规划是一个非常重要的问题，我可以帮助你想一想。你有任何职业方向的想法吗？\nA：我有一些想法，但都没有特别明确。我有时候想成为一名教师，但有时候也想尝试做一些其他的工作，比如从事商业或者技术方面的工作。\nB：这些都是非常不错的职业方向。但是，你需要先弄清楚自己的兴趣爱好和技能，才能找到最适合自己的职业。\nA：我明白了。但是我不知道怎样才能找到自己真正的兴趣爱好和技能。我不想选错了方向。\nB：这是一个非常好的问题。你可以开始探索一些你感兴趣的领域，例如参加一些社团活动、课外活动或者志愿服务，来了解自己的兴趣爱好和技能。此外，你也可以尝试一些实习或者兼职，来锻炼自己的实践能力和职业技能。\nA：好的，我明白了。谢谢您的建议，老师。\nB：不用客气。职业规划是一个长期的过程，需要不断地探索和尝试。只要你保持积极的心态和不断地努力，你一定能找到最适合自己的职业。\n基于以上对话，请问：大学生应该如何找到自己真正的兴趣爱好和技能？", "category": "extract"}
+{"question_id": 642, "text": "学校有女老师43人，男老师比女老师少27人，学校一共有老师多少人?", "category": "math"}
+{"question_id": 643, "text": "请推荐一些适合婚礼场合的服装品牌", "category": "brainstorming"}
+{"question_id": 644, "text": "编辑以下文章，加入更多的细节和描述，使得它更加生动。我昨天去了一家新开的餐厅，点了一份牛排和一杯红酒。食物味道不错，但是服务员态度很差。", "category": "rewrite"}
+{"question_id": 645, "text": "如果所有梨都是水果，那么所有水果都是梨吗？", "category": "open qa"}
+{"question_id": 646, "text": "请根据以下文本，判断其中的情感是积极、消极还是中性:“我今天在公司里得到了晋升，感觉非常高兴。”", "category": "classification"}
+{"question_id": 647, "text": "对于这个话题，请你写一篇300字左右的文章，话题如何提高自己的英语口语水平？", "category": "generation"}
+{"question_id": 648, "text": "请回答以下问题:“人类有多少种基本情绪？”", "category": "open qa"}
+{"question_id": 649, "text": "为什么电梯掉下来时，我们可以用跳起来的方式生还？", "category": "open qa"}
+{"question_id": 650, "text": "如果鱼在水里生活，那么所有在水中生活的动物都是鱼吗？", "category": "open qa"}
+{"question_id": 651, "text": "将以下句子进行改写，使其更加简洁明了:“由于天气炎热，他决定不去户外运动了。”", "category": "rewrite"}
+{"question_id": 652, "text": "一条跑道长400米，小明每天跑5个来回，他每天跑多少千米？", "category": "math"}
+{"question_id": 653, "text": "将以下句子改写成反义疑问句。她是一名医生。", "category": "rewrite"}
+{"question_id": 654, "text": "铺720平方米的地板，要用边长6分米的方砖多少块?", "category": "math"}
+{"question_id": 655, "text": "请提供5首最近的流行歌曲", "category": "brainstorming"}
+{"question_id": 656, "text": "用长120厘米的铁丝围成一个长方形，长是宽的1.5倍，求它的宽是多少厘米", "category": "math"}
+{"question_id": 657, "text": "根据以下文章回答下面问题：谁正在与制片公司商谈合作？文章内容：根据以下文章生成对应的问题和答案　　新浪娱乐讯 詹妮弗·洛佩兹将出演体育题材新片《不可阻挡》（Unstoppable），本·阿弗莱克和马特·达蒙的制片公司Artists Equity制作，正与亚马逊商谈继《Air》后再合作。", "category": "closed qa"}
+{"question_id": 658, "text": "回答以下问题:地球的自转周期是多少小时？", "category": "open qa"}
+{"question_id": 659, "text": "请根据以下文本生成一篇新闻报道:本周，股市出现了大幅下跌，投资者开始担心全球经济的前景。", "category": "generation"}
+{"question_id": 660, "text": "请根据以下文本对其进行分类:“苹果公司发布了新的iPhone，这款手机有更高的像素和更长的电池寿命。”", "category": "classification"}
+{"question_id": 661, "text": "根据以下问题，编写一个简短的科普文章,:题目为“什么是黑洞？”", "category": "generation"}
+{"question_id": 662, "text": "请根据以下问题，提供一个问题解决方案。:问题如何保持一个健康的生活方式？", "category": "brainstorming"}
+{"question_id": 663, "text": "给出以下问题的答案:为什么大熊猫濒临灭绝？", "category": "open qa"}
+{"question_id": 664, "text": "一种会议室的长桌的单价是7800元，与它配套的12把椅子每把105元，买一套桌椅一共需要多少元？", "category": "math"}
+{"question_id": 665, "text": "请将以下文本进行改写，使得它更加生动有趣。我昨天去逛商场，买了一件新衣服。", "category": "rewrite"}
+{"question_id": 666, "text": "基于以下信息，一句话总结今日的销售情况：\n日期,商品名称,单价（元）,数量,折扣,小计（元）,支付方式,备注\n2023-04-14,饼干,5.00,2,无,10.00,微信支付,无\n2023-04-14,汽水,3.50,1,无,3.50,现金支付,无\n2023-04-14,巧克力,12.00,1,8折,9.60,支付宝,优惠活动\n2023-04-14,方便面,4.50,3,无,13.50,银行卡,无\n2023-04-14,纸巾,1.00,5,无,5.00,微信支付,无\n2023-04-14,雪糕,6.00,2,9折,10.80,支付宝,优惠活动\n2023-04-14,果汁,8.00,1,无,8.00,现金支付,无", "category": "summarization"}
+{"question_id": 667, "text": "为什么一些化学反应只在特定温度和压力下发生？", "category": "open qa"}
+{"question_id": 668, "text": "实验小学有6个年级，每个年级有3个班，平均每个班有42名学生，这个学校共有多少名学生？", "category": "math"}
+{"question_id": 669, "text": "请将下面这段文本进行改写，使得它更加简明易懂:“在现代社会中，信息技术扮演着重要的角色。信息技术使得人们的生活更加便捷，并且促进了各行各业的发展。”", "category": "rewrite"}
+{"question_id": 670, "text": "请重写以下句子，使其更加简洁明了:“在今天的会议上，我们将讨论公司的未来规划，以及如何扩大我们的市场份额。”", "category": "rewrite"}
+{"question_id": 671, "text": "请将下面这段文本进行改写，使得它更加客观。我认为，这个城市是世界上最美丽的城市之一。它有许多历史建筑和美丽的风景。", "category": "rewrite"}
+{"question_id": 672, "text": "一块菜地的5/8种了菜花，2/8种了黄瓜，剩余的种了西红柿，种西红柿的面积占这块菜地的几分之几?", "category": "math"}
+{"question_id": 673, "text": "请编辑以下句子，使其更加简洁明了:尽管他很努力工作，但他的公司仍然破产了。", "category": "rewrite"}
+{"question_id": 674, "text": "请将下列句子进行改写，使其语气更加委婉。你的建议很糟糕。", "category": "rewrite"}
+{"question_id": 675, "text": "请回答以下问题:在哪个国家可以找到自由女神像？", "category": "open qa"}
+{"question_id": 676, "text": "甲、乙两个班人数的比为6:5，甲班给乙班3人，乙班仍然比甲班少1人，求甲班有多少人?", "category": "math"}
+{"question_id": 677, "text": "红花有32朵，黄花朵数比红花的2倍少10朵，红花比黄花少多少朵？", "category": "math"}
+{"question_id": 678, "text": "给我推荐一本关于烹饪的书", "category": "brainstorming"}
+{"question_id": 679, "text": "将以下文本编辑成更清晰的版本:狗是哺乳动物，通常有四肢。它们与人类建立了深厚的友谊。", "category": "rewrite"}
+{"question_id": 680, "text": "请根据以下描述，生成一段摘要：无人驾驶汽车是智能汽车的一种，也称为轮式移动机器人，主要依靠车内的以计算机系统为主的智能驾驶仪来实现无人驾驶的目标。从20世纪70年代开始，美国、英国、德国等发达国家开始进行无人驾驶汽车的研究，在可行性和实用化方面都取得了突破性的进展。中国从20世纪80年代开始进行无人驾驶汽车的研究，国防科技大学在1992年成功研制出中国第一辆真正意义上的无人驾驶汽车。2005年，首辆城市无人驾驶汽车在上海交通大学研制成功。世界上最先进的无人驾驶汽车已经测试行驶近五十万公里，其中最后八万公里是在没有任何人为安全干预措施下完成的。", "category": "summarization"}
+{"question_id": 681, "text": "以下代码有什么问题？\n```python\\ndef say_hello(name):\\nprint('Hello, ' + name)\nsay_hello('Alice')\\n```", "category": "coding"}
+{"question_id": 682, "text": "给我推荐一个适合在周末做的DIY手工活动", "category": "brainstorming"}
+{"question_id": 683, "text": "请根据以下文本为其生成一个摘要：培训中，讲师从“牛奶的来源与形成、牛奶的营养价值和作用、牛奶的营养如何保留、如何科学选牛奶、怎么吃才健康”等主题出发，将理论知识和真实案例结合起来，生动形象地向大家普及了合理膳食和科学饮奶知识，进一步强化了社区公益宣讲员队伍建设，提高了宣讲员知识水平。此次培训班内容丰富、形式多样、互动性强，干货满满。现场，优秀学员代表郑善周说道“此次培训班让我学到了很多的健康知识，知道了喝含活性营养的牛奶才能把营养价值最大化。作为政府机关退休干部，会持续发挥余热，做好社区公益宣讲员工作，把课堂学到的知识传播出去，为大家普及牛奶常识，让营养更好地守护万家健康。”", "category": "summarization"}
+{"question_id": 684, "text": "请提供一个有关人工智能的实际应用案例（不包括自然语言处理和图像识别），并简要描述其功能和优势：AlphaGo", "category": "brainstorming"}
+{"question_id": 685, "text": "根据这篇文章的主题将其归类:2015广东民间潮乐大赛在汕头举行", "category": "classification"}
+{"question_id": 686, "text": "请为以下商品描述写一段广告词“:这款智能手表具有多种运动模式和健康监测功能。”", "category": "generation"}
+{"question_id": 687, "text": "请根据以下问题提供答案:夏威夷最大的岛屿是哪个？", "category": "open qa"}
+{"question_id": 688, "text": "定义一个名为add的python函数，该函数有两个参数x和y，可以将x和y两个数相加并返回结果。", "category": "coding"}
+{"question_id": 689, "text": "请问比萨饼的起源是哪个国家？", "category": "open qa"}
+{"question_id": 690, "text": "为什么某些地区的环境质量很高，而其他地区则很差？", "category": "open qa"}
+{"question_id": 691, "text": "新星小学组织学生观看展览会，上午去了4批学生，每批120人，下午又去了450人，这一天共有多少学生观看展览会？", "category": "math"}
+{"question_id": 692, "text": "一辆汽车在加油站加了10升油，每升油的价格是1.5元，那么这次加油一共花了多少钱？", "category": "math"}
+{"question_id": 693, "text": "两个物体在同样的高度从不同支架上自由落下，哪个会先着地？", "category": "open qa"}
+{"question_id": 694, "text": "小明买了7个足球，付出114元，找回5.5元，每个足球多少钱", "category": "math"}
+{"question_id": 695, "text": "为什么就业率上升会促进经济发展？", "category": "open qa"}
+{"question_id": 696, "text": "请你编辑以下这篇文章，使其更加清晰易懂:自然界从来不只有风调雨顺，自然灾害本就是地球自身规律的一部分。自人类诞生以来，人类从来没有放弃过对自然灾害抗争的努力。只要地球还在，自然灾害便依旧不可避免，除了有效面对，人类别无选择。但尽管如此，一个无法否认的事实是，每时每刻，人类又在享受着大自然带来的诸多恩赐。", "category": "rewrite"}
+{"question_id": 697, "text": "请创作一首歌曲，歌曲的主题是“爱情与分别”", "category": "generation"}
+{"question_id": 698, "text": "为什么太阳每年在不同的位置升起和降落？", "category": "open qa"}
+{"question_id": 699, "text": "运动场的看台分为8个区，每个区有808个座位，运动场一个有多少个座位？", "category": "math"}
+{"question_id": 700, "text": "小潘家九月份的用电量为147千瓦⋅时,十月份的用电量比九月份少17%.十月份用电多少千瓦⋅时?", "category": "math"}
+{"question_id": 701, "text": "体育店有57个皮球，每三个装在一个盒子里，能装多少个？", "category": "math"}
+{"question_id": 702, "text": "如何在Python中判断一个文件或目录是否存在？给出示例。", "category": "coding"}
+{"question_id": 703, "text": "请列出你认为有趣的三个事实", "category": "brainstorming"}
+{"question_id": 704, "text": "请回答以下问题:植物光合作用是什么？", "category": "open qa"}
+{"question_id": 705, "text": "生产3吨化肥需用水15吨，照这样计算，生产58吨化肥需要多少吨水？", "category": "math"}
+{"question_id": 706, "text": "请将以下句子中的拼写错误纠正过来:“我昨天感到非常疲惫，我只想躺在床上休息。”", "category": "rewrite"}
+{"question_id": 707, "text": "根据以下文本，对文本进行情感分析:“我非常喜欢这个酒店，因为那里的员工都非常友好，房间非常干净舒适。”", "category": "classification"}
+{"question_id": 708, "text": "爸爸每分钟能打字152个，他5分钟能打完多少字？", "category": "math"}
+{"question_id": 709, "text": "给我一些可以在家里做的锻炼建议，每个建议应该不超过50字。", "category": "brainstorming"}
+{"question_id": 710, "text": "某工厂十月份产品销售额为1200万元，如果按产品销售额的8%缴纳营业税，该工厂十月份应缴纳营业税多少万元？", "category": "math"}
+{"question_id": 711, "text": "请根据以下段落，判断该段落属于哪个学科领域:“人类的DNA由四种碱基组成腺嘌呤、胞嘧啶、鸟嘌呤和胸腺嘧啶。这些碱基的排列顺序决定了DNA所携带的遗传信息。”", "category": "classification"}
+{"question_id": 712, "text": "为什么白天天空是蓝色的，晚上天空是黑色的？", "category": "open qa"}
+{"question_id": 713, "text": "一只老虎一天吃18千克瘦肉，动物园里面有24只老虎，每天准备多少千克瘦肉？", "category": "math"}
+{"question_id": 714, "text": "编辑以下句子，使其更加流畅:“她想要去旅行，但是她没有足够的钱。”", "category": "rewrite"}
+{"question_id": 715, "text": "请根据以下文本，将其分类为新闻、广告还是博客文章:“这个假期，前往马尔代夫，享受白色沙滩、蓝色海洋和美丽的阳光，预订我们的度假别墅，享受隐私和奢华，还可以尝试各种水上活动。\"", "category": "classification"}
+{"question_id": 716, "text": "请写一封感谢信给你的导师，表达你对他的感激之情", "category": "generation"}
+{"question_id": 717, "text": "请提供三种让人放松的方法", "category": "brainstorming"}
+{"question_id": 718, "text": "请将下面这段文本进行改写，使得它更加流畅易读。他们想要找一位拥有五年以上工作经验的市场营销经理来领导他们的团队。", "category": "rewrite"}
+{"question_id": 719, "text": "将下文改为小说，以梁实秋的风格。那个夏天，我遇到了她，在一个阳光明媚的下午。她穿着一袭白色的连衣裙，飘逸而动人。我们相遇在一家咖啡馆里，她向我微笑，那一瞬间，我觉得自己的心已经被她深深地牵动了。", "category": "rewrite"}
+{"question_id": 720, "text": "请根据以下问题提供最佳建议:如何养护一株仙人掌?", "category": "open qa"}
+{"question_id": 721, "text": "请给出5种不同的草药名称及其功效", "category": "brainstorming"}
+{"question_id": 722, "text": "请根据以下情境改写句子。原句他太胖了，不能穿进这件衣服。情境他试着把衬衫穿上，但是太紧了。", "category": "rewrite"}
+{"question_id": 723, "text": "帆船和摩托艇的关系是什么？", "category": "open qa"}
+{"question_id": 724, "text": "如果一个人捏紧拳头久了，那么他的指关节就会变大吗？", "category": "open qa"}
+{"question_id": 725, "text": "为什么酒精可以杀死细菌？", "category": "open qa"}
+{"question_id": 726, "text": "请提供5个有关人工智能的开放性问题", "category": "brainstorming"}
+{"question_id": 727, "text": "请生成一段关于孔子的简短介绍，长度为2-3句话", "category": "generation"}
+{"question_id": 728, "text": "将下文改写为口语化的表达方式。我认为这位演员的表演非常出色，他将角色演绎得十分真实。", "category": "rewrite"}
+{"question_id": 729, "text": "在100克水中，加入25克盐。这盐水的含盐率是多少", "category": "math"}
+{"question_id": 730, "text": "根据以下问题回答正确答案:什么是牛顿第一定律?", "category": "open qa"}
+{"question_id": 731, "text": "请编辑以下句子，使其更加简洁明了:“尽管当地政府已经发布了多次警告，但是许多居民仍然在海滩上游泳。”", "category": "rewrite"}
+{"question_id": 732, "text": "根据以下情境改写句子原句他是一个很成功的商人。情境你希望突出他是一个很好的父亲。。", "category": "rewrite"}
+{"question_id": 733, "text": "请将以下句子进行改写，使其更加简洁明了\\n他们决定在周五晚上去看电影，但最终却取消了计划。", "category": "rewrite"}
+{"question_id": 734, "text": "给我推荐一家适合家庭用的餐厅，并提供餐厅名称和地址", "category": "brainstorming"}
+{"question_id": 735, "text": "为什么在盛夏街头摆放的冰淇淋不融化？", "category": "open qa"}
+{"question_id": 736, "text": "一个服装加工厂购进一批布料，计划做18套成人衣服，每套衣服用布3米。如果改做儿童衣服，每套用布1.5米，这些布能做多少套儿童衣服?", "category": "math"}
+{"question_id": 737, "text": "下面表格提供了哪些方面的信息？总结其中的核心信息。\n排名,球员姓名,球队,位置,工资(百万美元)\n1,LeBron James,洛杉矶湖人,SF,45.0\n2,Stephen Curry,金州勇士,PG,43.5\n3,Kevin Durant,布鲁克林篮网,SF,42.0\n4,James Harden,费城76人,SG,41.0\n5,Russell Westbrook,洛杉矶湖人,PG,40.0\n6,Giannis Antetokounmpo,密尔沃基雄鹿,PF,39.5\n7,Kawhi Leonard,洛杉矶快船,SF,38.5\n8,Chris Paul,菲尼克斯太阳,PG,36.0\n9,Anthony Davis,洛杉矶湖人,PF,35.5\n10,Damian Lillard,波特兰开拓者,PG,35.0", "category": "summarization"}
+{"question_id": 738, "text": "请你将这段文字中的错别字和语法错误修正一下:“我最近买了一台新电脑，它的速度比我以前的那台快很多，我感到非常高兴。”", "category": "rewrite"}
+{"question_id": 739, "text": "给我推荐一些适合户外活动的装备", "category": "brainstorming"}
+{"question_id": 740, "text": "根据以下条件，推荐一些适合的电影:喜剧类型、评分高于8分、上映时间在最近一年内", "category": "brainstorming"}
+{"question_id": 741, "text": "2千克苹果吃去了1/3后，又买来1/3，现在的苹果依然是多少千克？", "category": "math"}
+{"question_id": 742, "text": "3台拖拉机每天共用柴油297千克，照这样计算，3台拖拉机3天要用柴油多少千克？", "category": "math"}
+{"question_id": 743, "text": "请解释下列代码的作用\\n```python\\ndef binary_search(arr, item):\\n\"\\nSearches for an item in a sorted list using binary search.\\n\"\\nlow = 0\\nhigh = len(arr)-1\\nwhile low <= high:\\nmid = (low + high) // 2\\nguess = arr[mid]\\nif guess == item:\\nreturn mid\\nelif guess > item:\\nhigh = mid - 1\\nelse:\\nlow = mid + 1\\nreturn None\nmy_list = [1, 3, 5, 7, 9]\\nprint(binary_search(my_list, 3))\\nprint(binary_search(my_list, -1))\\n```", "category": "coding"}
+{"question_id": 744, "text": "下面的代码是实现什么功能的？请写出注释。\n```\\nclass Employee:\\ndef __init__(self, name, age, salary):\\n\"\\nEmployee类的构造函数\\nname - 员工姓名\\nage - 员工年龄\\nsalary - 员工薪资\\n\"\\nself.name = name\\nself.age = age\\nself.salary = salary\ndef showInformation(self):\\n\"\\n显示员工的信息\\n\"\\nprint(\"姓名\", self.name)\\nprint(\"年龄\", self.age)\\nprint(\"薪资\", self.salary)\\n```", "category": "coding"}
+{"question_id": 745, "text": "人类与猴子的关系是什么？", "category": "open qa"}
+{"question_id": 746, "text": "编辑下面这段文字，使其更加简洁明了\\n这个新产品有很多不同的功能，包括增强用户体验，提高性能，以及更好的可靠性。", "category": "rewrite"}
+{"question_id": 747, "text": "如果一种产品的价格很高，那么它的质量一定很好吗？", "category": "open qa"}
+{"question_id": 748, "text": "根据以下段落内容，写一篇关于环境保护的文章:在饮用水水源保护区内，禁止设置排污口；禁止在饮用水水源一级保护区内新建、改建、扩建与供水设施和保护水源无关的建设项目；已建成的与供水设施和保护水源无关的建设项目，由县级以上人民政府责令拆除或者关闭；禁止在饮用水水源二级保护区内新建、改建、扩建排放污染物的建设项目；已建成的排放污染物的建设项目，由县级以上人民政府责令拆除或者关闭；禁止在饮用水水源准保护区内新建、扩建对水体污染严重的建设项目；改建建设项目，不得增加排污量。", "category": "generation"}
+{"question_id": 749, "text": "根据以下文本，分类它属于哪个领域: \"神经网络是一种由许多人工神经元组成的计算系统，可用于解决各种问题。\"", "category": "classification"}
+{"question_id": 750, "text": "两筐重量相等的苹果,从甲筐取出 7 千克,乙筐加上 19 千克,这时乙筐的重量是甲筐重量的 3 倍,原来两筐各有苹果多少千克？", "category": "math"}
+{"question_id": 751, "text": "请推荐一个适合初学者的学习英语的网站，并简要介绍一下该网站的特点。", "category": "brainstorming"}
+{"question_id": 752, "text": "回答以下问题:莫扎特是哪个时代的作曲家？", "category": "open qa"}
+{"question_id": 753, "text": "对以下文本进行情感分类:“我很开心能够参加这个活动。”", "category": "classification"}
+{"question_id": 754, "text": "请从以下文章中提取出关于人工智能的段落:机器不是人，它是程序，是人编辑出来的，它只能按照人类的规划和设计去工作。所以，即使它会和人类产生竞争关系，他仍然不会完全替代和超越人类并取代人类。因为他们是没有生命的，不是生物学意义上的生物，只是具有一定使用寿命周期的有零件拼凑而成的设备，它的本质是“工具”。这一点是毋庸置疑的。\\n人工智能的时代已经来临，同时还会大大的进步，面对如此巨大的冲击和挑战。我们要让自己变得更强大。变得让自己的职业，工作和技能无可替代，要让它成为具有影响力，创造力和想象力的职业。这样，我们才能立于不败之地。", "category": "extract"}
+{"question_id": 755, "text": "在剃须之前先用热水洗脸可以减少不适和剃痕。", "category": "open qa"}
+{"question_id": 756, "text": "地区,2018年人口 (百万),2019年人口 (百万),2020年人口 (百万),2021年人口 (百万),2022年人口 (百万)\n世界总人口,7,631,7,713,7,794,7,874,7,953\n亚洲,4,584,4,622,4,658,4,693,4,727\n非洲,1,307,1,341,1,376,1,411,1,447\n欧洲,747,748,749,749,749\n北美洲,368,372,376,380,384\n南美洲,429,431,433,435,437\n大洋洲,42,43,44,44,45\n总结一下这个表格", "category": "summarization"}
+{"question_id": 757, "text": "可持续发展是一个旨在实现长期繁荣、公平和可持续性的全面概念。它不仅仅关注满足当前世代的需求，而是更着眼于如何在满足这些需求的同时保护我们的地球和未来世代的需求。因此，可持续发展的目标是确保我们在发展的同时也保护了环境、社会和经济的可持续性。在环境方面，可持续发展的目标是减少污染、降低温室气体排放、保护生物多样性和水资源，以及减少土地开发等破坏性行为。这些目标可以通过采用清洁能源、循环经济和可持续农业等措施来实现。在社会方面，可持续发展的目标是建立公正和包容的社会体系，提高教育和医疗水平，保障人权和公民权利，减少贫困和不平等现象。为此，必须采取措施确保人人平等、普遍参与、充分发挥各自潜能，同时重视保护弱势群体。在经济方面，可持续发展的目标是提高经济增长和发展的质量，创造高品质的就业机会，并且不会牺牲环境和社会的可持续性。这可以通过促进可持续发展的创新、技术和基础设施建设来实现，同时加强企业社会责任和政府监管。总之，可持续发展是一个面向未来的全面概念，涵盖环境、社会和经济三个方面，旨在实现长期的繁荣、公正和可持续性。通过采取综合性的措施，我们可以在满足当前需求的同时保护我们的地球和未来世代的需求，促进全球绿色、低碳和可持续发展。总结上文的主要观点。", "category": "summarization"}
+{"question_id": 758, "text": "请为以下五个商品分类:1.苹果 2.牛奶 3.矿泉水 4.洗发水 5.红酒", "category": "classification"}
+{"question_id": 759, "text": "分类这些词汇并解释它们:“静态”，“动态”，“变量”", "category": "open qa"}
+{"question_id": 760, "text": "花店后百合花和玫瑰花共96支，玫瑰花是百合花的3倍，玫瑰花有多少支", "category": "math"}
+{"question_id": 761, "text": "请列出五个最近发布的科技产品并简要介绍它们的特点。", "category": "brainstorming"}
+{"question_id": 762, "text": "为什么高山上的气压更低？", "category": "open qa"}
+{"question_id": 763, "text": "根据以下文本，将其分类为新闻报道或社论:\\n随着新冠疫情的不断扩散，越来越多的国家开始关闭边境。这一举措有助于控制疫情传播，但也会对全球贸易和旅游业造成影响。", "category": "classification"}
+{"question_id": 764, "text": "如果一家餐厅的菜品很好吃，那么它一定有高昂的价格吗？", "category": "open qa"}
+{"question_id": 765, "text": "请推荐一本关于心理学的书籍。", "category": "brainstorming"}
+{"question_id": 766, "text": "学校买来白色粉笔286盒，彩色粉笔158盒，两种粉笔共用去166盒，还有多少盒粉笔？", "category": "math"}
+{"question_id": 767, "text": "请问如何在计算机上安装Python？,", "category": "open qa"}
+{"question_id": 768, "text": "请编辑以下这段文章，使其更具可读性。:健康有各种体型和尺寸。无论您的体重如何，您都应该每天感到处于最佳状态。请为您的身体提供科学证实为人体成长所需的营养，这会有很多好处。您会容光焕发，您的身体会感觉很好，您会有充沛的精力。并且，您在精神上和情绪上每天都能好整以暇，应对您的目标和挑战。", "category": "rewrite"}
+{"question_id": 769, "text": "将以下文本分类为新闻、广告或社交媒体帖子:王老吉，王老吉，怕上火，喝王老吉！不用担心什么，激情享受生活！", "category": "classification"}
+{"question_id": 770, "text": "请为我推荐一款适合初学者的吉他。", "category": "brainstorming"}
+{"question_id": 771, "text": "正文：虚拟个人助理是指使用者通过声控、文字输入的方式，来完成一些日常生活的小事。大部分的虚拟个人助理都可以做到搜集简单的生活信息，并在观看有关评论的同时，帮你优化信息，智能决策。同时部分虚拟个人助理还可以直接播放音乐的智能音响或者收取电子邮件，这些都是虚拟个人助理的变化形式之一。虚拟个人助理应用在我们生活中的方方面面，音响、车载、智能家居、智能车载，智能客服多个方面。一般来说，听到语音指令就可以完成服务的，基本上都是虚拟个人助理。主题：", "category": "summarization"}
+{"question_id": 772, "text": "请回答以下问题:“厦门市有多少个区？”", "category": "open qa"}
+{"question_id": 773, "text": "为什么在地球表面很难跳到其他行星上？", "category": "open qa"}
+{"question_id": 774, "text": "请根据以下问题提供答案:莫扎特的出生日期是多少？", "category": "open qa"}
+{"question_id": 775, "text": "请提供一些可以用于工作的定期锻炼计划", "category": "brainstorming"}
+{"question_id": 776, "text": "请根据给定的两个句子，将其合并成一个句子，使合并后的句子更加简洁明了:企业可能要获得超出实际需求的计算资源，导致利用率低下。云计算能以可扩缩的按需服务形式提供计算资源，从而解决这些问题。", "category": "rewrite"}
+{"question_id": 777, "text": "总结以下这篇文章的主要观点和结论。理念是行动的先导。立足新发展阶段，中国秉持创新、协调、绿色、开放、共享的新发展理念，加快构建新发展格局。在新发展理念中，绿色发展是永续发展的必要条件和人民对美好生活追求的重要体现，也是应对气候变化问题的重要遵循。绿水青山就是金山银山，保护生态环境就是保护生产力，改善生态环境就是发展生产力。应对气候变化代表了全球绿色低碳转型的大方向。中国摒弃损害甚至破坏生态环境的发展模式，顺应当代科技革命和产业变革趋势，抓住绿色转型带来的巨大发展机遇，以创新为驱动，大力推进经济、能源、产业结构转型升级，推动实现绿色复苏发展，让良好生态环境成为经济社会可持续发展的支撑。", "category": "summarization"}
+{"question_id": 778, "text": "请根据以下文本分类:华为正式官宣进军ERP 市场。3 月17 日，华为创始人任正非在“难题揭榜”火花奖公司内外的获奖者及出题专家座谈会上表示，2023年4 月份 MetaERP 将会宣誓，完全用自己的操作系统、数据库、编译器和语言，做出了自己的管理系统MetaERP 软件。MetaERP 已经历了公司全球各部门的应用实战考验，经过了华为的总账使用年度结算考验，已成功地证明MetaERP 是有把握推广的。这是在市场传言已久后，华为首次官方口径承认MetaERP 存在，并且在官方口径认可未来MetaERP 即将面向市场推广。", "category": "classification"}
+{"question_id": 779, "text": "请为以下新闻标题分类:“全国高校毕业生就业率达到历史新高”", "category": "classification"}
+{"question_id": 780, "text": "请将以下句子中的错别字纠正过来:“我昨天去了图书館”", "category": "rewrite"}
+{"question_id": 781, "text": "请摘要这篇文章：有时候，跟风不一定是对的！近日，很多人在湖北疯狂抢购东风雪铁龙C6，作为一款B级车，C6目前的价格的确很香。以现在还能排队买到的C6舒适版为例，补贴后裸车价13.68万元，但如果仔细对比C6舒适版去年就卖15.5万元的价格，你会发现如今的C6相比去年，其实只便宜了2万元左右。相比于很香的东风雪铁龙C6，其实它的同门兄弟东风标致508L更香。和C6一样，508L也是一款低调奢华的超值良心车，TA可以跑赢400W赛车，也可以挑战“不可能”，成功截停直升机，最为关键的是，在这波湖北政企补贴的支持下，508L直接降4万元，实际成交价比C6优惠更多，力度更大，而且不会抢不到车。", "category": "summarization"}
+{"question_id": 782, "text": "请回答以下问题:太阳和月亮之间有什么区别？", "category": "open qa"}
+{"question_id": 783, "text": "给定以下句子，将其改写成正式或者非正式语言:\"你能不能帮我一下？\"", "category": "rewrite"}
+{"question_id": 784, "text": "请给出以下问题的答案:“哪些国家是永久理事国？”", "category": "open qa"}
+{"question_id": 785, "text": "给定以下 Go 代码，写出相应的注释\n```go\\npackage main\\nimport \"fmt\"\nfunc main() {\\ni := 0\\nfor i < 10 {\\nfmt.Println(i)\\ni++\\n}\\n}\\n```", "category": "coding"}
+{"question_id": 786, "text": "请简要概括以下新闻报道的主要内容。据报道，全球气候变暖的加剧正在导致北极的冰层大规模融化。这一现象不仅给北极地区的野生动植物带来了巨大的生存压力，同时也对人类生存环境造成了威胁。北极是许多极地动物的栖息地，如北极熊、海豹、海鸟等，这些动物的生存与繁殖都需要冰层的存在。然而，由于气候变暖，北极的冰层面积正在迅速缩小，使得这些动物的生存面临巨大挑战。例如，北极熊的主要食物是海豹，而海豹则需要在冰层上筑巢生育，但随着冰层的融化，它们的生存环境也被破坏了，导致它们的数量急剧减少。除了对野生动物的影响外，北极冰层的融化也对人类的生存环境造成了巨大的威胁。首先，随着海平面的上升，海岸线将受到严重影响，一些岛屿和低洼地区可能会被淹没。其次，冰层的融化也会导致北极地区的气候变化，可能引发更加严重的自然灾害，如飓风、洪水等。因此，保护北极的生态环境和减缓气候变化的影响已成为全球关注的焦点。各国应加强国际合作，共同采取有效措施减少温室气体的排放，降低全球气温的升高速度，为北极及其生态环境的保护做出应有的努力。", "category": "summarization"}
+{"question_id": 787, "text": "根据以下新闻报道，对事件进行分类:特斯拉“降价”的余波还未消散，油车市场又迎来一场价格“地震”。几乎一夜之间，人们讨论的不再是“特斯拉又降价了”，而是“现在还能不能买到C6”。\\n3月初，一组关于“湖北史上最强购车优惠季开启”的宣传海报在网上疯狂流传。内容是湖北省政府联合东风本田、东风雪铁龙、东风标致、东风风神、东风日产等品牌推出力度诱人的购车补贴。最狠的是东风雪铁龙C6系列车型，最高补贴高达9万元，基本相当于“打骨折”。\\n这让不少网友感叹，“在真香的价格面前，所有的缺点都成了纸老虎。” 结果大家也都知道，曾经“无人问津”的C6一夜成为了市场最强“网红”，当天就被抢购一空。", "category": "classification"}
+{"question_id": 788, "text": "请给出以下商品评论的情感极性（正面、中性或负面）:“这款手机性价比很高，颜值也不错，就是电池有点容易发热。”", "category": "classification"}
+{"question_id": 789, "text": "判断以下陈述是否正确:\"月球是最接近地球的行星之一。\"", "category": "open qa"}
+{"question_id": 790, "text": "请编辑以下句子以改进语法和流畅性:“他们昨天去了购物中心，买了一些新的衣服回家了。”", "category": "rewrite"}
+{"question_id": 791, "text": "如果你吃了糖果并不刷牙，那么你的牙齿不会受到影响。这是真还是假？", "category": "open qa"}
+{"question_id": 792, "text": "给定一个包含10个元素的数组，要将其倒序排列，但是排列后发现第一个和最后一个元素没有交换。", "category": "open qa"}
+{"question_id": 793, "text": "请问以下这本书的作者是谁？:百年孤独", "category": "open qa"}
+{"question_id": 794, "text": "将以下句子翻译成英语:\"这是我最喜欢的电影之一。\"", "category": "rewrite"}
+{"question_id": 795, "text": "根据下文，改写句子，使用更多形容词和副词。我在街上看到了一只小狗。它看上去很可爱。", "category": "rewrite"}
+{"question_id": 796, "text": "在海拔较高的地方为什么呼吸会困难？", "category": "open qa"}
+{"question_id": 797, "text": "请编辑以下文章，将其中的语法错误和拼写错误修正:“我喜欢读书，特别是科幻小说。我最喜欢的科幻小说是《三体》。”", "category": "rewrite"}
+{"question_id": 798, "text": "请回答以下问题:在哪里可以找到埃及金字塔？", "category": "open qa"}
+{"question_id": 799, "text": "将以下句子进行改写，使其更加简洁明了:由于天气恶劣，学校取消了今天的体育活动。", "category": "rewrite"}
+{"question_id": 800, "text": "请根据以下输入分类这些狗的品种:拉布拉多、贵宾、哈士奇、柯基、柴犬", "category": "classification"}
+{"question_id": 801, "text": "为什么在夏天喝冰镇饮料会感觉很凉爽？", "category": "open qa"}
+{"question_id": 802, "text": "请回答以下问题:“在哈利波特系列中，哈利的好友罗恩的宠物是什么？”", "category": "open qa"}
+{"question_id": 803, "text": "将以下电影场景描述为悬疑或浪漫:“你在我眼里是最美的，即使你穿着那件旧衣服。”（《泰坦尼克号》），“喜欢我，就告诉我。我不是什么神秘的女孩子，我只是想要你喜欢我。”（《疯狂的石头》）", "category": "classification"}
+{"question_id": 804, "text": "请列出五种不同颜色的花卉的名称", "category": "brainstorming"}
+{"question_id": 805, "text": "根据以下段落总结其摘要:无农不稳、无粮则乱。农业保的是生命安全、生存安全，粮食安全是国家安全的重要基础。我国粮食生产连年丰收，但粮食需求仍呈刚性增长态势，供求将长期处于紧平衡状态，确保中国人的饭碗任何时候都牢牢端在自己手中，任务仍十分繁重。河南作为全国重要农业大省，必须站在服务保障国家大局的高度，把加快建设农业强省摆在重要位置，始终把粮食安全扛在肩上、抓在手上，做好新时代新征程“三农”工作，为建设农业强国展现更大担当、贡献更多力量。", "category": "summarization"}
+{"question_id": 806, "text": "请根据以下情境，回答相应问题:你的朋友正在考虑去旅行，但还没有决定目的地，他向你请教建议。请根据他的旅行偏好，给他推荐一个国家或城市。偏好美食、文化、自然景观。", "category": "brainstorming"}
+{"question_id": 807, "text": "有用信息人类的肌肉可以通过锻炼变得更强壮。有误导信息女性不能获得像男性一样的肌肉。\\n问题女性无法获得像男性一样的肌肉吗？", "category": "open qa"}
+{"question_id": 808, "text": "为什么电场和磁场相互作用时会产生电磁辐射？", "category": "open qa"}
+{"question_id": 809, "text": "为什么光可以被折射？", "category": "open qa"}
+{"question_id": 810, "text": "姓名,年龄,性别,国籍,身高(cm),体重(kg),学历\n张三,28,男,中国,180,70,本科\nLisa,33,女,美国,165,58,硕士\nPaulo,41,男,巴西,175,80,博士\nMiyuki,25,女,日本,160,50,大专\nAhmed,30,男,埃及,175,68,本科\nMaria,29,女,墨西哥,170,65,硕士\nAntonio,36,男,西班牙,182,75,博士\n基于这个表格回答：哪个人的体重最重？", "category": "extract"}
+{"question_id": 811, "text": "名称,价格,品牌,尺寸,颜色\nT恤衫,$19.99,Nike,小号,红色\n运动鞋,$89.99,Adidas,中号,黑色\n牛仔裤,$59.99,Nike,大号,蓝色\n夹克,$149.99,The North Face,中号,灰色\n运动裤,$49.99,Nike,小号,黑色\n衬衫,$39.99,Adidas,大号,白色\n运动背心,$29.99,Puma,中号,绿色\n哪个品牌的商品在这个表格中有最高的平均价格？", "category": "extract"}
+{"question_id": 812, "text": "产品名称,价格,库存量,产地,保质期\n苹果,2元,100个,山东,5天\n香蕉,3元,50个,海南,3天\n西瓜,10元,20个,河南,7天\n葡萄,5元,80个,河北,4天\n橙子,2.5元,70个,江西,6天\n草莓,8元,30个,山西,2天\n柿子,4元,60个,河南,5天\n有哪些水果的库存量超过了50个？", "category": "extract"}
+{"question_id": 813, "text": "根据以下情境，改写下列句子。原句她的披肩长发在阳光下显得格外美丽。情境你想表达她的长发是她最大的魅力所在。", "category": "rewrite"}
+{"question_id": 814, "text": "鼠年春节，张亮一共获得压岁钱2200元．开学时，买学习用品和交纳学费用去200元．他把剩下的钱按一年期存入信用社，准备到期时购买一辆山地车．一年后张亮应得利息多少元？扣除5%的利息税后，连同本金一共可以取回多少元？（年利率3.5%）", "category": "math"}
+{"question_id": 815, "text": "为什么每4年都有一个闰年？", "category": "open qa"}
+{"question_id": 816, "text": "80本相同的故事书摆成一个长25cm、宽16cm、高12cm的长方体，你能求出每本故事书的体积是多少吗?", "category": "math"}
+{"question_id": 817, "text": "给我推荐一本好看的小说，它的主题应该是爱情，同时包含一些悬疑元素。", "category": "brainstorming"}
+{"question_id": 818, "text": "如果你把一片土豆放在夜晚的草地上，第二天早上它会不会变成一个坑洞？", "category": "open qa"}
+{"question_id": 819, "text": "请回答问题:“最近的奥斯卡颁奖典礼中，最佳影片奖颁给了哪部电影？”", "category": "open qa"}
+{"question_id": 820, "text": "请将以下品牌分为时装品牌或运动品牌:Adidas、Gucci、Nike、Puma", "category": "classification"}
+{"question_id": 821, "text": "请重写以下句子，使其更加简明扼要:那个有点儿胖的男孩穿了一件紫色的衬衫并且戴着一顶黑色的帽子。,", "category": "rewrite"}
+{"question_id": 822, "text": "发电机:电能   →   风车:  (  )", "category": "open qa"}
+{"question_id": 823, "text": "请将以下句子改写为简单句。尽管下雨了，但他还是出去了。", "category": "rewrite"}
+{"question_id": 824, "text": "根据以下句子，判断其情感极性是积极、消极还是中性:I just finished reading a great book that I highly recommend to anyone who loves a good mystery.", "category": "classification"}
+{"question_id": 825, "text": "请根据以下输入，分类出它属于哪个国家的美食:“寿司、生鱼片、天妇罗、炸豆腐”", "category": "classification"}
+{"question_id": 826, "text": "一袋保鲜奶3元，妈妈用20元最多可以买回几袋保鲜奶？", "category": "math"}
+{"question_id": 827, "text": "根据以下文章回答下面问题： EV6车型支持哪些充电系统？使用800V超高速充电需要多长时间？文章内容：智能安全方面，EV6 GT搭载了增强版的智能驾驶辅助系统，包括半自动车道变更辅助及后方防撞辅助功能，还配备了AR HUD现实增强抬头显示技术，对于合资品牌新能源来讲，已经是大大的提升。 EV6还可同时支持400V和800V充电系统。使用800V超高速充电仅需14分钟，即可从30%到80%电量。除此之外，EV6还提供了V2L车载对外供电功能，输出功率高达3.6kW。 动力方面，EV6 GT搭载了双电机和77.4kWh电池组，综合输出功率430kW（585马力），综合输出扭矩达740N·m，百公里加速3.5秒，最高时速260km/h。 除此之外，EV5概念车及EV9概念车也同步亮相。EV5概念车仍以“Opposites United（对立统一）”为设计理念，数字虎啸式前脸的设计令整车更充满现代和时尚气息，整体车身线条的勾勒让整车显得十分硬朗。车门则采用对开门设计。内饰部分中控台采用了对比的材料来突出“大胆本能”的理念，宽大的全景显示屏能够为用户提供更丰富的信息。根据了解，该款车型将于11月正式上市", "category": "closed qa"}
+{"question_id": 828, "text": "根据以下语境改写句子。原句她不喜欢吃海鲜。语境在这家餐厅，我们点了各种海鲜菜品，但她并不喜欢。", "category": "rewrite"}
+{"question_id": 829, "text": "请给我推荐一些适合儿童的教育App", "category": "brainstorming"}
+{"question_id": 830, "text": "请根据以下文本，将其改写为简明扼要的句子:“维多利亚时期是英国历史上最长的时期，从1837年到1901年，是英国的工业革命时期，也是文学、艺术和科学领域的鼎盛时期。”", "category": "rewrite"}
+{"question_id": 831, "text": "请将以下英文句子翻译成中文:“I have a dream that one day this nation will rise up and live out the true meaning of its creed.”", "category": "rewrite"}
+{"question_id": 832, "text": "对于以下给定的句子，请将其分类为陈述句、疑问句或祈使句:你想出去玩吗？请在下午5点叫醒我。这是一份优秀的报告。", "category": "classification"}
+{"question_id": 833, "text": "请将以下句子改写为感叹句。她真的很漂亮。", "category": "rewrite"}
+{"question_id": 834, "text": "将以下句子重写为更简单的语言:“这个问题的复杂性在于它涉及到许多不同的因素。”", "category": "rewrite"}
+{"question_id": 835, "text": "请提供5个有趣的旅游目的地，并对每个目的地提供一段简短的描述。", "category": "brainstorming"}
+{"question_id": 836, "text": "为什么饱和脂肪酸比不饱和脂肪酸更容易储存在体内？", "category": "open qa"}
+{"question_id": 837, "text": "根据以下问题，重写以下句子我在上周末去了一家新开的餐厅，那里的食物非常好吃。问题你去的是哪家餐厅？你觉得那家餐厅的氛围怎么样？。", "category": "rewrite"}
+{"question_id": 838, "text": "根据以下句子，将其改写成不同的语气:“请不要在图书馆大声说话。”", "category": "rewrite"}
+{"question_id": 839, "text": "请提取以下文章中的成语:“人山人海，熙熙攘攘，摩肩接踵，人来人往，人声鼎沸，人满为患”，文章每年的春运都是中国最大规模的人口流动之一。数以亿计的人们从大城市赶回家乡过年，火车站、汽车站、机场人山人海，熙熙攘攘，摩肩接踵，人来人往，人声鼎沸，人满为患。", "category": "extract"}
+{"question_id": 840, "text": "请将下面这段文本进行改写，使得它更加形象生动。汽车在公路上行驶。", "category": "rewrite"}
+{"question_id": 841, "text": "请给我推荐一款最适合我口味的披萨。", "category": "brainstorming"}
+{"question_id": 842, "text": "广州地区的房贷利率进一步下滑，21世纪经济报道记者调查发现，当前市场首套房贷利率为4.3%(LPR)，二套房贷利率为4.9%(LPR+60基点)，已降至4年来新低，各银行额度宽松，最快递件当日可以放款。2月全国房贷利率也出现下降，百城首套房贷主流利率平均为4.04%，环比下降6BP，这是过去4个月基本平稳后的再次明显下行；二套房贷利率平均为4.91%，环比持平，同比回落84个基点。一句话总结上文。", "category": "summarization"}
+{"question_id": 843, "text": "植物学一株植物叶片向阳的一面比朝阴的一面更绿，这是为什么？", "category": "open qa"}
+{"question_id": 844, "text": "如果用无限能量将一个质量为1千克的物体加速到接近光速，将其转化为能量后，将会释放多少能量？", "category": "open qa"}
+{"question_id": 845, "text": "某工厂九月份用煤80吨，十月份用煤70吨，十月份比九月份节约用煤百分之几？", "category": "math"}
+{"question_id": 846, "text": "给我推荐一些适合学生的在线学习资源", "category": "brainstorming"}
+{"question_id": 847, "text": "将这个句子改写成更加简洁的形式:这部电影是《星际迷航无限夜晚》，我觉得特效很赞，但是故事情节有点儿拖沓。", "category": "rewrite"}
+{"question_id": 848, "text": "将下文改为诗歌形式，使用七言绝句。我喜欢春天，因为花儿开放，草儿发芽，让整个世界都变得明亮。", "category": "rewrite"}
+{"question_id": 849, "text": "请根据以下情境改写下列句子，使之更加得体。原句你的衣服很丑。情境你想提醒别人注意他们的穿着。", "category": "rewrite"}
+{"question_id": 850, "text": "请提供一些关于旅游的灵感和建议，例如旅游目的地、旅行方式和旅行预算等。", "category": "brainstorming"}
+{"question_id": 851, "text": "为什么冷却器需要加水冷却？", "category": "open qa"}
+{"question_id": 852, "text": "将下文改为诗歌形式，五言绝句。孩子在公园里玩耍，快乐的笑声飘荡着。阳光明媚，草地柔软，鸟儿在树上欢快地歌唱。", "category": "rewrite"}
+{"question_id": 853, "text": "请为我推荐一部值得一看的电影，它应该是2019年至今上映的，类型可以是任何类型。", "category": "brainstorming"}
+{"question_id": 854, "text": "将以下句子中的错别字纠正过来:我喜欢学习new skils", "category": "rewrite"}
+{"question_id": 855, "text": "编写一个名为`print_max`的python函数，接受两个参数并打印其中的最大值。", "category": "coding"}
+{"question_id": 856, "text": "本星期一共产鸡蛋810.6千克，前3天每天101.8千克，后四天平均每天生产多少千克鸡蛋?", "category": "math"}
+{"question_id": 857, "text": "在地球上的哪些地区可以观察到极夜和极昼现象？", "category": "open qa"}
+{"question_id": 858, "text": "给我推荐一些高评分的电视剧", "category": "brainstorming"}
+{"question_id": 859, "text": "请推荐一款适合制作音乐的电脑软件", "category": "brainstorming"}
+{"question_id": 860, "text": "提供一些关于如何减轻压力和焦虑的建议", "category": "brainstorming"}
+{"question_id": 861, "text": "如果一个人每天都练习钢琴，那么他一定会成为一名钢琴家吗？", "category": "open qa"}
+{"question_id": 862, "text": "王老师从家去学校上班，已经走了356米，还要走的米数比已经走的米数多56米。王老师还要走多少米才能到学校?", "category": "math"}
+{"question_id": 863, "text": "如何将列表中的所有元素转换为大写？用python代码给出示例。", "category": "coding"}
+{"question_id": 864, "text": "王师傅每小时做80个零件，李师傅每小时做的零件个数是王师傅的5倍，李师傅每小时做多少个零件？", "category": "math"}
+{"question_id": 865, "text": "一个滴水的水龙头一天要浪费约43千克的水，一个漏水的马桶一天要浪费约955千克的水．照这样计算，一个漏水的水龙头和一个漏水的马桶10天一共要浪费多少千克的水？", "category": "math"}
+{"question_id": 866, "text": "一节车厢限载60吨，有500吨货物，需要多少节车厢才能装完？", "category": "math"}
+{"question_id": 867, "text": "请摘要下面这篇文章：这些发明和发现都标志着人类文明的进步和发展，火的发现让人类有了烹饪食物和温暖的能力，也使人类有了更强的适应能力和生存能力。轮子的发明使交通运输更为便利和高效，加速了人类的迁徙和贸易活动，也为现代交通工具的发展打下了基础。印刷术的发明使知识的传播变得更加广泛和迅速，促进了教育的普及和文化的繁荣，也为人类科学技术的发展提供了前提条件。这些发明和发现虽然在当时是独立的事件，但在历史长河中相互关联，相互促进。它们为人类社会的进步和发展注入了新的动力和能量，也让我们认识到了人类智慧和创造力的无限可能性。同时，也提醒我们在探索和开发新技术的同时，要注重人文关怀和社会责任，尊重人类智慧和生态环境，让科技发展真正造福于人类。", "category": "summarization"}
+{"question_id": 868, "text": "编辑以下文章，使得它更加简洁有力，去除任何与主题无关的内容。数字化正在改变我们的生活，并将继续如此。人工智能、自动化以及互联网使得我们的生活更加便捷，但同时也带来了新的挑战。我们需要接受这种数字化的进程，并适应它。", "category": "rewrite"}
+{"question_id": 869, "text": "请根据以下问题进行开放式回答并生成一些创意:你有什么想法可以帮助人们更好地保护环境？", "category": "brainstorming"}
+{"question_id": 870, "text": "在过去几十年中，互联网技术的飞速发展改变了人们的生活方式。随着移动互联网的广泛普及，人们不再受限于固定的地点和时间，而是可以随时随地连接到互联网，并且使用各种各样的应用程序来获取信息和享受各种服务。互联网的普及和发展给人们的生活带来了翻天覆地的变化。在以前，人们需要到图书馆、书店或者其他类似的地方去查找信息，但是现在，人们可以通过互联网搜索引擎轻松地获取各种信息，无论是学术研究还是日常娱乐。此外，随着社交网络和即时通讯工具的出现，人们之间的沟通也变得更加便捷和高效。无论是通过电子邮件、短信、视频会议还是社交媒体，人们都可以在世界的任何角落与朋友、家人和同事保持联系。这种连通性和交流方式的改变也为商业和经济发展带来了巨大的机遇和挑战。在移动互联网时代，人们还可以使用各种应用程序来轻松地管理日常生活，例如在线银行、电子商务、在线点餐等。这些应用程序不仅方便了人们的日常生活，还加速了商业和服务的发展。一句话总结：", "category": "summarization"}
+{"question_id": 871, "text": "请回答以下问题:什么是核聚变？", "category": "open qa"}
+{"question_id": 872, "text": "请问如何制作一道意大利面？", "category": "open qa"}
+{"question_id": 873, "text": "小明有 34 个红球，28 个黄球和 76 个白球。小明一共有多少个球？", "category": "math"}
+{"question_id": 874, "text": "请根据以下文本，对其进行分类:“杜甫是唐代伟大的现实主义诗人，被后人誉为“诗圣”。”", "category": "classification"}
+{"question_id": 875, "text": "给我推荐一些适合研究的学术论文网站", "category": "brainstorming"}
+{"question_id": 876, "text": "给我推荐一份适合素食主义者的意大利菜谱", "category": "brainstorming"}
+{"question_id": 877, "text": "从以下文章中提取与“人工智能”相关的句子:ChatGPT已然使得通用人工智能不再遥不可及、不可想像。ChatGPT能编程、写学术综述、创作诗词、剧本、设计广告文案、进行多语种翻译，能做医疗诊断，能帮助企业进行战略分析与管理，能做数据分析与进行预测，能进行风格创作……人工智能正在将人类文明推向技术奇点。人类主义框架受到了以人工智能为代表的“技术对象”的严峻挑战，被尖锐地撕开了一道缺口。人工智能所带来的“全面赋能”，和19世纪的“机器入侵”全然不同。在后人类境况下，失去人类主义框架的人类，将何以自处？“去智能地丧失对智能的控制”也许就是后人类境况下人类的首要任务。", "category": "extract"}
+{"question_id": 878, "text": "请给出中国即将发布的数字货币的名称，并简要介绍其特点。,", "category": "open qa"}
+{"question_id": 879, "text": "区块链，就是一个又一个区块组成的链条。每一个区块中保存了一定的信息，它们按照各自产生的时间顺序连接成链条。这个链条被保存在所有的服务器中，只要整个系统中有一台服务器可以工作，整条区块链就是安全的。这些服务器在区块链系统中被称为节点，它们为整个区块链系统提供存储空间和算力支持。如果要修改区块链中的信息，必须征得半数以上节点的同意并修改所有节点中的信息，而这些节点通常掌握在不同的主体手中，因此篡改区块链中的信息是一件极其困难的事。相比于传统的网络，区块链具有两大核心特点一是数据难以篡改、二是去中心化。基于这两个特点，区块链所记录的信息更加真实可靠，可以帮助解决人们互不信任的问题。总结上文，简明扼要，结构化表示：", "category": "summarization"}
+{"question_id": 880, "text": "请重述以下句子，使其更加通顺:虽然他很努力，但他仍然没有通过驾照考试。", "category": "rewrite"}
+{"question_id": 881, "text": "小明种了 5 行萝卜，每行 9 个。送给邻居 13个，还剩多少个？", "category": "math"}
+{"question_id": 882, "text": "人工智能在生活中的应用有1、虚拟个人助理，使用者可通过声控、文字输入的方式，来完成一些日常生活的小事；2、语音评测，利用云计算技术，将自动口语评测服务放在云端，并开放API接口供客户远程使用；3、无人汽车，主要依靠车内的以计算机系统为主的智能驾驶仪来实现无人驾驶的目标；4、天气预测，通过手机GPRS系统，定位到用户所处的位置，在利用算法，对覆盖全国的雷达图进行数据分析并预测。总结上文主要观点，每个观点一个短语：", "category": "summarization"}
+{"question_id": 883, "text": "为什么电线杆会发出嗡嗡声？", "category": "open qa"}
+{"question_id": 884, "text": "请根据以下描述，找出一些适合本科毕业生的工作岗位:我是一名本科毕业生，有一定的编程和数据分析经验，同时也有较强的沟通和团队协作能力。我希望能够找到一份与我的专业相关的工作，最好是在一家稳定的公司工作，有良好的职业发展前景。", "category": "brainstorming"}
+{"question_id": 885, "text": "一个医生在一场车祸中死亡，但他死前却能够给警方提供关于肇事者的信息。你能想到他是如何教会警方的吗？", "category": "open qa"}
+{"question_id": 886, "text": "请列出世界上前十大人口最多的国家，按照人口数量排序，从多到少。", "category": "open qa"}
+{"question_id": 887, "text": "请提供世界上前十大最高的建筑物名称", "category": "open qa"}
+{"question_id": 888, "text": "空调厂准备装配一批空调，计划每天装配45台，20天完成。实际18天就完成了任务，实际每天装配多少台?", "category": "math"}
+{"question_id": 889, "text": "给我一些关于自然灾害的信息", "category": "brainstorming"}
+{"question_id": 890, "text": "为什么天冷时，我们的鼻子和耳朵更容易受凉？", "category": "open qa"}
+{"question_id": 891, "text": "请提供以下问题的回答:\"在哪里可以找到北京最好的烤鸭？\"", "category": "brainstorming"}
+{"question_id": 892, "text": "如果一个人在冬天将他的手插入热水中然后放在冰水中，他的手会感到温暖还是凉爽？", "category": "open qa"}
+{"question_id": 893, "text": "请回答以下问题:什么是红色的光？", "category": "open qa"}
+{"question_id": 894, "text": "装修设计师：您好，根据您的需求和家的面积，我们为您准备了三款套餐：A、B、C。A套餐需要20万，B套餐需要15万，C套餐需要10万。请问您对哪个套餐比较感兴趣呢？\n客户：其实我对C套餐比较满意，但是我的预算比最便宜的预算还要少2万。\n装修设计师：明白了，我们可以根据您的预算量身定制一个合适的方案。您可以告诉我您希望在哪些方面进行省钱，我们可以针对性地进行调整，以确保您得到最满意的效果。\n客户：那我可以省去一些不必要的装饰品和家具，然后采用一些更实惠的材料吗？\n装修设计师：当然可以，我们可以采用一些经济实惠的材料，并且根据您的需要精简装饰品和家具。我们也可以帮您寻找更多的优惠渠道，让您的装修预算更加合理。\n客户：好的，那你们能给我列一份更详细的清单吗？\n装修设计师：当然可以，我们会根据您的需求和预算给您提供一份清单，包括每一项装修费用的详细情况。如果您对清单有任何疑问，我们随时都可以沟通。\n请基于以上对话回答：客户的预算是多少？", "category": "extract"}
+{"question_id": 895, "text": "请解释以下专业术语的含义，并提供一个具体的例子。:什么是深度学习？", "category": "open qa"}
+{"question_id": 896, "text": "除了定期遛狗、喂食狗粮和在狗狗生病时送它去看兽医，狗还需要一些额外的照顾和关注。例如，它们需要定期洗澡、梳理和修剪指甲，以保持健康和舒适。此外，给狗提供足够的水和空间，也是照顾狗的重要方面。另外，训练和社交化也是养狗的重要部分。狗需要训练才能学会基本的行为规范和指令，以便与家庭和社区保持良好的关系。社交化则可以帮助狗与其他动物和人类相处融洽，减少对陌生人或环境的恐惧和压力。除此之外，定期带狗去接种疫苗和预防虫害也是必要的。这可以保护狗不受常见的疾病和寄生虫的侵害。总之，养狗是一项有责任的工作，需要花费时间和精力来照顾狗的方方面面。但是，通过与狗建立深厚的关系和相互信任，人们可以获得无与伦比的快乐和陪伴。总结成一句话。", "category": "summarization"}
+{"question_id": 897, "text": "将下文改为口语化的表达。\n我很忙，因为我要准备一份重要的报告，我需要在明天之前完成这个任务。", "category": "rewrite"}
+{"question_id": 898, "text": "给出以下三个选项，请将它们分别分为动物、植物和无生命物体三个类别:汽车、鲨鱼、橡树", "category": "classification"}
+{"question_id": 899, "text": "请从以下文章中提取出关于气候变化的信息。\n2019年是有史以来最热的一年，这是由于温室气体排放的增加所导致的，科学家们认为。温室气体包括二氧化碳、甲烷和氟利昂等，它们会在大气中形成层，阻止热量从地球逃逸，从而导致地球温度上升。据报告称，2019年全球平均气温比工业化前高出1.1摄氏度，这个数字超过了巴黎协定设定的目标。此外，全球各地都经历了极端天气事件，如干旱、洪水、暴风雨等，这些都与气候变化有关。为了应对这一问题，国际社会需要采取行动减少温室气体排放，保护地球的生态环境。", "category": "extract"}
+{"question_id": 900, "text": "张姨用15元买了3双鞋，买5双鞋要多少元？", "category": "math"}
+{"question_id": 901, "text": "将以下短文进行编辑和润色，使其更加流畅易读。\n我今天的早晨很忙碌。我起床后就开始准备早餐，然后洗漱并穿好衣服。我赶紧出门，因为我必须赶上早上的班车。", "category": "rewrite"}
+{"question_id": 902, "text": "三（1）班课外兴趣小组有8人练篮球，练足球的人数是篮球的3倍．三（1）班课外兴趣小组一共有多少人？", "category": "math"}
+{"question_id": 903, "text": "六年级一共有38人去春游，共租了8条船，大船每条乘6人，小船每条乘4人，每条船都坐满了。大船租了几条?", "category": "math"}
+{"question_id": 904, "text": "为什么动物和植物有不同的生理反应？", "category": "open qa"}
+{"question_id": 905, "text": "请编辑以下这篇文章，使其更加通顺易懂。\n科学没有平坦的大道，只有不畏艰险沿着陡峭山路攀登的人，才有希望到达光辉的顶点。在实现科技高水平自立自强、建设世界科技强国的征途上，唯有坚韧不拔、矢志不渝，才能肩负起科技创新重任。", "category": "rewrite"}
+{"question_id": 906, "text": "请按照以下标准，将以下公司列表分类为新兴公司或成熟公司:Apple，Uber，TikTok，IBM，WeWork", "category": "classification"}
+{"question_id": 907, "text": "根据给定的电影信息，推荐类似的电影:\"泰坦尼克号，导演詹姆斯·卡梅隆，主演莱昂纳多·迪卡普里奥和凯特·温丝莱特\"。", "category": "brainstorming"}
+{"question_id": 908, "text": "如果所有的猫都喜欢吃鱼，那么所有的鱼都喜欢猫吗？", "category": "open qa"}
+{"question_id": 909, "text": "李老师读一本教育专著，每天读108页，第4天她应该从多少页读起？", "category": "math"}
+{"question_id": 910, "text": "给定以下问题，回答它，并提供支持答案的证据或来源。\n问题：人类起源于哪里？", "category": "open qa"}
+{"question_id": 911, "text": "请提供一些适合7岁孩子玩的户外游戏", "category": "brainstorming"}
+{"question_id": 912, "text": "实验小学要为三、四年级的学生每人买一本价格为12元的作文辅导书。已知三年级有145人，四年级有155人，两个年级一共需要多少元？", "category": "math"}
+{"question_id": 913, "text": "请将以下这篇文章分类为新闻报道、科学文章或社论。\n据媒体新闻援引美国福克斯新闻网报道，美国伯克希尔哈撒韦公司首席执行官、著名投资人巴菲特近日就美国银行业危机与总统拜登的团队进行对话。外界较为关注的是，巴菲特可能以某种方式投资美国地区性银行。据了解，这位亿万富翁在通话中针对当前危机给出了意见和指导。长期以来，巴菲特一直在帮助处于危机中的银行，其中包括美国银行和高盛。", "category": "classification"}
+{"question_id": 914, "text": "请将下面这段文本进行改写，使得它更加流畅自然。\n这项工作需要一些专业技能。如果你没有这些技能，你可能需要花费更多的时间和精力来学习它，这可能会影响你的工作效率。但是，如果你掌握了这些技能，你将能够更好地完成工作，并提高你的竞争力。所以，如果你真的想为自己的未来打算，那么学习这些技能是很重要的。", "category": "rewrite"}
+{"question_id": 915, "text": "根据以下文章回答下面问题：美团的2022年第三季度财报显示了什么？\n文章内容\\nTech星球3月22日消息，据界面新闻报道，美团在一份考勤说明文档里明确提到迟到属于违纪，处罚标准也在违纪细则文档中被明确每个月迟到2次以及以下的，扣20%绩效，迟到3次及以上的，扣50%绩效。据美团员工小王透露，严格考勤之后，他和身边同事请年假的次数变多了。公司要求上午10点打卡，哪怕是10:01或者10:02打卡都算迟到，很多人担心迟到会影响年终奖，哪怕只迟到几分钟，也要用半天事假去抵扣，实际上大家是请了假还在工作。此前，美团发布2022年第三季度财报显示，美团2023年三季度营收626.2亿元，同比增长28.2%，净利润12.2亿元，同比扭亏为盈，预估亏损9.868亿元；调整后净利润为35.3亿元，去年同期经调整净亏损55.27亿元。", "category": "closed qa"}
+{"question_id": 916, "text": "经纪人：您好！欢迎来到我们的房地产公司。我是您的经纪人，我能帮助您找到您心仪的房子吗？\n客户：你好！是的，我正在寻找一套适合我家庭的房子。\n经纪人：很好。您对房子的预算是多少？您更喜欢哪个区域？\n客户：我的预算大约是50万，我更喜欢居住在城市的郊区。\n经纪人：我们这里有一套位于郊区的房子，面积约为200平米，售价为50万。您是否有兴趣看看？\n客户：是的，我想去看看。我可以什么时候去看房？\n经纪人：我们可以安排在本周六下午两点钟。我会给您发送一封电子邮件，里面包含有关该房子的详细信息以及如何前往的路线图。\n客户：好的，非常感谢你。我等不及要看看这个房子了。\n经纪人：不客气，这是我的工作。如果您有任何其他问题或需要进一步帮助，请随时与我联系。\n请总结以上对话中客户的核心诉求", "category": "summarization"}
+{"question_id": 917, "text": "为什么碳酸氢钠可作为消化不良和胃酸过多的药物？", "category": "open qa"}
+{"question_id": 918, "text": "客服：您好，感谢您拨打热线，这里是XXXX客服，我是客服代表小杨，请问有什么可以帮您的？\n客户：你好，我想咨询一下你们现在有什么优惠活动？\n客服：好的，请稍等一下，我为您查询一下。目前我们有一个套餐升级活动，您可以免费获得更多的流量和通话时长，另外还有购机优惠，如果您想更换手机，可以享受到一定的优惠。\n客户：你说的优惠具体是什么？\n客服：关于套餐升级活动，您可以在原有套餐的基础上免费获得额外50%的流量和通话时长，有效期为3个月。至于购机优惠，您可以在购买指定品牌和型号的手机时享受到最高减免1000元的优惠。\n客户：这也叫优惠？我觉得一点都不实惠。你们有没有其他更好的活动？\n客服：非常抱歉让您觉得这些优惠不够实惠。我们还有一项流量包活动，购买特定流量包时，可以享受到5折优惠，最高可购买100GB流量包。不知道您对这个活动有没有兴趣？\n客户：你们的优惠活动都这么一般，还不如别的运营商呢。你们客服是不是也跟优惠活动一样水平？\n客服：非常抱歉给您带来不满的感受，我们会继续努力改进服务质量。关于优惠活动，我们会定期更新，如果您对现在的活动不感兴趣，可以关注我们的官方网站或者公众号，以便了解最新活动。请问还有其他问题我可以为您解答吗？\n客户：算了，我就问这些吧。\n基于以上对话分析，总结客户的诉求。", "category": "summarization"}
+{"question_id": 919, "text": "为什么昆虫可以爬在墙上和天花板上？", "category": "open qa"}
+{"question_id": 920, "text": "代码中存在变量作用域问题，请找出并改正。\\n```\\nfunction addNumbers(num1, num2) {\\nvar sum = num1 + num2;\\n}\\nconsole.log(sum);\\n```", "category": "coding"}
+{"question_id": 921, "text": "请编辑以下电子邮件，以便更好地表达您的意思:“你好，我想问一下你是否能在周三之前把报告发给我？”", "category": "rewrite"}
+{"question_id": 922, "text": "如果一只热气球升空，它是否会随着地球的自转而产生平移运动？", "category": "open qa"}
+{"question_id": 923, "text": "一个人沿着大提走了全长的一半后，又走了剩下的一半，还剩下1千米，问大提全长多少千米", "category": "math"}
+{"question_id": 924, "text": "如何将字符串转换为日期时间对象？", "category": "coding"}
+{"question_id": 925, "text": "猫妈妈给小白5条鱼，给小花4条鱼，小白和小花共吃了6条，它们还有几条？", "category": "math"}
+{"question_id": 926, "text": "请问太平洋的最大深度是多少？", "category": "open qa"}
+{"question_id": 927, "text": "给出下文的一句话总结：根据最新的研究成果显示，长时间坐着可能对健康造成负面影响，增加患糖尿病、心脏病、中风等疾病的风险。这是因为长时间保持静态姿势会导致身体代谢减缓、血液循环不畅和肌肉损耗，从而增加了各种健康问题的发生概率。为了减少长时间久坐带来的健康风险，专家建议人们应该每小时起身活动一下，进行简单的伸展运动或散步。这样可以帮助改善血液循环，缓解因长时间坐姿所带来的肌肉紧张和关节僵硬。此外，还可以提高身体代谢率，从而降低患病风险。除此之外，使用站立式办公桌也是一种很好的方法来降低长时间久坐对健康的影响。站立式办公桌能够让使用者在工作时保持站立姿势，有助于燃烧更多热量、增强肌肉力量和改善血液循环。同时，站立式办公桌还可以帮助改善工作效率，让人们保持清醒和专注。总之，为了减少长时间久坐带来的健康风险，人们应当在日常生活和工作中采取适当的措施，如定时起身活动、使用站立式办公桌等方式，以降低患病风险，保持健康的生活方式。", "category": "summarization"}
+{"question_id": 928, "text": "编辑以下文章，使得文章更加严谨和准确。\n在这个实验中，我们观察了两组实验数据，发现它们之间的差异很大。我们对这个结果进行了统计分析，并得出结论两组数据是不同的。", "category": "rewrite"}
+{"question_id": 929, "text": "如果一个人吃下去的饭菜越多，他就会越胖？", "category": "open qa"}
+{"question_id": 930, "text": "为什么我们可以看到在水中的岸线，即使我们不站在水面上？", "category": "open qa"}
+{"question_id": 931, "text": "为什么铁制的东西放在潮湿的环境中容易生锈？", "category": "open qa"}
+{"question_id": 932, "text": "请列举出至少5个具有环保意识的行为", "category": "brainstorming"}
+{"question_id": 933, "text": "请给出一份简短的摘要，概括以下文章的主要内容：研究人员近期的发现表明，婴儿在出生前的几个月就已经开始学习语言，这意味着他们在母亲子宫内就已经对外部声音产生了敏感性，并且可以记住他们听到的单词。这项研究为我们揭示了婴儿大脑在早期发育阶段的惊人能力，为神经科学、语言学和心理学等领域提供了宝贵的见解。根据这项研究，婴儿在母亲子宫内时就能接收到外界的声音，特别是母亲的声音。这些声音对于婴儿大脑的发育起着至关重要的作用，帮助他们建立对语言的认识和理解。因此，这项研究强调了孕妇与胎儿沟通的重要性，以及为婴儿提供一个富有刺激的环境以促进语言发展的必要性。这项研究还表明婴儿大脑在出生前的发育过程中具有惊人的适应性和学习能力。这一发现为我们提供了关于婴儿大脑如何对环境因素作出反应的新认识，也使得我们更加重视婴儿在出生前的学习和成长环境。这项研究对于教育和心理健康专业人士来说具有重要意义，因为它强调了早期干预的重要性。通过提供丰富的语言输入和积极的互动环境，父母和教育工作者可以帮助婴儿建立更强大的语言基础，为他们未来的学习和发展奠定坚实的基础。", "category": "summarization"}
+{"question_id": 934, "text": "同学们种树，4个人种8棵树，平均每人种几棵？", "category": "math"}
+{"question_id": 935, "text": "请回答以下问题:地球的自转方向是什么？", "category": "open qa"}
+{"question_id": 936, "text": "一段路，甲走完全程需20分钟，乙走完全成需15分钟，甲的速度是乙速度的百分之几", "category": "math"}
+{"question_id": 937, "text": "教师节那天，小卖部进了136枝花，每20枝扎成一束，可以扎成几束？", "category": "math"}
+{"question_id": 938, "text": "青岛海底世界门票127元．赵老师带着47名学生参观海底世界需要多少元？", "category": "math"}
+{"question_id": 939, "text": "请为以下短文写一个简短的摘要：根据美国国家航空局（NASA）与大气管理局的最新研究表示，地球在2005-2019年期间热量失衡严重，许多未能及时消散的热量增加了1倍。造成海洋、空气和陆地的气候变暖速度加快。地球上的生命之所以能够生存，主要是因为太阳光进入大气层后，使得地球变暖，与此同时有一部分的阳光会被反射回太空，这样就不会造成地球温度过高，形成了一种微妙的平衡状态。不过后来随着人类工业活动的发展（焚烧化石燃料、砍伐森林等等），越来越多的温室气体被排放到大气层，温室气体对热量的反射有阻隔作用，这就造成了全球气温上升。", "category": "summarization"}
+{"question_id": 940, "text": "客户: 你好，我在你们网站上购买了一件商品，但它似乎有一些问题。\n客服: 您好，非常抱歉听到这个消息。请问有什么具体的问题吗？\n客户: 是的，商品的一部分似乎受损了。我可以把它退回去吗？\n客服: 当然可以，我们很抱歉出现了这种情况。您可以在我们的网站上提交售后申请，我们会为您处理。\n客户: 好的，我会尽快提交售后申请。我想知道退货流程大概需要多长时间？\n客服: 一般情况下，我们会在您提交售后申请后的三个工作日内审核您的申请。一旦审核通过，我们会通知您并提供退货的具体流程。\n客户: 我明白了，谢谢。如果退货审核不通过，该怎么办？\n客服: 如果您的退货申请审核不通过，我们会在第一时间通知您，并解释原因。您可以与我们的客服人员联系，讨论其他解决方案。\n客户: 我知道了，谢谢。最后一个问题，退款需要多长时间才能到账？\n客服: 一般情况下，我们会在收到您退回商品后的七个工作日内将退款金额退回您的账户。不过，具体到账时间可能会因银行处理速度而有所不同。\n客户: 我明白了，谢谢你的帮助。\n客服: 不客气，如果您还有其他问题或需要帮助，请随时联系我们的客服人员。\n请基于以上对话内容回答：退货流程一般有几天", "category": "extract"}
+{"question_id": 941, "text": "每棵树苗16元，买3棵送一棵．一次买3棵，每棵便宜多少钱?", "category": "math"}
+{"question_id": 942, "text": "请根据以下文本内容判断这是一个开放问题还是封闭问题:“你认为明天的天气会是晴天吗？”", "category": "classification"}
+{"question_id": 943, "text": "康明爱吃苹果，黄健也吃苹果，那么黄健是否喜欢康明？", "category": "open qa"}
+{"question_id": 944, "text": "请问武汉的地理位置在哪里？", "category": "open qa"}
+{"question_id": 945, "text": "在物理学中，黑洞和白洞之间的区别是什么？", "category": "open qa"}
+{"question_id": 946, "text": "请列出下文的2个核心观点：咖啡，是世界上最受欢迎的饮料，80%的成年人每天至少饮用一种含咖啡因的饮料。据估计，全球每天消费30亿杯咖啡。因其含有大量的咖啡因，常被人们饮用以醒神和提高工作效率。过去的多项研究表明，定期喝咖啡可以带来很多健康益处。阿尔茨海默症（AD），是神经细胞损失导致的不可逆、退行性脑疾病，以记忆障碍、失语、失认等为主要症状。由于发病因素涉及很多方面，单纯的药物治疗效果不大。预防变得尤为重要。", "category": "summarization"}
+{"question_id": 947, "text": "如果一个立方体铁块和一个球形铁块的质量相等，那么它们哪一个会更容易沉入水中？", "category": "open qa"}
+{"question_id": 948, "text": "学校买来6箱乒乓球拍，每箱8副，每副9元．一共花了多少钱？", "category": "math"}
+{"question_id": 949, "text": "学校有12个教学班，每班要配备一台价值198元的饮水机，估算一下，需要准备多少元？", "category": "math"}
+{"question_id": 950, "text": "为什么地震时建筑物会倾倒？", "category": "open qa"}
+{"question_id": 951, "text": "一本相册有25页，每页可以放4张相片，3本相册可以放几张相片？", "category": "math"}
+{"question_id": 952, "text": "请根据下列文本生成一篇新的故事情节:“在一座古老的城市里，一位勇士踏上了征程，他的目标是寻找一块神秘的宝藏。他必须克服许多困难，才能到达宝藏的所在地。最终，他是否成功找到了宝藏？”", "category": "rewrite"}
+{"question_id": 953, "text": "请回答以下问题:巴黎塞纳河的长度是多少？", "category": "open qa"}
+{"question_id": 954, "text": "请根据以下描述，推荐一些适合家庭游玩的旅游景点：我和我的家人想找一些可以一起游玩的旅游景点，最好是一些适合所有年龄段的景点。我们喜欢户外活动和美食，同时也希望能够了解当地的历史和文化。", "category": "brainstorming"}
+{"question_id": 955, "text": "请给出以下段落的概括：近期的研究表明，饮用绿茶可能有助于降低患心脏病的风险。绿茶中含有一种被称为儿茶素的多酚类化合物，其具有多种生物活性，包括抗氧化、抗炎和降血压等功效。此外，绿茶中的儿茶素还能帮助降低血清胆固醇和三酰甘油水平，从而改善血脂谱，并减少心血管疾病的发病风险。此外，研究还表明，饮用绿茶还可能对身体的其他方面有益，如增强免疫力、预防癌症、改善认知功能和保护神经系统等。因此，绿茶被认为是一种非常健康的饮料，可以作为日常饮食中的一部分，为身体提供多种健康益处。但是需要注意的是，绿茶也含有咖啡因，过量饮用可能会引起一些负面反应，如失眠、心悸、头痛等。所以，建议适量饮用绿茶，并根据个人体质和健康状况做出调整。", "category": "summarization"}
+{"question_id": 956, "text": "学校举办作业展览，把75本练习本摆成两行，第一行40本，第二行多少本?", "category": "math"}
+{"question_id": 957, "text": "请问“蓝瘦香菇”是什么意思？", "category": "open qa"}
+{"question_id": 958, "text": "有些松饼比蛋糕便宜，而有些蛋糕比面包贵，因此有些松饼比面包便宜。", "category": "open qa"}
+{"question_id": 959, "text": "请给以下这篇文章写一个标题。\n出国不仅仅是为了旅游，商贸的往来是相当重要的内容。还记着一个多月前，很多人还在过年，但各地到海外抢订单的商贸团就已经出发了。由于那个时候国际间的人员往来刚刚打通，航班很少，各地政府不得不组织企业用包飞机出国的方式抢订单。如今，一个多月过去了，包机组团等措施逐步退场，更多的行业和企业恢复了对外的正常商贸往来，但是面临的问题依然很多，比如航线数量不足、出行成本高等等", "category": "generation"}
+{"question_id": 960, "text": "回答以下问题:蓝鲸是哪个国家的动物？", "category": "open qa"}
+{"question_id": 961, "text": "请根据以下内容编辑一份英文邮件，让它更加礼貌和专业:Dear Sir/Madam, I want to complain about the poor service I received at your restaurant last night. The food was cold and tasted terrible. I demand a full refund.", "category": "generation"}
+{"question_id": 962, "text": "浓度为60%的糖水200克与浓度为30%的糖水200克混合．求混合之后糖水的浓度．", "category": "math"}
+{"question_id": 963, "text": "请根据以下条件重新编写以下句子:“他在游泳后感到疲倦，但仍然去打篮球了。”条件使用连词“因此”", "category": "rewrite"}
+{"question_id": 964, "text": "请将以下句子改写为更简单的语言: \"尽管他的财富富可敌国，但他的生活却深感荒芜、缺乏意义，此状势必让他陷入一片茫然之中。\"", "category": "rewrite"}
+{"question_id": 965, "text": "张阿姨的月工资是5400元，扣除3500元个税免征额后的部分需要按3%的税率缴纳个人所得税．她应缴纳个人所得税多少元？", "category": "math"}
+{"question_id": 966, "text": "2千克比5千克少百分之几？", "category": "math"}
+{"question_id": 967, "text": "一个月有多少天？", "category": "open qa"}
+{"question_id": 968, "text": "请根据以下文本，提取其中的关键词。\n在儿童发育的过程中，父母的陪伴和支持起到了至关重要的作用。在孩子的早期生命阶段，父母的关注和照顾可以帮助孩子建立起安全感和信任感，这是儿童发展中非常重要的一步。在孩子的幼儿园和小学阶段，父母的支持可以帮助孩子建立自尊和自信心，以及培养他们的学习兴趣和积极性。\n此外，父母的陪伴还能够提供孩子在日常生活中的指导和支持。在儿童的认知和语言能力不断发展的过程中，父母可以通过与孩子的互动和交流，帮助他们学习新知识、理解新概念，并且扩大他们的视野。\n同时，父母的陪伴还可以帮助孩子发展社交能力和情感管理能力。父母可以在孩子面对挫折和困难时提供支持和安慰，教导孩子如何处理情绪和与他人相处。\n总之，父母的陪伴和支持对于孩子的成长和发展至关重要。他们的支持不仅能够提供孩子在生理和心理上的需求，还能够帮助孩子建立健康的情感和社交基础，为他们的未来打下坚实的基础。", "category": "extract"}
+{"question_id": 969, "text": "提供以下英文句子的中文翻译:\"Life is like a box of chocolates, you never know what you're gonna get.\"", "category": "rewrite"}
+{"question_id": 970, "text": "下面这段代码有问题，你能找出来并修复吗？\\n```\\nvar num1 = 10;\\nvar num2 = \"5\";\\nvar answer = num1 + num2;\\nconsole.log(answer);\\n```", "category": "coding"}
+{"question_id": 971, "text": "大戏院门前的有一条圆柱子，外围周长是314厘米，这条柱子的横截面积是多少平方厘米?", "category": "math"}
+{"question_id": 972, "text": "请从以下选项中选择所有适用的选项:“以下哪些是蔬菜？”选项A. 土豆 B. 西红柿 C. 香蕉 D. 芹菜", "category": "closed qa"}
+{"question_id": 973, "text": "为什么大气层对地球生命至关重要？", "category": "open qa"}
+{"question_id": 974, "text": "请将下面这段文本进行改写，使得它更加流畅。我对这个问题非常感兴趣，我曾经做了一些研究。在我看来，这个问题非常重要，因为它涉及到我们的未来。", "category": "rewrite"}
+{"question_id": 975, "text": "请将以下文本进行翻译，从英文翻译成中文。:Brazil's history-making Olympian Jaqueline Mourao has shared her excitement of competing once again on the Olympic stage in Beijing, returning to the city where she previously appeared in mountain biking way back in 2008 as she now takes part in her eighth Games.", "category": "rewrite"}
+{"question_id": 976, "text": "每台车床4小时可以加工零件180个．照这样计算，5台车床加工600个零件要几小时？", "category": "math"}
+{"question_id": 977, "text": "编写一个函数square(x)，返回该数字的平方值。", "category": "coding"}
+{"question_id": 978, "text": "请根据以下描述，为用户推荐一部适合他们的电影:“用户喜欢喜剧片和爱情片，最近看了《大话西游》和《摆渡人》，希望推荐一部好看的电影。”", "category": "brainstorming"}
+{"question_id": 979, "text": "榨油厂240千克油菜籽能榨油100.8千克，照这样计算，若榨油210千克需油菜籽多少千克", "category": "math"}
+{"question_id": 980, "text": "将下文改为诗歌，莎士比亚的风格。我爱她，就像我爱这个世界，就像我爱生命。她是我的一切，没有她，我的生命就没有意义。", "category": "rewrite"}
+{"question_id": 981, "text": "请描述以下场景中人物的情感:“小明收到了一份意外的生日礼物，他感到非常高兴。”", "category": "open qa"}
+{"question_id": 982, "text": "在一个绝热的容器中，一份可压缩的气体被加热，其压力是否会增加？", "category": "open qa"}
+{"question_id": 983, "text": "水果店2千克苹果售价5元，3千克香蕉售价12元。妈妈打算苹果和香蕉各买6千克，应付多少钱", "category": "math"}
+{"question_id": 984, "text": "将以下文本进行编辑，删除第一段，将第二段复制到文本末尾:“自从上次我们见面以来，我一直在思考如何提高我的技能。\\n我决定学习一门新技能，以便更好地服务我的客户。”", "category": "rewrite"}
+{"question_id": 985, "text": "花店里上午运来560枝玫瑰，卖掉了368枝，又运来了208枝．现在花店里有多少枝玫瑰？", "category": "math"}
+{"question_id": 986, "text": "一群人排队买东西，售货员请了最后一个人出列，那么现在的倒数第二个人现在是最后一个人吗？", "category": "open qa"}
+{"question_id": 987, "text": "请为以下名人进行职业分类:王菲、李连杰、周星驰、蔡依林，分类为歌手、演员、导演", "category": "classification"}
+{"question_id": 988, "text": "笑笑家到学校有500米，他每天在家和学校之间往返2个来回，他每天行多少千米？", "category": "math"}
+{"question_id": 989, "text": "“神舟”6号飞船在太空中飞行了大约119小时，比“神舟”5号飞行的时间的5倍还多14小时，“神舟”5号飞船在太空中飞行了多少小时?", "category": "math"}
+{"question_id": 990, "text": "如果所有的鸟都会飞，你会不会推断所有不会飞的东西都不是鸟？", "category": "open qa"}
+{"question_id": 991, "text": "请编辑以下段落，加入更多的细节，让它更加生动有趣。\n昨天我去了公园。我在那里看到了两只小狗在玩耍。然后我去了湖边，看到了很多鸟飞过。最后我坐在长椅上，欣赏着大自然的美景。", "category": "rewrite"}
+{"question_id": 992, "text": "100张纸用20%后，又用了余下的20%，还剩多少张？", "category": "math"}
+{"question_id": 993, "text": "给以下句子加上适当的标点符号:他们正在等着你为晚餐做菜你却看电视！", "category": "rewrite"}
+{"question_id": 994, "text": "李叔叔喜欢骑自行车锻炼身体，每天要骑23千米的路程，3月份他骑了多少千米？", "category": "math"}
+{"question_id": 995, "text": "一台洗衣机450元，一台笔记本电脑比洗衣机的12倍还多375元。一台笔记本电脑卖多少元？", "category": "math"}
+{"question_id": 996, "text": "什么是代码结构？如何调整代码结构？", "category": "open qa"}
+{"question_id": 997, "text": "如果一头大象站在一张脆弱的椅子上，椅子会破裂吗？", "category": "open qa"}
+{"question_id": 998, "text": "请为这篇文章选择一个适当的标题：自然语言处理还可以将积压的病例自动批量转化为结构化数据库，机器学习和自然语言处理技术能自动抓取病历中的临床变量，生成标准化的数据库。随后变量抽提、思路生成到论文图表导出的全过程辅助智能算法能挖掘变量相关性，激发论文思路，同 时提供针对临床科研的专业统计分析支持。其水平相当于受过8 年临床医学教育的医学研究生，这样下来同样同读一篇50页的病历，抓取和理解其中的所有临床信息速度比医生平均快2700倍，大大地提高了医院的办公效率，求医难这个问题将得到很多的缓解。", "category": "summarization"}
+{"question_id": 999, "text": "如果细菌对抗生素产生了耐药性，那么为什么它们不能对所有抗生素都免疫？", "category": "open qa"}
+{"question_id": 1000, "text": "将以下文本翻译成英语:天空之城是一部由吉卜力工作室制作的动画电影，于1986年上映。", "category": "rewrite"}

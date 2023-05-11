@@ -1,0 +1,5 @@
+transformers==4.28.1
+accelerate
+sentencepiece
+shortuuid
+ray
