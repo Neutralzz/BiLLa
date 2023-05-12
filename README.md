@@ -36,9 +36,16 @@ python3 embedding_convert.py \
     --meta_llama_pth_file /path_to_LLaMA/llama-7b/consolidated.00.pth
 ```
 
-BiLLa-7B-SFT模型的使用可参考`eval_codes/get_model_answer.py`。
+BiLLa-7B-SFT模型的使用可参考`eval_codes/get_model_answer.py`，下面运行示例是获取该模型的生成结果（用于GPT4打分）：
+```shell
+python3 get_model_answer.py \
+    --model-path /path_to_BiLLa/BiLLa-7B-SFT \
+    --model-id billa \
+    --question-file table/question_en.jsonl \
+    --answer-file table/answer/answer_en_billa.jsonl
+```
 
-BiLLa-7B-SFT的模型输入可利用`eval_codes/conversation.py`构造，也可按以下格式自行构造（注意`Assistant:`后必须有一个空格）：
+BiLLa-7B-SFT的模型输入可利用`eval_codes/conversation.py`的`conv_billa`构造，也可按以下格式自行构造（注意`Assistant:`后<b>必须有一个空格</b>）：
 ```
 Human: [Your question]
 Assistant: 
@@ -158,7 +165,7 @@ for i in range(len(arr)):
 ## 模型局限性
 当前BiLLa模型未经RLHF训练，泛化性有待观望。
 
-BiLLa训练过程中使用了较多的任务型数据，建议减少常识类的、实时类的提问。
+BiLLa训练过程中使用了较多的任务型数据，建议减少常识类的、时事类的提问。
 
 BiLLa训练数据中包含了多轮对话摘要数据，但未直接包含多轮对话的生成数据，因此模型多轮对话能力可能较差。
 

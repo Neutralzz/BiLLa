@@ -176,9 +176,7 @@ def get_default_conv_template(model_name):
     return ret.copy()
 
 if __name__ == "__main__":
-    conv = conv_templates["vicuna_v1.1"].copy()
-    conv.append_message(conv.roles[0], "Hello!")
-    conv.append_message(conv.roles[1], "Hi!")
-    conv.append_message(conv.roles[0], "How are you?")
+    conv = conv_templates["billa"].copy()
+    conv.append_message(conv.roles[0], "Write a Python function that checks if a given number is even or odd.")
     conv.append_message(conv.roles[1], None)
-    print(conv.get_prompt())
+    print([conv.get_prompt()])
