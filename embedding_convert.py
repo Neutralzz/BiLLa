@@ -4,8 +4,8 @@ import argparse
 import math
 import time
 
-# EMBED_SUM = -3756.942626953125
-# EPS = 1e-4
+EMBED_SUM = -3756.942626953125
+EPS = 1e-4
 
 def main(args):
     model_state_dict = torch.load(os.path.join(args.model_dir, "pytorch_model-33-of-33.bin"))
@@ -22,8 +22,9 @@ def main(args):
 
     if args.method == "decrypt":
         embed_weight_1[:embed_weight_2.shape[0], ] -= embed_weight_2
-        # tmp = embed_weight_1.sum().item()
-        # assert math.fabs(tmp - EMBED_SUM) < EPS, f"The sum of weights ({tmp}) is wrong."
+        tmp = embed_weight_1.sum().item()
+        print(tmp)
+        assert math.fabs(tmp - EMBED_SUM) < EPS, f"The sum of weights ({tmp}) is wrong."
         embed_weight_1 = embed_weight_1.half()
     else:
         embed_weight_1[:embed_weight_2.shape[0], ] += embed_weight_2

@@ -9,7 +9,19 @@ BiLLa是开源的推理能力增强的中英双语LLaMA模型。模型的主要�
 - BiLLa-7B-SFT 中文推理能力显著优于 [BELLE-LLaMA-Ext-7B](https://github.com/LianjiaTech/BELLE) 等模型；
 - 由GPT4打分，BiLLa-7B-SFT 在英文指令上得分显著高于 [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B)，中文得分持平，但解题与代码得分更高。 
 
-欢迎开发者们使用BiLLa，更感谢开发者们协助全面评估BiLLa的各项能力！
+欢迎开发者们使用BiLLa，更感谢开发者们协助全面评估BiLLa的各项能力！使用时遇到问题可翻阅[FAQ](#faq)、[模型局限性](#模型局限性)与[issues](https://github.com/Neutralzz/BiLLa/issues) ~
+
+_作者10 10 6，深夜或周日不定期回答问题_
+
+## 更新记录
+
+<b>2023.5.21</b> BiLLa训练代码与训练数据公布！同时梳理了最近的问题，新增FAQ ~
+
+<b>2023.5.18</b> BiLLa具有视频理解能力啦！达摩院的同学发布[Video-LLaMA-BiLLA](https://github.com/DAMO-NLP-SG/Video-LLaMA)，感谢对BiLLa能力的认可~
+
+<b>2023.5.16</b> BiLLa-7B-SFT支持[FastChat](https://github.com/lm-sys/FastChat)，方便交互体验！同时加入[Chatbot Arena](https://lmsys.org/blog/2023-05-03-arena/)（瑟瑟发抖
+
+<b>2023.5.11</b> 发布BiLLa-7B-LLM、BiLLa-7B-SFT两模型，并提供测试代码。
 
 
 ## 模型简介
@@ -50,6 +62,9 @@ BiLLa-7B-SFT的模型输入可利用`eval_codes/conversation.py`的`conv_billa`�
 Human: [Your question]
 Assistant: 
 ```
+
+## 模型训练代码与数据
+[train_codes/README.md](https://github.com/Neutralzz/BiLLa/tree/main/train_codes)
 
 ## 模型评测
 
@@ -114,8 +129,9 @@ Assistant:
 
 | ​                          | LogiQA-v2​ |  C3-d​ |  C3-m​ |
 |----------------------------|:--------:|:-------:|:--------:|
-| [BELLE-LLaMA-Ext-7B](https://github.com/LianjiaTech/BELLE)​         	| 26.41​ | 29.52​ | ​28.87​ |
+| [BELLE-LLaMA-Ext-7B](https://github.com/LianjiaTech/BELLE)	| 26.41​ | 29.52​ | ​28.87​ |
 | [Linly-Chinese-LLaMA-7b-hf](https://github.com/CVI-SZU/Linly)​ | 25.91​ | 32.28​ | 34.52​ |
+| [Panda-Instruct-7B](https://github.com/dandelionsllm/pandallm) | 31.93 | 47.30 | 57.04 |
 | BiLLa-7B-SFT              | **32.74** | **56.08** | **64.69** |
 
 
@@ -160,7 +176,26 @@ for i in range(len(arr)):
 
 </details>
 
+## FAQ
+___Q1:___ 是否计划在SFT基础上继续RLHF？是否有计划训练发布13B或更大的模型？
 
+因个人工作原因，暂时都没法计划。如果有同学愿意继续训练并挂靠在BiLLa项目下，本人是非常乐意的。_（还有这等好事？）_
+
+___Q2:___ 为什么分三个阶段训练？对比二三阶段合并，效果会有差异吗？
+
+BiLLa工作之初，只是根据自己的认知、经验和实际资源情况独自走到现在，也没有去做消融实验去验证。分三个阶段去训练，完全是基于自身构想的目标。第一阶段强化中文语言建模和第三阶段SFT，这里大多数人都没有异议。对于第二阶段，我加入任务数据，更多的是希望模型可以成为更懂NLP理解逻辑、更擅长推理的底座。
+
+___Q3:___ 测试时生成结果奇怪
+
+`Assistant:`后面要加空格；不要用huggingface的`pipeline`。
+
+___Q4:___ 评测baseline是否不合理？
+
+欢迎补充评测！_（最好是在一个较大的评测集上，跟参数量差不多的模型一起对比~）_ 
+
+___Q5:___ 推理能力似乎一般？
+
+BiLLa目前也只有7B... _（你懂我意思吧）_ 目前和几个大厂和研究院的同学交流下来，给的反馈还是可以的，也都肯定了方向的正确性。不过局限性也如同一开始猜测的那样，常识类的、强知识类的、时事类的问题表现不行，更像是牺牲了模型原来内化的知识，来增强了推理能力。多轮能力表现一般。总结就是，不仅要模型参数量更大，在数据的选择上还要再下些功夫。
 
 ## 模型局限性
 当前BiLLa模型未经RLHF训练，泛化性有待观望。
