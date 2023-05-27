@@ -25,7 +25,7 @@
 - 以上代码仅支持单节点GPU机器运行，不支持多机多卡。
 - 各阶段训练代码的差异主要在内部`DataProcessor`类。
 - 运行环境和数据配置好后，各阶段训练均直接通过`torchrun --standalone --nproc_per_node=${NUM_GPU} xxx_main.py`执行。
-- 模型文件`llama/llama_model.py`是基于MetaAI官方代码改造的，非HF模型。如需在开源的BiLLa模型上继续训练，请参考[HF的转换代码](https://github.com/huggingface/transformers/blob/v4.28.1/src/transformers/models/llama/convert_llama_weights_to_hf.py)进行反向操作。
+- 模型文件`llama/llama_model.py`是基于MetaAI官方代码改造的，非HF模型。如需在开源的BiLLa模型上继续训练，请参考[HF的转换代码](https://github.com/huggingface/transformers/blob/v4.28.1/src/transformers/models/llama/convert_llama_weights_to_hf.py)进行反向操作（补充：`config.json`内`max_position_embeddings`需更名为`max_sequence_length`）。
 - 每阶段的训练数据都分成了不同的集合，方便在batch内进行配比。数据预先shuffle再存到文件，各集合下的文件数需大于等于GPU卡数。
 
 ## 训练数据
