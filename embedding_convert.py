@@ -18,7 +18,7 @@ def main(args):
     elif "tok_embeddings.weight" in meta_llama_state_dict:
         embed_weight_2 = meta_llama_state_dict["tok_embeddings.weight"].float()
     else:
-        raise ValueError(f"The weights of word embedding are not in the {meta_llama_pth_file}")
+        raise ValueError(f"The weights of word embedding are not in the {args.meta_llama_pth_file}")
 
     if args.method == "decrypt":
         embed_weight_1[:embed_weight_2.shape[0], ] -= embed_weight_2
