@@ -22,9 +22,10 @@ def main(args):
 
     if args.method == "decrypt":
         embed_weight_1[:embed_weight_2.shape[0], ] -= embed_weight_2
-        tmp = embed_weight_1.sum().item()
-        print(tmp)
-        assert math.fabs(tmp - EMBED_SUM) < EPS, f"The sum of weights ({tmp}) is wrong."
+        # The following `assert` only works for BiLLa-7B-SFT
+        # tmp = embed_weight_1.sum().item()
+        # print(tmp)
+        # assert math.fabs(tmp - EMBED_SUM) < EPS, f"The sum of weights ({tmp}) is wrong."
         embed_weight_1 = embed_weight_1.half()
     else:
         embed_weight_1[:embed_weight_2.shape[0], ] += embed_weight_2
